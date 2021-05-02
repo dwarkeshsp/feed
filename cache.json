@@ -300,47 +300,6 @@
       ]
     },
     {
-      "href": "http://feeds.feedburner.com/PaulGrahamUnofficialRssFeed",
-      "articles": [
-        {
-          "description": "\"Now, thanks to the internet, there's a path. Anyone can publish essays online. You start in obscurity, perhaps, but at least you can start. You don't need anyone's permission.\"",
-          "link": "http://feedproxy.google.com/~r/PaulGrahamUnofficialRssFeed/~3/4a5mb53elIM/useful.html",
-          "publishedOn": "2021-05-02T01:06:15.848Z",
-          "wordCount": 2821,
-          "sourceHref": "http://feeds.feedburner.com/PaulGrahamUnofficialRssFeed",
-          "sourceTitle": "Paul Graham: Unofficial RSS Feed",
-          "title": "How to Write Usefully"
-        },
-        {
-          "description": "\"Haters are just fanboys with the sign bit flipped.\"",
-          "link": "http://feedproxy.google.com/~r/PaulGrahamUnofficialRssFeed/~3/6SlfEB7MgZw/fh.html",
-          "publishedOn": "2021-05-02T01:06:15.615Z",
-          "wordCount": 1372,
-          "sourceHref": "http://feeds.feedburner.com/PaulGrahamUnofficialRssFeed",
-          "sourceTitle": "Paul Graham: Unofficial RSS Feed",
-          "title": "Haters"
-        },
-        {
-          "description": "\"An epidemic is different. It falsifies your predictions rapidly and unequivocally. ... [T]his is the most accurate test of credibility we're ever likely to have. I hope.\"",
-          "link": "http://feedproxy.google.com/~r/PaulGrahamUnofficialRssFeed/~3/4Cl3jb9mbJw/cred.html",
-          "publishedOn": "2021-05-02T01:06:15.498Z",
-          "wordCount": 239,
-          "sourceHref": "http://feeds.feedburner.com/PaulGrahamUnofficialRssFeed",
-          "sourceTitle": "Paul Graham: Unofficial RSS Feed",
-          "title": "Coronavirus and Credibility"
-        },
-        {
-          "description": "\"Though it feels unpleasant, and people will sometimes ridicule you for it, the more you feel like a noob, the better..\"",
-          "link": "http://feedproxy.google.com/~r/PaulGrahamUnofficialRssFeed/~3/3dj48Wa6dA8/noob.html",
-          "publishedOn": "2021-05-02T01:06:15.495Z",
-          "wordCount": 378,
-          "sourceHref": "http://feeds.feedburner.com/PaulGrahamUnofficialRssFeed",
-          "sourceTitle": "Paul Graham: Unofficial RSS Feed",
-          "title": "Being a Noob"
-        }
-      ]
-    },
-    {
       "href": "https://dormin.org/feed/",
       "articles": []
     },
