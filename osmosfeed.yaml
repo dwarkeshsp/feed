@@ -1,5 +1,21 @@
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://applieddivinitystudies.com/atom.xml
+  - href: https://astralcodexten.substack.com/feed/
+  - href: http://scholars-stage.blogspot.com/feeds/posts/default
+  - href: https://fakenous.net/?feed=rss2
+  - href: https://nintil.com/rss.xml
+  - href: https://fantasticanachronism.com/atom.xml
+  - href: http://www.aaronsw.com/2002/feeds/pgessays.rss
+  - href: https://dormin.org/feed/
+  - href: https://www.benkuhn.net/index.xml
+  - href: https://graymirror.substack.com/feed/
+  - href: https://douthat.substack.com/feed/
+  - href: http://www.overcomingbias.com/feed
+  - href: https://www.forourposterity.com/rss/
+  - href: http://putanumonit.com/feed/
+  - href: https://www.econlib.org/author/bcaplan/feed/
+  - href: https://gwern.substack.com/feed/
+  - href: http://scottaaronson.com/blog/?feed=rss2
+  - href: https://rootsofprogress.org/feed.xml
+  - href: http://slatestarcodex.com/feed/
