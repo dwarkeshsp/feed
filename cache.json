@@ -1,442 +1,2569 @@
 {
   "sources": [
     {
-      "href": "https://css-tricks.com/feed/",
+      "href": "https://applieddivinitystudies.com/atom.xml",
       "articles": [
         {
-          "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
-          "publishedOn": "2021-04-30T21:51:08.000Z",
-          "wordCount": 677,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Safari 14.1 Adds Support for Flexbox Gaps"
+          "description": "As a rule, autobiographies are horrid.\nPeople should not be trusted with writing their own legacy. Certainly, not after they’ve aged into has-beens reminiscing on the glories of their youth. [1]\nJordan Mechner’s The Making of Prince of Persia avoids this trap by being written in real time. It is not a polished accounting, but merely his diary from the time he spent working on Prince of Persia, starting with his college graduation, and concluding 4 years later.\nIt’s also flat out the best biography I’ve ever…",
+          "link": "https://applieddivinitystudies.com/prince-of-persia/",
+          "publishedOn": "2021-04-16T00:00:00.000Z",
+          "wordCount": 1340,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Book Review: The Making of Prince of Persia"
         },
         {
-          "description": "Jim Nielsen quoting Eric Bailey:\nHe references an example on Twitter where someone noted you can use the &#60;details&#62; element to “create a native HTML accordion,” to which someone responded: “this works without Bootstrap? &#x1f92f;”\nWhat’s the problem here? From \n&#8230;\nThe post Web Languages as Compile Targets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blog.jim-nielsen.com/2021/web-languages-as-compile-targets/",
-          "publishedOn": "2021-04-30T18:05:37.000Z",
-          "wordCount": 798,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Web Languages as Compile Targets"
-        },
-        {
-          "description": "Jenny B Kowalski has been posting a-letter-a-day on Instagram exploring multi-axis variable/responsive letterforms. They are very clever in that one of the axes controls an uppercase-to-lowercase conversion, literally morphing the shape of the letters from an uppercase version to a &#8230;\nThe post Jenny B Kowalski&#8217;s A-Z (and a-z) as Variable Letterforms appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jenny-b-kowalskis-a-z-and-a-z-as-variable-letterforms/",
-          "publishedOn": "2021-04-30T16:02:53.000Z",
-          "wordCount": 422,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Jenny B Kowalski’s A-Z (and a-z) as Variable Letterforms"
-        },
-        {
-          "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
-          "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 1856,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "You Can Label a JavaScript `if` Statement"
-        },
-        {
-          "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/sending-large-files/",
-          "publishedOn": "2021-04-29T17:52:55.000Z",
-          "wordCount": 1649,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Sending Large Files"
-        },
-        {
-          "description": "Raygun is an error and performance monitoring software for websites and mobile apps. In the case of websites, you install their JavaScript snippet onto your site, which takes 2 seconds, and now you&#8217;ve got monitoring in place. Why? Well now &#8230;\nThe post How to Monitor Core Web Vitals and Take Action with Raygun appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-monitor-core-web-vitals-and-take-action-with-raygun/",
-          "publishedOn": "2021-04-29T17:50:39.000Z",
-          "wordCount": 764,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Monitor Core Web Vitals and Take Action with Raygun"
-        },
-        {
-          "description": "Lists—we’ve all worked with them in one form or another. I’m talking about HTML’s &#60;ol&#62; and &#60;ul&#62;. Much of the time, because we desire styling control, we turn off the list’s markers completely with list-style-type: none, and start &#8230;\nThe post List Markers and String Styles appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/list-markers-and-string-styles/",
-          "publishedOn": "2021-04-29T14:32:41.000Z",
-          "wordCount": 1012,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "List Markers and String Styles"
-        },
-        {
-          "description": "This post was written for engineering managers, but anyone is welcome to read it.\nLet’s talk for a moment about how we talk about our teams. This might not seem like something that needs a whole article dedicated to it, &#8230;\nThe post Your Team is Not &#8220;Them&#8221; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/your-team-is-not-them/",
-          "publishedOn": "2021-04-28T19:35:32.000Z",
-          "wordCount": 1883,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Your Team is Not “Them”"
-        },
-        {
-          "description": "Click, drag, release: you’ve just selected some text on a webpage — probably to copy and paste it somewhere or to share it. Wouldn&#8217;t it be cool if selecting that text revealed some options that make those tasks easier? That’s &#8230;\nThe post How to Create Actions for Selected Text With the Selection API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/",
-          "publishedOn": "2021-04-28T14:19:54.000Z",
-          "wordCount": 1514,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Create Actions for Selected Text With the Selection API"
-        },
-        {
-          "description": "I was just Hoping for Better Native Page&#160;Transitions, and Bramus commented that Chrome is working on something. Looks like it has some fresh enthusiasm for it, as there is a brand new repo, and you can literally test &#8230;\nThe post Shared Element Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/shared-element-transitions/",
-          "publishedOn": "2021-04-27T20:12:04.000Z",
-          "wordCount": 1092,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Shared Element Transitions"
-        },
-        {
-          "description": "Everything important and useful to know about CSS Custom Properties. Like that they are often referred to as \"CSS Variables\" but that's not their real name.\nThe post A Complete Guide to Custom Properties appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-complete-guide-to-custom-properties/",
-          "publishedOn": "2021-04-27T14:26:16.000Z",
-          "wordCount": 5544,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "A Complete Guide to Custom Properties"
-        },
-        {
-          "description": "I saw in the release notes for Safari Technical Preview 122 that it has support for a color-contrast() function in CSS. Safari is first out of the gate here. As far as I know, no other browser supports this yet &#8230;\nThe post Exploring color-contrast() for the First Time appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-color-contrast-for-the-first-time/",
-          "publishedOn": "2021-04-26T21:02:49.000Z",
-          "wordCount": 1031,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Exploring color-contrast() for the First Time"
-        },
-        {
-          "description": "I love to make CSS do stuff it shouldn’t. It’s the type of problem-solving brain training you’d get building a calculator in Minecraft, except you probably won’t get a job working with Minecraft Redstone no matter how good you &#8230;\nThe post Generating (and Solving!) Sudokus in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/generating-and-solving-sudokus-in-css/",
-          "publishedOn": "2021-04-26T14:05:00.000Z",
-          "wordCount": 5071,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Generating (and Solving!) Sudokus in CSS"
-        },
-        {
-          "description": "Robert Nyman and Philip Jägenstedt:\nGoogle is working with other browser vendors and industry partners to fix the top five browser compatibility pain points for web developers. The areas of focus are CSS Flexbox, CSS Grid,&#160;position: sticky,&#160;\n&#8230;\nThe post Eliminating five top compatibility pain points on the web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/compat2021/",
-          "publishedOn": "2021-04-23T20:55:19.000Z",
-          "wordCount": 1181,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Eliminating five top compatibility pain points on the web"
-        },
-        {
-          "description": "In my previous article, I discussed how I learned to create a decoupled WordPress powered Gatsby site using the Gatsby Source WPGraphQL plugin. The project was done following the ongoing developmental version of WPGraphQL and an excellent tutorial by Henrik &#8230;\nThe post Using New Gatsby Source WordPress Plugin appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-new-gatsby-source-wordpress-plugin/",
-          "publishedOn": "2021-04-23T14:03:18.000Z",
-          "wordCount": 6095,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Using New Gatsby Source WordPress Plugin"
+          "description": "Sorry for yet another low-effort post. I’ve been working on 30 pages on Very Serious Writing in the background, which I hope is ready to share soon. If you’re especially eager for more content, email me and I’ll be happy to share a draft.\nIn the meantime, I’m shocked and excited to have been selected as part of the Fantasy Intellectual Draft.\nHere is the announcement post, and here is a site where you can view the current scores. This runs from now through June 30th.\nAs a participant, I’m not supposed to co…",
+          "link": "https://applieddivinitystudies.com/fantasy-draft/",
+          "publishedOn": "2021-04-03T07:00:00.000Z",
+          "wordCount": 1228,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "My Fantasy Intellectual Draft Picks"
         }
       ]
     },
     {
-      "href": "https://www.smashingmagazine.com/feed/",
+      "href": "https://astralcodexten.substack.com/feed/",
       "articles": [
         {
-          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
-          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "May Is In The Air (2021 Wallpapers Edition)"
+          "description": "Finalist #7 of the book review contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-the-wizard-and-the",
+          "publishedOn": "2021-04-30T16:27:55.000Z",
+          "wordCount": 5897,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Your Book Review: The Wizard And The Prophet"
         },
         {
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5289,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "The Humble `<img>` Element And Core Web Vitals"
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/hidden-open-thread-1695",
+          "publishedOn": "2021-04-30T16:27:36.000Z",
+          "wordCount": 116,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Hidden Open Thread 169.5"
         },
         {
-          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
-          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2136,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
+          "description": "Finalist #6 of the book review contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-double-fold",
+          "publishedOn": "2021-04-30T00:04:29.000Z",
+          "wordCount": 7047,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Your Book Review: Double Fold"
         },
         {
-          "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
-          "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 2623,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Understanding Easing Functions For CSS Animations And Transitions"
+          "description": "852 people put weird chemicals in their bodies and tell me the results.",
+          "link": "https://astralcodexten.substack.com/p/nootropics-survey-2020-results",
+          "publishedOn": "2021-04-28T18:57:38.000Z",
+          "wordCount": 1924,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Nootropics Survey 2020 Results"
         },
         {
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
+          "description": "To the tune of the prologue to Les Mis&#233;rables",
+          "link": "https://astralcodexten.substack.com/p/verses-written-on-the-occasion-of",
+          "publishedOn": "2021-04-27T17:28:44.000Z",
+          "wordCount": 443,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Verses Written On The Occasion Of Getting The COVID Vaccine"
         },
         {
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2431,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/mantic-monday-predictions-for-2021",
+          "publishedOn": "2021-04-26T23:12:17.000Z",
+          "wordCount": 1136,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Mantic Monday: Predictions For 2021"
         },
         {
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-169",
+          "publishedOn": "2021-04-25T21:56:38.000Z",
+          "wordCount": 633,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Open Thread 169"
         },
         {
-          "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
-          "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "publishedOn": "2021-04-21T13:55:00.000Z",
-          "wordCount": 1929,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
+          "description": "Finalist #5 of the book review contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-why-buddhism-is",
+          "publishedOn": "2021-04-23T20:28:00.000Z",
+          "wordCount": 4590,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Your Book Review: Why Buddhism Is True"
         },
         {
-          "description": "As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.",
-          "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "publishedOn": "2021-04-21T08:30:00.000Z",
-          "wordCount": 2998,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
+          "description": "Finalist #4 of the book review contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-are-we-smart-enough",
+          "publishedOn": "2021-04-22T19:56:37.000Z",
+          "wordCount": 5547,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Your Book Review: Are We Smart Enough To Know How Smart Animals Are?"
         },
         {
-          "description": "Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.",
-          "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "publishedOn": "2021-04-20T09:00:00.000Z",
-          "wordCount": 3482,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Making GraphQL Work In WordPress"
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/hidden-open-thread-1685",
+          "publishedOn": "2021-04-21T23:53:45.000Z",
+          "wordCount": 116,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Hidden Open Thread 168.5"
         },
         {
-          "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "publishedOn": "2021-04-19T08:30:00.000Z",
-          "wordCount": 7206,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "An In-Depth Guide To Measuring Core Web Vitals"
+          "description": "Review and commentary on Robert Allen's \"Global Economic History: A Very Short Introduction\"",
+          "link": "https://astralcodexten.substack.com/p/book-review-global-economic-history",
+          "publishedOn": "2021-04-21T20:43:02.000Z",
+          "wordCount": 2994,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Book Review: Global Economic History"
         },
         {
-          "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
-          "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "publishedOn": "2021-04-16T09:00:00.000Z",
-          "wordCount": 2912,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Seven Mistakes To Avoid In Your Technical Interviews"
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/no-really-why-are-so-many-christians",
+          "publishedOn": "2021-04-21T00:27:50.000Z",
+          "wordCount": 3448,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "No, Really, Why Are So Many Christians In Colombia Converting To Orthodox Judaism?"
         },
         {
-          "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "publishedOn": "2021-04-15T11:00:00.000Z",
-          "wordCount": 3522,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "How To Get Web Design Clients Fast (Part 2)"
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/mantic-monday-grading-my-trump-predictions",
+          "publishedOn": "2021-04-19T19:16:56.000Z",
+          "wordCount": 8942,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Mantic Monday: Grading My Trump Predictions"
         },
         {
-          "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
-          "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "publishedOn": "2021-04-15T10:30:00.000Z",
-          "wordCount": 967,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "From Cats With Love: New Navigation, Guides And Workshops"
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-168",
+          "publishedOn": "2021-04-19T00:25:09.000Z",
+          "wordCount": 727,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Open Thread 168"
         },
         {
-          "description": "In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.",
-          "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
-          "publishedOn": "2021-04-14T11:00:00.000Z",
-          "wordCount": 1917,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Overflow Issues In CSS"
+          "description": "Things I found looking for a preview image for the recent George book review",
+          "link": "https://astralcodexten.substack.com/p/georgist-cartoons-of-the-late-19thearly",
+          "publishedOn": "2021-04-17T18:40:12.000Z",
+          "wordCount": 137,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Georgist Cartoons Of The Late 19th/Early 20th Century"
         },
         {
-          "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
-          "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-          "publishedOn": "2021-04-13T14:00:00.000Z",
-          "wordCount": 3154,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/hidden-open-thread-1675",
+          "publishedOn": "2021-04-16T23:04:47.000Z",
+          "wordCount": 116,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Hidden Open Thread 167.5"
         },
         {
-          "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
-          "publishedOn": "2021-04-12T12:30:00.000Z",
-          "wordCount": 2965,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Complete Guide To HTML Email"
+          "description": "Finalist #3 of the book review contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty",
+          "publishedOn": "2021-04-16T04:21:15.000Z",
+          "wordCount": 18063,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Your Book Review: Progress And Poverty"
         },
         {
-          "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
-          "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
-          "publishedOn": "2021-04-09T19:30:00.000Z",
-          "wordCount": 5988,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
+          "description": "A look at Pr&#243;spera, the charter city taking shape in Honduras",
+          "link": "https://astralcodexten.substack.com/p/prospectus-on-prospera",
+          "publishedOn": "2021-04-14T20:55:32.000Z",
+          "wordCount": 11496,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Prospectus On Pr&#243;spera"
         },
         {
-          "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
-          "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
-          "publishedOn": "2021-04-08T11:00:00.000Z",
-          "wordCount": 1858,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Better Documentation And Team Communication With Product Design Docs"
+          "description": "P(A|B) = [P(A)*P(B|A)]/P(B), all the rest is commentary.",
+          "link": "https://astralcodexten.substack.com/p/link-unifying-predictive-coding-with",
+          "publishedOn": "2021-04-14T08:02:18.000Z",
+          "wordCount": 605,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "[LINK] Unifying Predictive Coding With Backpropagation"
         },
         {
-          "description": "Unreliable tests are a living nightmare for anyone who writes automated tests or pays attention to the results. Flaky tests have even given folks nightmares and sleepless nights. In this article, Ramona Schwering shares her experiences to help you get out of this hell or avoid getting into it.",
-          "link": "https://smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
-          "publishedOn": "2021-04-07T11:00:00.000Z",
-          "wordCount": 4049,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing"
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/links-for-april",
+          "publishedOn": "2021-04-12T20:43:09.000Z",
+          "wordCount": 2123,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Links For April"
+        }
+      ]
+    },
+    {
+      "href": "http://scholars-stage.blogspot.com/feeds/posts/default",
+      "articles": [
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/04/the-problem-of-new-right.html",
+          "publishedOn": "2021-04-24T22:18:00.037Z",
+          "wordCount": 12018,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "The Problem of the New Right"
         },
         {
-          "description": "With many options comes many decisions, and it is easy to drown in all the many benefits of  headless CMS. How do we approach evaluating these options? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/evaluating-headless/",
-          "publishedOn": "2021-04-06T16:10:00.000Z",
-          "wordCount": 4083,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Don’t Lose Your Head: Evaluating Headless"
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/04/for-god-and-progress-notes-on-liberal.html",
+          "publishedOn": "2021-04-12T15:10:00.007Z",
+          "wordCount": 6736,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "For God and Progress: Notes On Training the Medical Mind"
+        }
+      ]
+    },
+    {
+      "href": "https://fakenous.net/?feed=rss2",
+      "articles": [
+        {
+          "description": "“The truth is rarely pure and never simple.” &#8211;Oscar Wilde The insane extremists are winning the debate about global warming. Whatever your view of global warming, you probably agree with me about that. You probably also think the crazy extremists are the people on the opposite side from yourself – the people on the left &#8230; Continue reading Subtle Truths, 2: Global Warming",
+          "link": "https://fakenous.net/?p=2262",
+          "publishedOn": "2021-05-01T15:00:00.000Z",
+          "wordCount": 2735,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "Subtle Truths, 2: Global Warming"
         },
         {
-          "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
-          "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
-          "publishedOn": "2021-04-05T10:30:00.000Z",
+          "description": "“The truth is rarely pure and never simple.” &#8211;Oscar Wilde Two lessons that we all need to have drummed into our heads as part of critical thinking training: I. A ton of the information you’ve heard about contemporary issues is bogus – outright false, cherry-picked, distorted, or otherwise severely misleading. (I’m sure you already know &#8230; Continue reading Subtle Truths, I: Police Violence",
+          "link": "https://fakenous.net/?p=2271",
+          "publishedOn": "2021-04-24T15:00:00.000Z",
+          "wordCount": 4105,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "Subtle Truths, I: Police Violence"
+        },
+        {
+          "description": "(I) Here is something I worry about: https://washingtonmonthly.com/magazine/maraprmay-2016/why-is-marriage-thriving-among-and-only-among-the-affluent/ It seems that marriage is drastically declining in our society. E.g., 41% of babies are born to unwed mothers. Q: Why did this happen? It looks like we don’t really know. You might think it’s because the “incentives” to marry have declined – there is less stigma &#8230; Continue reading Marriage &#038; Testosterone Levels",
+          "link": "https://fakenous.net/?p=2255",
+          "publishedOn": "2021-04-17T15:00:00.000Z",
+          "wordCount": 4043,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "Marriage & Testosterone Levels"
+        },
+        {
+          "description": "Popular question: How much of human behavior is explained by biology (“nature”) and how much is due to upbringing/culture/environment (“nurture”)? Popular answer: “Everything interesting is due to nurture! Biology tells us almost nothing of any import about human behavior. In particular, none or almost none of the variation in behavioral traits among humans has anything &#8230; Continue reading In Defense of Nature",
+          "link": "https://fakenous.net/?p=2223",
+          "publishedOn": "2021-04-10T15:00:00.000Z",
+          "wordCount": 5173,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "In Defense of Nature"
+        },
+        {
+          "description": "I have a new book!: https://www.amazon.com/dp/B091F5QTDS/ So I’m going to talk about the book, and then about my publishing experience, because this is my first self-published book. Detailed contents, preface, and chapters 1 + 5 are posted on my web site (https://spot.colorado.edu/~huemer/, &#8220;Research&#8221; &#8211;&#62; &#8220;Books&#8221;). Hardcover version from Barnes &#38; Noble (because Amazon doesn&#8217;t make &#8230; Continue reading My New Book!",
+          "link": "https://fakenous.net/?p=2240",
+          "publishedOn": "2021-04-03T15:00:00.000Z",
+          "wordCount": 2719,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "My New Book!"
+        }
+      ]
+    },
+    {
+      "href": "https://nintil.com/rss.xml",
+      "articles": []
+    },
+    {
+      "href": "https://fantasticanachronism.com/atom.xml",
+      "articles": [
+        {
+          "description": "When I begun my journey with Gibbon I knew two things: that he was one of the great stylists of the English language, and that he had a silly monocausal theory blaming Christianity for the fall of the Roman Empire.\nOnly one of those is true.\n\nGeneral Remarks\n\nIn the conduct of those monarchs we may trace the utmost lines of vice and virtue; the most exalted perfection and the meanest degeneracy of our own species.\n\nLike the Iliad, like the pyramids, the Decline and Fall has an air of unreality. Even after e…",
+          "link": "https://fantasticanachronism.com/2021/04/28/book-review-the-decline-and-fall-of-the-roman-empire/",
+          "publishedOn": "2021-04-28T14:56:10.000Z",
+          "wordCount": 8879,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Book Review: The Decline and Fall of the Roman Empire"
+        }
+      ]
+    },
+    {
+      "href": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+      "articles": [
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/https://sep.yimg.com/ty/cdn/paulgraham/acl1.txt?t=1619607125&",
+          "publishedOn": "2021-05-02T01:04:10.605Z",
+          "wordCount": null,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Chapter 1 of Ansi Common Lisp"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/https://sep.yimg.com/ty/cdn/paulgraham/acl2.txt?t=1619607125&",
+          "publishedOn": "2021-05-02T01:04:10.605Z",
+          "wordCount": null,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Chapter 2 of Ansi Common Lisp"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/popular.html",
+          "publishedOn": "2021-05-02T01:04:06.999Z",
+          "wordCount": 7480,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Being Popular"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/rootsoflisp.html",
+          "publishedOn": "2021-05-02T01:04:06.988Z",
+          "wordCount": 371,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Roots of Lisp"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/langdes.html",
+          "publishedOn": "2021-05-02T01:04:06.984Z",
+          "wordCount": 2883,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Five Questions about Language Design"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/road.html",
+          "publishedOn": "2021-05-02T01:04:06.978Z",
+          "wordCount": 11824,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Other Road Ahead"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/prop62.html",
+          "publishedOn": "2021-05-02T01:04:06.902Z",
+          "wordCount": 191,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "This Year We Can End the Death Penalty in California"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/progbot.html",
+          "publishedOn": "2021-05-02T01:04:06.901Z",
+          "wordCount": 927,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Programming Bottom-Up"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/javacover.html",
+          "publishedOn": "2021-05-02T01:04:06.898Z",
+          "wordCount": 1358,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Java's Cover"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/avg.html",
+          "publishedOn": "2021-05-02T01:04:06.879Z",
+          "wordCount": 4426,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Beating the Averages"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/lwba.html",
+          "publishedOn": "2021-05-02T01:04:06.869Z",
+          "wordCount": 63,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Lisp for Web-Based Applications"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/divergence.html",
+          "publishedOn": "2021-05-02T01:04:06.745Z",
+          "wordCount": 1344,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Could VC be a Casualty of the Recession?"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/startupfunding.html",
+          "publishedOn": "2021-05-02T01:04:06.729Z",
+          "wordCount": 8797,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Fund a Startup"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/heroes.html",
+          "publishedOn": "2021-05-02T01:04:06.717Z",
+          "wordCount": 2655,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Some Heroes"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/wealth.html",
+          "publishedOn": "2021-05-02T01:04:06.712Z",
+          "wordCount": 8830,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Make Wealth"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/gh.html",
+          "publishedOn": "2021-05-02T01:04:06.700Z",
+          "wordCount": 5174,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Great Hackers"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ycombinator.html",
+          "publishedOn": "2021-05-02T01:04:06.679Z",
+          "wordCount": 1967,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "A New Venture Animal"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/opensource.html",
+          "publishedOn": "2021-05-02T01:04:06.676Z",
+          "wordCount": 4287,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What Business Can Learn from Open Source"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/fix.html",
+          "publishedOn": "2021-05-02T01:04:06.668Z",
+          "wordCount": 201,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What Languages Fix"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/procrastination.html",
+          "publishedOn": "2021-05-02T01:04:06.666Z",
+          "wordCount": 1786,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Good and Bad Procrastination"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/13sentences.html",
+          "publishedOn": "2021-05-02T01:04:06.662Z",
+          "wordCount": 1299,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Startups in 13 Sentences"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/mac.html",
+          "publishedOn": "2021-05-02T01:04:06.658Z",
+          "wordCount": 994,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Return of the Mac"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/die.html",
+          "publishedOn": "2021-05-02T01:04:06.655Z",
+          "wordCount": 1952,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How Not to Die"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/highres.html",
+          "publishedOn": "2021-05-02T01:04:06.651Z",
+          "wordCount": 1499,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The High-Res Society"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/icad.html",
+          "publishedOn": "2021-05-02T01:04:06.647Z",
+          "wordCount": 5760,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Revenge of the Nerds"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/head.html",
+          "publishedOn": "2021-05-02T01:04:06.625Z",
+          "wordCount": 1831,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Holding a Program in One's Head"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ladder.html",
+          "publishedOn": "2021-05-02T01:04:06.620Z",
+          "wordCount": 582,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "After the Ladder"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/submarine.html",
+          "publishedOn": "2021-05-02T01:04:06.616Z",
+          "wordCount": 2336,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Submarine"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/nerds.html",
+          "publishedOn": "2021-05-02T01:04:06.610Z",
+          "wordCount": 5634,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why Nerds are Unpopular"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/copy.html",
+          "publishedOn": "2021-05-02T01:04:06.601Z",
+          "wordCount": 932,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Copy What You Like"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/gap.html",
+          "publishedOn": "2021-05-02T01:04:06.598Z",
+          "wordCount": 5598,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Mind the Gap"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/island.html",
+          "publishedOn": "2021-05-02T01:04:06.589Z",
+          "wordCount": 748,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Island Test"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/startupmistakes.html",
+          "publishedOn": "2021-05-02T01:04:06.586Z",
+          "wordCount": 5502,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The 18 Mistakes That Kill Startups"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/future.html",
+          "publishedOn": "2021-05-02T01:04:06.563Z",
+          "wordCount": 3817,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Future of Startup Funding"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/iflisp.html",
+          "publishedOn": "2021-05-02T01:04:06.555Z",
+          "wordCount": 418,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "If Lisp is So Great"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/diff.html",
+          "publishedOn": "2021-05-02T01:04:06.552Z",
+          "wordCount": 688,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What Made Lisp Different"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/inequality.html",
+          "publishedOn": "2021-05-02T01:04:06.549Z",
+          "wordCount": 2789,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Inequality and Risk"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/gba.html",
+          "publishedOn": "2021-05-02T01:04:06.544Z",
+          "wordCount": 1925,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Word \"Hacker\""
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/bronze.html",
+          "publishedOn": "2021-05-02T01:04:06.539Z",
+          "wordCount": 3133,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why Smart People Have Bad Ideas"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/start.html",
+          "publishedOn": "2021-05-02T01:04:06.532Z",
+          "wordCount": 9622,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Start a Startup"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/hp.html",
+          "publishedOn": "2021-05-02T01:04:06.508Z",
+          "wordCount": 5536,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Hackers and Painters"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/microsoft.html",
+          "publishedOn": "2021-05-02T01:04:06.500Z",
+          "wordCount": 1273,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Microsoft is Dead"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/newthings.html",
+          "publishedOn": "2021-05-02T01:04:06.496Z",
+          "wordCount": 1159,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Six Principles for Making New Things"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/siliconvalley.html",
+          "publishedOn": "2021-05-02T01:04:06.494Z",
+          "wordCount": 3565,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Be Silicon Valley"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/wisdom.html",
+          "publishedOn": "2021-05-02T01:04:06.486Z",
+          "wordCount": 3686,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Is It Worth Being Wise?"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/polls.html",
+          "publishedOn": "2021-05-02T01:04:06.469Z",
+          "wordCount": 628,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Bradley's Ghost"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/better.html",
+          "publishedOn": "2021-05-02T01:04:06.467Z",
+          "wordCount": 4257,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Better Bayesian Filtering"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/hiring.html",
+          "publishedOn": "2021-05-02T01:04:06.459Z",
+          "wordCount": 4715,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Hiring is Obsolete"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/say.html",
+          "publishedOn": "2021-05-02T01:04:06.451Z",
+          "wordCount": 5369,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What You Can't Say"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/softwarepatents.html",
+          "publishedOn": "2021-05-02T01:04:06.439Z",
+          "wordCount": 4590,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Are Software Patents Evil?"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/pypar.html",
+          "publishedOn": "2021-05-02T01:04:06.432Z",
+          "wordCount": 468,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Python Paradox"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/essay.html",
+          "publishedOn": "2021-05-02T01:04:06.418Z",
+          "wordCount": 4470,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Age of the Essay"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/addiction.html",
+          "publishedOn": "2021-05-02T01:04:06.410Z",
+          "wordCount": 1255,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Acceleration of Addictiveness"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/power.html",
+          "publishedOn": "2021-05-02T01:04:06.407Z",
+          "wordCount": 2980,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Succinctness is Power"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/judgement.html",
+          "publishedOn": "2021-05-02T01:04:06.400Z",
+          "wordCount": 738,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Two Kinds of Judgement"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/distraction.html",
+          "publishedOn": "2021-05-02T01:04:06.398Z",
+          "wordCount": 1137,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Disconnecting Distraction"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/publishing.html",
+          "publishedOn": "2021-05-02T01:04:06.392Z",
+          "wordCount": 1741,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Post-Medium Publishing"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/notnot.html",
+          "publishedOn": "2021-05-02T01:04:06.389Z",
+          "wordCount": 6184,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why to Not Not Start a Startup"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/bubble.html",
+          "publishedOn": "2021-05-02T01:04:06.379Z",
+          "wordCount": 3665,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What the Bubble Got Right"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/guidetoinvestors.html",
+          "publishedOn": "2021-05-02T01:04:06.362Z",
+          "wordCount": 6130,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Hacker's Guide to Investors"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/re.html",
+          "publishedOn": "2021-05-02T01:04:06.354Z",
+          "wordCount": 7087,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Refragmentation"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/spam.html",
+          "publishedOn": "2021-05-02T01:04:06.343Z",
+          "wordCount": 5271,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "A Plan for Spam"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/maybe.html",
+          "publishedOn": "2021-05-02T01:04:06.333Z",
+          "wordCount": 1880,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Can You Buy a Silicon Valley?  Maybe."
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/sfp.html",
+          "publishedOn": "2021-05-02T01:04:06.330Z",
+          "wordCount": 2529,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What I Did this Summer"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/colleges.html",
+          "publishedOn": "2021-05-02T01:04:06.313Z",
+          "wordCount": 2193,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "News from the Front"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/philosophy.html",
+          "publishedOn": "2021-05-02T01:04:06.308Z",
+          "wordCount": 4645,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Do Philosophy"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/equity.html",
+          "publishedOn": "2021-05-02T01:04:06.301Z",
+          "wordCount": 1114,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Equity Equation"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/googles.html",
+          "publishedOn": "2021-05-02T01:04:06.298Z",
+          "wordCount": 1316,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why There Aren't More Googles"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/5founders.html",
+          "publishedOn": "2021-05-02T01:04:06.294Z",
+          "wordCount": 742,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Five Founders"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/top.html",
+          "publishedOn": "2021-05-02T01:04:06.291Z",
+          "wordCount": 1154,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Top Idea in Your Mind"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/love.html",
+          "publishedOn": "2021-05-02T01:04:06.287Z",
+          "wordCount": 4613,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Do What You Love"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/stuff.html",
+          "publishedOn": "2021-05-02T01:04:06.277Z",
+          "wordCount": 1237,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Stuff"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/america.html",
+          "publishedOn": "2021-05-02T01:04:06.262Z",
+          "wordCount": 4674,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why Startups Condense in America"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/mit.html",
+          "publishedOn": "2021-05-02T01:04:06.254Z",
+          "wordCount": 6382,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "A Student's Guide to Startups"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/taste.html",
+          "publishedOn": "2021-05-02T01:04:06.245Z",
+          "wordCount": 4266,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Taste for Makers"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/venturecapital.html",
+          "publishedOn": "2021-05-02T01:04:06.237Z",
+          "wordCount": 1455,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "A Unified Theory of VC Suckage"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/airbnb.html",
+          "publishedOn": "2021-05-02T01:04:06.234Z",
+          "wordCount": 1290,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Subject: Airbnb"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/hubs.html",
+          "publishedOn": "2021-05-02T01:04:06.231Z",
+          "wordCount": 1779,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why Startup Hubs Work"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/twitter.html",
+          "publishedOn": "2021-05-02T01:04:06.227Z",
+          "wordCount": 152,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why Twitter is a Big Deal"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/marginal.html",
+          "publishedOn": "2021-05-02T01:04:06.225Z",
+          "wordCount": 5996,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Power of the Marginal"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/tablets.html",
+          "publishedOn": "2021-05-02T01:04:06.206Z",
+          "wordCount": 544,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Tablets"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/usa.html",
+          "publishedOn": "2021-05-02T01:04:06.202Z",
+          "wordCount": 1825,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Made in USA"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ambitious.html",
+          "publishedOn": "2021-05-02T01:04:06.198Z",
+          "wordCount": 3730,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Frighteningly Ambitious Startup Ideas"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/boss.html",
+          "publishedOn": "2021-05-02T01:04:06.184Z",
+          "wordCount": 2500,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "You Weren't Meant to Have a Boss"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/kate.html",
+          "publishedOn": "2021-05-02T01:04:06.168Z",
+          "wordCount": 805,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What Kate Saw in Silicon Valley"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/segway.html",
+          "publishedOn": "2021-05-02T01:04:06.164Z",
+          "wordCount": 375,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Trouble with the Segway"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ramenprofitable.html",
+          "publishedOn": "2021-05-02T01:04:06.161Z",
+          "wordCount": 1812,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Ramen Profitable"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/discover.html",
+          "publishedOn": "2021-05-02T01:04:06.156Z",
+          "wordCount": 1284,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Persuade xor Discover"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/desres.html",
+          "publishedOn": "2021-05-02T01:04:06.152Z",
+          "wordCount": 2632,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Design and Research"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/vcsqueeze.html",
+          "publishedOn": "2021-05-02T01:04:06.137Z",
+          "wordCount": 1558,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Venture Capital Squeeze"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/startuplessons.html",
+          "publishedOn": "2021-05-02T01:04:06.133Z",
+          "wordCount": 4754,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Hardest Lessons for Startups to Learn"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/nthings.html",
+          "publishedOn": "2021-05-02T01:04:06.124Z",
+          "wordCount": 1434,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The List of N Things"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/hs.html",
+          "publishedOn": "2021-05-02T01:04:06.121Z",
+          "wordCount": 4996,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What You'll Wish You'd Known"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/patentpledge.html",
+          "publishedOn": "2021-05-02T01:04:06.113Z",
+          "wordCount": 676,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Patent Pledge"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/relres.html",
+          "publishedOn": "2021-05-02T01:04:06.110Z",
+          "wordCount": 987,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Relentlessly Resourceful"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/lies.html",
+          "publishedOn": "2021-05-02T01:04:06.107Z",
+          "wordCount": 5175,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Lies We Tell Kids"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/writing44.html",
+          "publishedOn": "2021-05-02T01:04:06.100Z",
+          "wordCount": 471,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Writing,  Briefly"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/whyyc.html",
+          "publishedOn": "2021-05-02T01:04:06.086Z",
+          "wordCount": 374,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why YC"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/investors.html",
+          "publishedOn": "2021-05-02T01:04:06.084Z",
+          "wordCount": 2779,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Present to Investors"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/fundraising.html",
+          "publishedOn": "2021-05-02T01:04:06.077Z",
+          "wordCount": 4761,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "A Fundraising Survival Guide"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/yahoo.html",
+          "publishedOn": "2021-05-02T01:04:06.069Z",
           "wordCount": 2018,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Vanilla JavaScript Code Snippets"
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What Happened to Yahoo"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/laundry.html",
+          "publishedOn": "2021-05-02T01:04:06.064Z",
+          "wordCount": 4227,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "A Version 1.0"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ideas.html",
+          "publishedOn": "2021-05-02T01:04:06.056Z",
+          "wordCount": 3876,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Ideas for Startups"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/web20.html",
+          "publishedOn": "2021-05-02T01:04:06.049Z",
+          "wordCount": 3333,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Web 2.0"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/fh.html",
+          "publishedOn": "2021-05-02T01:04:06.026Z",
+          "wordCount": 1372,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Haters"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/vw.html",
+          "publishedOn": "2021-05-02T01:04:06.020Z",
+          "wordCount": 859,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Snapshot: Viaweb, June 1998"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ycstart.html",
+          "publishedOn": "2021-05-02T01:04:06.017Z",
+          "wordCount": 1452,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How Y Combinator Started"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/selfindulgence.html",
+          "publishedOn": "2021-05-02T01:04:06.014Z",
+          "wordCount": 678,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Lose Time and Money"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/control.html",
+          "publishedOn": "2021-05-02T01:04:06.011Z",
+          "wordCount": 770,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Founder Control"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ds.html",
+          "publishedOn": "2021-05-02T01:04:06.009Z",
+          "wordCount": 4296,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Do Things that Don't Scale"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/founders.html",
+          "publishedOn": "2021-05-02T01:04:06.001Z",
+          "wordCount": 793,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What We Look for in Founders"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/college.html",
+          "publishedOn": "2021-05-02T01:04:05.998Z",
+          "wordCount": 3615,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Undergraduation"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/pinch.html",
+          "publishedOn": "2021-05-02T01:04:05.991Z",
+          "wordCount": 1580,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Fatal Pinch"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/disagree.html",
+          "publishedOn": "2021-05-02T01:04:05.976Z",
+          "wordCount": 1488,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Disagree"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/prcmc.html",
+          "publishedOn": "2021-05-02T01:04:05.970Z",
+          "wordCount": 1245,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Pooled-Risk Company Management Company"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/foundersatwork.html",
+          "publishedOn": "2021-05-02T01:04:05.966Z",
+          "wordCount": 826,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Learning from Founders"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/mean.html",
+          "publishedOn": "2021-05-02T01:04:05.964Z",
+          "wordCount": 1125,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Mean People Fail"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/hundred.html",
+          "publishedOn": "2021-05-02T01:04:05.960Z",
+          "wordCount": 4732,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Hundred-Year Language"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/herd.html",
+          "publishedOn": "2021-05-02T01:04:05.954Z",
+          "wordCount": 1097,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Investor Herd Dynamics"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/webstartups.html",
+          "publishedOn": "2021-05-02T01:04:05.950Z",
+          "wordCount": 3340,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Future of Web Startups"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/makersschedule.html",
+          "publishedOn": "2021-05-02T01:04:05.944Z",
+          "wordCount": 1147,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Maker's Schedule, Manager's Schedule"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/charisma.html",
+          "publishedOn": "2021-05-02T01:04:05.940Z",
+          "wordCount": 1481,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "It's Charisma, Stupid"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/hackernews.html",
+          "publishedOn": "2021-05-02T01:04:05.936Z",
+          "wordCount": 2819,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What I've Learned from Hacker News"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/determination.html",
+          "publishedOn": "2021-05-02T01:04:05.930Z",
+          "wordCount": 1478,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Anatomy of Determination"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/superangels.html",
+          "publishedOn": "2021-05-02T01:04:05.924Z",
+          "wordCount": 3535,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The New Funding Landscape"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/foundervisa.html",
+          "publishedOn": "2021-05-02T01:04:05.913Z",
+          "wordCount": 401,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Founder Visa"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/identity.html",
+          "publishedOn": "2021-05-02T01:04:05.908Z",
+          "wordCount": 859,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Keep Your Identity Small"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/simply.html",
+          "publishedOn": "2021-05-02T01:04:05.904Z",
+          "wordCount": 500,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Write Simply"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/jessica.html",
+          "publishedOn": "2021-05-02T01:04:05.895Z",
+          "wordCount": 1941,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Jessica Livingston"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/revolution.html",
+          "publishedOn": "2021-05-02T01:04:05.886Z",
+          "wordCount": 1323,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "A Local Revolution?"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ffb.html",
+          "publishedOn": "2021-05-02T01:04:05.880Z",
+          "wordCount": 820,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Filters that Fight Back"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/convince.html",
+          "publishedOn": "2021-05-02T01:04:05.875Z",
+          "wordCount": 3640,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Convince Investors"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/artistsship.html",
+          "publishedOn": "2021-05-02T01:04:05.851Z",
+          "wordCount": 1295,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Other Half of \"Artists Ship\""
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/pgh.html",
+          "publishedOn": "2021-05-02T01:04:05.848Z",
+          "wordCount": 2608,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Make Pittsburgh a Startup Hub"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/talk.html",
+          "publishedOn": "2021-05-02T01:04:05.844Z",
+          "wordCount": 702,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Write Like You Talk"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/todo.html",
+          "publishedOn": "2021-05-02T01:04:05.842Z",
+          "wordCount": 238,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Top of My Todo List"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/6631327.html",
+          "publishedOn": "2021-05-02T01:04:05.839Z",
+          "wordCount": 682,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "6,631,372"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/goodart.html",
+          "publishedOn": "2021-05-02T01:04:05.836Z",
+          "wordCount": 3579,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How Art Can Be Good"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/credentials.html",
+          "publishedOn": "2021-05-02T01:04:05.828Z",
+          "wordCount": 2338,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "After Credentials"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/really.html",
+          "publishedOn": "2021-05-02T01:04:05.824Z",
+          "wordCount": 5032,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What Startups Are Really Like"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/conformism.html",
+          "publishedOn": "2021-05-02T01:04:05.814Z",
+          "wordCount": 1949,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Four Quadrants of Conformism"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/good.html",
+          "publishedOn": "2021-05-02T01:04:05.809Z",
+          "wordCount": 2897,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Be Good"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/organic.html",
+          "publishedOn": "2021-05-02T01:04:05.793Z",
+          "wordCount": 993,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Organic Startup Ideas"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/apple.html",
+          "publishedOn": "2021-05-02T01:04:05.790Z",
+          "wordCount": 2108,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Apple's Mistake"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/hw.html",
+          "publishedOn": "2021-05-02T01:04:05.786Z",
+          "wordCount": 407,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Hardware Renaissance"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/convergence.html",
+          "publishedOn": "2021-05-02T01:04:05.784Z",
+          "wordCount": 1510,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why TV Lost"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/useful.html",
+          "publishedOn": "2021-05-02T01:04:05.780Z",
+          "wordCount": 2821,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Write Usefully"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/swan.html",
+          "publishedOn": "2021-05-02T01:04:05.775Z",
+          "wordCount": 2130,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Black Swan Farming"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/startupideas.html",
+          "publishedOn": "2021-05-02T01:04:05.771Z",
+          "wordCount": 7121,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Get Startup Ideas"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/genius.html",
+          "publishedOn": "2021-05-02T01:04:05.760Z",
+          "wordCount": 2599,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Bus Ticket Theory of Genius"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/startuphubs.html",
+          "publishedOn": "2021-05-02T01:04:05.742Z",
+          "wordCount": 1441,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why to Move to a Startup Hub"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/altair.html",
+          "publishedOn": "2021-05-02T01:04:05.737Z",
+          "wordCount": 381,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What Microsoft Is this the Altair Basic of?"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/word.html",
+          "publishedOn": "2021-05-02T01:04:05.735Z",
+          "wordCount": 793,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "A Word to the Resourceful"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/growth.html",
+          "publishedOn": "2021-05-02T01:04:05.732Z",
+          "wordCount": 5288,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Startup = Growth"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/badeconomy.html",
+          "publishedOn": "2021-05-02T01:04:05.719Z",
+          "wordCount": 1102,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why to Start a Startup in a Bad Economy"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/lesson.html",
+          "publishedOn": "2021-05-02T01:04:05.716Z",
+          "wordCount": 3990,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Lesson to Unlearn"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ace.html",
+          "publishedOn": "2021-05-02T01:04:05.710Z",
+          "wordCount": 3377,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Billionaires Build"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/property.html",
+          "publishedOn": "2021-05-02T01:04:05.703Z",
+          "wordCount": 965,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Defining Property"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/work.html",
+          "publishedOn": "2021-05-02T01:04:05.699Z",
+          "wordCount": 486,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What Doesn't Seem Like Work?"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/name.html",
+          "publishedOn": "2021-05-02T01:04:05.696Z",
+          "wordCount": 747,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Change Your Name"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/angelinvesting.html",
+          "publishedOn": "2021-05-02T01:04:05.683Z",
+          "wordCount": 3895,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Be an Angel Investor"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/randomness.html",
+          "publishedOn": "2021-05-02T01:04:05.677Z",
+          "wordCount": 583,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "See Randomness"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/schlep.html",
+          "publishedOn": "2021-05-02T01:04:05.674Z",
+          "wordCount": 841,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Schlep Blindness"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/real.html",
+          "publishedOn": "2021-05-02T01:04:05.671Z",
+          "wordCount": 775,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Real Reason to End the Death Penalty"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/before.html",
+          "publishedOn": "2021-05-02T01:04:05.668Z",
+          "wordCount": 4542,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Before the Startup"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/richnow.html",
+          "publishedOn": "2021-05-02T01:04:05.659Z",
+          "wordCount": 2542,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How People Get Rich Now"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/unions.html",
+          "publishedOn": "2021-05-02T01:04:05.654Z",
+          "wordCount": 512,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "An Alternative Theory of Unions"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/cities.html",
+          "publishedOn": "2021-05-02T01:04:05.651Z",
+          "wordCount": 3553,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Cities and Ambition"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/think.html",
+          "publishedOn": "2021-05-02T01:04:05.640Z",
+          "wordCount": 3402,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Think for Yourself"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/wtax.html",
+          "publishedOn": "2021-05-02T01:04:05.632Z",
+          "wordCount": 418,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Modeling a Wealth Tax"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/speak.html",
+          "publishedOn": "2021-05-02T01:04:05.616Z",
+          "wordCount": 1184,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Writing and Speaking"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/fp.html",
+          "publishedOn": "2021-05-02T01:04:05.612Z",
+          "wordCount": 193,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Fashionable Problems"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/kids.html",
+          "publishedOn": "2021-05-02T01:04:05.610Z",
+          "wordCount": 1516,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Having Kids"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ineq.html",
+          "publishedOn": "2021-05-02T01:04:05.606Z",
+          "wordCount": 3383,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Economic Inequality"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/know.html",
+          "publishedOn": "2021-05-02T01:04:05.598Z",
+          "wordCount": 643,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How You Know"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/early.html",
+          "publishedOn": "2021-05-02T01:04:05.595Z",
+          "wordCount": 2471,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Early Work"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/corpdev.html",
+          "publishedOn": "2021-05-02T01:04:05.590Z",
+          "wordCount": 1275,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Don't Talk to Corp Dev"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/vb.html",
+          "publishedOn": "2021-05-02T01:04:05.552Z",
+          "wordCount": 1654,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Life is Short"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/nov.html",
+          "publishedOn": "2021-05-02T01:04:05.535Z",
+          "wordCount": 260,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Novelty and Heresy"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/hiresfund.html",
+          "publishedOn": "2021-05-02T01:04:05.532Z",
+          "wordCount": 705,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "High Resolution Fundraising"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/invtrend.html",
+          "publishedOn": "2021-05-02T01:04:05.529Z",
+          "wordCount": 2915,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Startup Investing Trends"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/bias.html",
+          "publishedOn": "2021-05-02T01:04:05.524Z",
+          "wordCount": 565,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "A Way to Detect Bias"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/noob.html",
+          "publishedOn": "2021-05-02T01:04:05.521Z",
+          "wordCount": 378,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Being a Noob"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/safe.html",
+          "publishedOn": "2021-05-02T01:04:05.517Z",
+          "wordCount": 780,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why It's Safe for Founders to Be Nice"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/pow.html",
+          "publishedOn": "2021-05-02T01:04:05.513Z",
+          "wordCount": 124,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Charisma / Power"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/trolls.html",
+          "publishedOn": "2021-05-02T01:04:05.511Z",
+          "wordCount": 881,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Trolls"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/earnest.html",
+          "publishedOn": "2021-05-02T01:04:05.507Z",
+          "wordCount": 1642,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Earnestness"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/mod.html",
+          "publishedOn": "2021-05-02T01:04:05.501Z",
+          "wordCount": 665,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Two Kinds of Moderate"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/orth.html",
+          "publishedOn": "2021-05-02T01:04:05.498Z",
+          "wordCount": 779,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Orthodox Privilege"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/sun.html",
+          "publishedOn": "2021-05-02T01:04:05.495Z",
+          "wordCount": 439,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "General and Surprising"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ecw.html",
+          "publishedOn": "2021-05-02T01:04:05.492Z",
+          "wordCount": 1055,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Be an Expert in a Changing World"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/seesv.html",
+          "publishedOn": "2021-05-02T01:04:05.488Z",
+          "wordCount": 1064,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Where to See Silicon Valley"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/cred.html",
+          "publishedOn": "2021-05-02T01:04:05.483Z",
+          "wordCount": 239,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Coronavirus and Credibility"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/disc.html",
+          "publishedOn": "2021-05-02T01:04:05.480Z",
+          "wordCount": 219,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Risk of Discovery"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/aord.html",
+          "publishedOn": "2021-05-02T01:04:05.476Z",
+          "wordCount": 1479,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Default Alive or Default Dead?"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/95.html",
+          "publishedOn": "2021-05-02T01:04:05.464Z",
+          "wordCount": 920,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Let the Other 95% of Great Programmers In"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/fr.html",
+          "publishedOn": "2021-05-02T01:04:05.460Z",
+          "wordCount": 10534,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "How to Raise Money"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/ronco.html",
+          "publishedOn": "2021-05-02T01:04:05.439Z",
+          "wordCount": 620,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "The Ronco Principle"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/worked.html",
+          "publishedOn": "2021-05-02T01:04:05.426Z",
+          "wordCount": 13648,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "What I Worked On"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/donate.html",
+          "publishedOn": "2021-05-02T01:04:05.378Z",
+          "wordCount": 481,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Donate Unrestricted"
+        },
+        {
+          "description": "",
+          "link": "http://www.paulgraham.com/noop.html",
+          "publishedOn": "2021-05-02T01:04:05.232Z",
+          "wordCount": 493,
+          "sourceHref": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "sourceTitle": "Paul Graham: Essays",
+          "title": "Why Arc Isn't Especially Object-Oriented"
         }
       ]
     },
     {
-      "href": "https://www.freecodecamp.org/news/rss/",
+      "href": "https://dormin.org/feed/",
+      "articles": []
+    },
+    {
+      "href": "https://www.benkuhn.net/index.xml",
+      "articles": []
+    },
+    {
+      "href": "https://graymirror.substack.com/feed/",
       "articles": [
         {
-          "description": "These days, computers can pretty much do anything. Now if you are a frequent computer user like I am, I'm sure you interact with the keyboard all the time. And in this article, I'm going to show you some helpful keyboard shortcuts that will make your work easier",
-          "link": "https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/",
-          "publishedOn": "2021-04-30T18:37:37.000Z",
-          "wordCount": 1334,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Keyboard Shortcuts to Improve Your Coding Productivity"
+          "description": "\"I will never buy you a diamond.\"",
+          "link": "https://graymirror.substack.com/p/the-perfect-thing",
+          "publishedOn": "2021-04-11T12:02:12.000Z",
+          "wordCount": 771,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "The Perfect Thing"
         },
         {
-          "description": "In this article, you'll practice your JavaScript skills while streamlining your household chores by creating your very own home inventory system.  I've often found that it's hard to keep track common household items that I buy frequently such as food, spices, medicine, and the like. It's annoying at best and",
-          "link": "https://www.freecodecamp.org/news/nodejs-and-cloud-firestore-tutorial-build-a-home-inventory-system/",
-          "publishedOn": "2021-04-30T16:26:24.000Z",
-          "wordCount": 1429,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Node.js and Cloud Firestore Tutorial – How to Build a Home Inventory System"
+          "description": "\"Never once the rock we carried.\"",
+          "link": "https://graymirror.substack.com/p/the-tubmaster",
+          "publishedOn": "2021-04-10T01:37:43.000Z",
+          "wordCount": 978,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "The Tubmaster"
         },
         {
-          "description": "Docker is an open source project that makes it easy to create containers and container-based apps. Docker's lightweight and portable software containers simplify application development, testing, and deployment. We just released a course on the freeCodeCamp.org YouTube channel that will help you learn the core fundamentals of Docker by",
-          "link": "https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/",
-          "publishedOn": "2021-04-29T20:05:04.000Z",
-          "wordCount": 496,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn Docker by Building a Node / Express App"
+          "description": "\"I was eating that!\"",
+          "link": "https://graymirror.substack.com/p/tubes",
+          "publishedOn": "2021-04-07T14:50:28.000Z",
+          "wordCount": 512,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "Tubes"
         },
         {
-          "description": "In this article, I'll teach you CSS Flexbox basics so you can make your own responsive sites. I'll explain how each of Flexbox's properties work, and I'll give you a cheatsheet that covers everything you can do with Flexbox. Let's Go 🎖️ Table of ContentsFlexbox Architectureflex-directionjustify-contentalign-contentalign-itemsalign-selfflex - grow | shrink | wrap | basisShort",
-          "link": "https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/",
-          "publishedOn": "2021-04-28T19:33:57.000Z",
-          "wordCount": 1289,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet 🎖️"
-        },
-        {
-          "description": "The MERN stack is a popular way to make a full stack web app. MERN stands for MongoDB, Express, React, and Node.js. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the MERN stack by building a restaurant review web",
-          "link": "https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/",
-          "publishedOn": "2021-04-28T14:05:56.000Z",
-          "wordCount": 384,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Create a MERN Stack App with a Serverless Backend"
-        },
-        {
-          "description": "JavaScript is an easy-to-learn programming language compared to many of its counterparts. However, a few basic concepts need a bit more attention if you want to understand, debug, and write better code.  In this article, we will learn about two such concepts, Execution ContextHoistingAs a beginner to JavaScript, understanding these",
-          "link": "https://www.freecodecamp.org/news/javascript-execution-context-and-hoisting/",
-          "publishedOn": "2021-04-27T22:53:14.000Z",
-          "wordCount": 2010,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "JavaScript Execution Context and Hoisting Explained with Code Examples"
-        },
-        {
-          "description": "Hi! Welcome. If you are learning Python, then this article is for you. You will find a thorough description of Python syntax and lots of code examples to guide you during your coding journey.  What we will cover:Variable Definitions in PythonHello, World! Program in PythonData Types and Built-in Data",
-          "link": "https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/",
-          "publishedOn": "2021-04-27T19:55:23.000Z",
-          "wordCount": 12960,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Python Code Examples – Sample Script Coding Tutorial for Beginners"
-        },
-        {
-          "description": "Hello, everyone! In this article we are going to learn how to add the Realm database to an iOS app.  We'll create a simple ToDo app so you can learn how to perform CRUD (Create, Read, Update, Delete) operations in the Realm database. What is Realm?Realm is an open-source",
-          "link": "https://www.freecodecamp.org/news/add-realm-database-to-ios-crud-app-with-with-swift/",
-          "publishedOn": "2021-04-27T18:21:00.000Z",
-          "wordCount": 1815,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Add the Realm Database to an iOS CRUD App using Swift"
-        },
-        {
-          "description": "What is Lazy Loading?Lazy loading is the process of loading components, modules, or other assets of a website as they're required.  Since Angular creates a SPA (Single Page Application), all of its components are loaded at once. This means that a lot of unnecessary libraries or modules might be",
-          "link": "https://www.freecodecamp.org/news/lazy-loading-in-angular-intro-to-ngmodules/",
-          "publishedOn": "2021-04-27T18:17:43.000Z",
-          "wordCount": 1178,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Lazy Loading in Angular – A Beginner&#x27;s Guide to NgModules"
-        },
-        {
-          "description": "In this article, we will build a React application using class components. Then we'll convert it to functional components using React Hooks in a step-by-step way. By building this app, you will learn: How to make API callsHow to implement load more functionalityHow to debug application issuesHow to use async/",
-          "link": "https://www.freecodecamp.org/news/build-a-react-application-with-load-more-functionality-react-hooks/",
-          "publishedOn": "2021-04-27T18:12:22.000Z",
-          "wordCount": 3778,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Build a React Application with Load More Functionality using React Hooks"
+          "description": "\"No one will ever see the rock on which I stood.\"",
+          "link": "https://graymirror.substack.com/p/jennifer-kollmer-1971-2021",
+          "publishedOn": "2021-04-07T12:51:57.000Z",
+          "wordCount": 332,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "Jennifer Kollmer, 1971-2021"
         }
       ]
+    },
+    {
+      "href": "https://douthat.substack.com/feed/",
+      "articles": [
+        {
+          "description": "Reflections on a Very Oscar movie from a very different Oscar age.",
+          "link": "https://douthat.substack.com/p/the-ten-commandments-experience",
+          "publishedOn": "2021-04-30T15:04:39.000Z",
+          "wordCount": 1502,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "The Ten Commandments Experience"
+        },
+        {
+          "description": "The show's decline is inevitable, but the Academy's voters haven't helped.",
+          "link": "https://douthat.substack.com/p/an-alternative-timeline-for-the-oscars",
+          "publishedOn": "2021-04-28T15:41:50.000Z",
+          "wordCount": 1371,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "An Alternative Timeline for the Oscars"
+        },
+        {
+          "description": "Is the meritocracy irreligious for intellectual or sociological reasons?",
+          "link": "https://douthat.substack.com/p/elites-and-christianity-in-theory",
+          "publishedOn": "2021-04-23T14:31:34.000Z",
+          "wordCount": 2456,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "Elites and Christianity in Theory and Practice"
+        },
+        {
+          "description": "A new book (from my wife) deepens the debate about fertility and family policy.",
+          "link": "https://douthat.substack.com/p/fertility-kings-and-mom-genes",
+          "publishedOn": "2021-04-21T13:24:58.000Z",
+          "wordCount": 1927,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "Fertility Kings and Mom Genes"
+        },
+        {
+          "description": "On superhero fight scenes, the achievement of Logan, and the missed opportunities of Batman vs. Superman.",
+          "link": "https://douthat.substack.com/p/the-superhero-body-problem",
+          "publishedOn": "2021-04-15T15:52:47.000Z",
+          "wordCount": 1919,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "The Superhero-Body Problem"
+        },
+        {
+          "description": "Remembering the days when Michael Crichton novels roamed the earth.",
+          "link": "https://douthat.substack.com/p/jurassic-park-is-frightening-in-the",
+          "publishedOn": "2021-04-07T14:17:49.000Z",
+          "wordCount": 2507,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "Jurassic Park Is Frightening in the Dark"
+        }
+      ]
+    },
+    {
+      "href": "http://www.overcomingbias.com/feed",
+      "articles": [
+        {
+          "description": "When we talk, we say things that are explicit and direct, on the surface of the text, and we also say things that are in hidden and indirect, said in more deniable ways via subtext. Imagine that there was a &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/05/subtext-shows-status.html",
+          "publishedOn": "2021-05-01T17:00:02.000Z",
+          "wordCount": 803,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "Subtext Shows Status"
+        },
+        {
+          "description": "In this short post what I try to say is unusually imprecise, relative to what I usually try to say. Yet it seems important enough to try to say it anyway. I’ve noticed a big hole in my understanding, which &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/04/motives-emotives-are-opaque.html",
+          "publishedOn": "2021-04-29T15:10:28.000Z",
+          "wordCount": 568,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "Motive/Emotive Blindspot"
+        },
+        {
+          "description": "Over the decades I have written many times on how prediction markets might help the intellectual world. But usually my pitch has been to those who want to get a better actionable info out of intellectuals, or to help the &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/04/shoulda-listened-futures.html",
+          "publishedOn": "2021-04-27T22:45:09.000Z",
+          "wordCount": 1456,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "Shoulda-Listened Futures"
+        },
+        {
+          "description": "In their 2016 journal article &#8220;The Cosmic Zoo: The (Near) Inevitability of the Evolution of Complex, Macroscopic Life&#8220;, Dirk Schulze-Makuch and William Bains write: An important question is … whether there exists what Robin Hanson calls “The Great Filter” somewhere &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/04/schulze-makuch-bains-on-the-great-filter.html",
+          "publishedOn": "2021-04-25T01:00:17.000Z",
+          "wordCount": 1444,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "Schulze-Makuch & Bains on The Great Filter"
+        },
+        {
+          "description": "During this pandemic, elites have greatly enjoyed getting to feel important by weighing in on big pandemic policy questions, such as masks, lockdowns, travel restrictions, vaccine tests, vaccine distribution, etc. Each elite can feel self-righteous in their concern for others, &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/04/explaining-regulation.html",
+          "publishedOn": "2021-04-24T16:10:56.000Z",
+          "wordCount": 1205,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "Explaining Regulation"
+        },
+        {
+          "description": "Imagine that a restaurant wants to ask its associates (cooks, servers, etc.) what are the best two menu items to put on its menu as specials on a particular night. They have a large set of possible menu items to &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/04/try-two-contest-board.html",
+          "publishedOn": "2021-04-22T18:15:57.000Z",
+          "wordCount": 941,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "Try-Two Contest Board"
+        },
+        {
+          "description": "Most intellectuals don’t pick their topics based on fundamental value. They instead opportunistically read the many clues around them regarding on which topics they are more likely to be rewarded. Now if you, in contrast, have the slack and inclination &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/04/do-your-thoughts-scale.html",
+          "publishedOn": "2021-04-22T13:30:51.000Z",
+          "wordCount": 1981,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "Do Your Thoughts Scale?"
+        },
+        {
+          "description": "Competition and cooperation [as] opposites, with vice on one side and virtue on the other … is a false dichotomy … The market-based competition envisioned in economics is disciplined by rules and reputations. … Just as competition is not a shorthand &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/04/managed-competition-or-competing-managers.html",
+          "publishedOn": "2021-04-18T18:00:39.000Z",
+          "wordCount": 1437,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "Managed Competition or Competing Managers?"
+        },
+        {
+          "description": "In his new book The Zoologist&#8217;s Guide to the Galaxy: What Animals on Earth Reveal About Aliens&#8211;and Ourselves, Cambridge zoologist Arik Kershenbaum purports to tell us what intelligent aliens will be like when we meet them: This book is about how &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/04/a-zoologists-guide-to-the-past.html",
+          "publishedOn": "2021-04-17T16:10:02.000Z",
+          "wordCount": 1788,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "A Zoologist’s Guide to Our Past"
+        },
+        {
+          "description": "Regarding meaningful stories and narratives, I see two huge trends over the last century or so. First, we’ve seen a great increase in the amount of fiction consumed. People now spend many hours of day watching TV and movies, reading &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/04/real-vs-fake-stories-complements-or-substitutes.html",
+          "publishedOn": "2021-04-10T15:25:13.000Z",
+          "wordCount": 763,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "Real Vs. Fake Stories: Complements or Substitutes?"
+        }
+      ]
+    },
+    {
+      "href": "https://www.forourposterity.com/rss/",
+      "articles": []
+    },
+    {
+      "href": "http://putanumonit.com/feed/",
+      "articles": [
+        {
+          "description": "Thinking about the impact of my writing upon finding out that it may have been much greater than I thought.",
+          "link": "https://putanumonit.com/2021/04/03/monastery-and-throne/",
+          "publishedOn": "2021-04-04T03:38:52.000Z",
+          "wordCount": 5643,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Monastery and Throne"
+        }
+      ]
+    },
+    {
+      "href": "https://www.econlib.org/author/bcaplan/feed/",
+      "articles": [
+        {
+          "description": "I have a Simplistic Theory of Left and Right.  A reader sent me their thoughts on the theory.  Reprinted anonymously with their permission. I&#8217;ve been thinking about your conception of the Right and Left in American Politics and thought I would run a thought by you. You say: 1. Leftists are anti-market.  On an emotional [&#8230;]\nThe post Thoughts on My Simplistic Theory of Left and Right appeared first on Econlib.",
+          "link": "https://www.econlib.org/thoughts-on-my-simplistic-theory-of-left-and-right/",
+          "publishedOn": "2021-04-29T13:37:32.000Z",
+          "wordCount": 3908,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "Thoughts on My Simplistic Theory of Left and Right"
+        },
+        {
+          "description": "Ayn Rand&#8216;s Anthem only takes about an hour to read.  So while it&#8217;s her weakest novel, the literary value per minute of reading is high.  And it definitely belongs on any list of classic dystopian fiction.  Only recently, though, did I discover that there are two graphic novel adaptations. 1. The 2011 adaptation by Charles Santino and [&#8230;]\nThe post Dual &lt;i&gt;Anthems&lt;/i&gt; appeared first on Econlib.",
+          "link": "https://www.econlib.org/dual-anthems/",
+          "publishedOn": "2021-04-28T13:43:16.000Z",
+          "wordCount": 1761,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "Dual Anthems"
+        },
+        {
+          "description": "The noble Don Boudreaux builds on my ageless hypothetical: To avoid the many challenges with calculating the value of a statistical life, think of the matter in the following way: Suppose that a society, identical to ours, will – with 100 percent certainty – be stricken with one of three deadly pathogens. But this society [&#8230;]\nThe post Boudreaux&#8217;s Aged Hypothetical appeared first on Econlib.",
+          "link": "https://www.econlib.org/boudreauxs-aged-hypothetical/",
+          "publishedOn": "2021-04-27T13:30:43.000Z",
+          "wordCount": 1405,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "Boudreaux’s Aged Hypothetical"
+        },
+        {
+          "description": "When I criticize leaders great and small, critics often reply: &#8220;You&#8217;re so naive.  These leaders are under immense pressure to act as they do.  Even if what they&#8217;re doing is as bad as you say, they have no choice.&#8221; &#160; Question: What exactly does it mean to say, &#8220;Leaders have no choice but to do [&#8230;]\nThe post The Song of Slack appeared first on Econlib.",
+          "link": "https://www.econlib.org/the-song-of-slack/",
+          "publishedOn": "2021-04-26T13:54:59.000Z",
+          "wordCount": 2508,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "The Song of Slack"
+        },
+        {
+          "description": "&#8220;Old Lives Matter.&#8221; I fully agree with the title of Jeremy Horpedahl&#8217;s latest reply on the value of life.  To say that the life of an 80-year-old is worth 1% or .1% as much as the life of a 10-year-old is not deny the high value of elderly lives, because 10-year-old lives are immensely valuable. [&#8230;]\nThe post Age and the Value of Life: A Further Reply appeared first on Econlib.",
+          "link": "https://www.econlib.org/age-and-the-value-of-life-a-further-reply/",
+          "publishedOn": "2021-04-22T14:27:50.000Z",
+          "wordCount": 6091,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "Age and the Value of Life: A Further Reply"
+        },
+        {
+          "description": "Last year, I tried to figure out why there aren&#8217;t a lot more right-wing (or apolitical) firms.  A recent piece by Richard Hanania comes down firmly in favor of my Explanation #4.  To review: Explanation #4. Few moderates or right-wingers care enough to create a major profit opportunity.  While they don’t relish looking over their shoulders, they [&#8230;]\nThe post The Missing Right-Wing Firms: Hanania&#8217;s Plausible Resolution appeared first on Econlib.",
+          "link": "https://www.econlib.org/the-missing-right-wing-firms-a-plausible-resolution/",
+          "publishedOn": "2021-04-21T14:03:29.000Z",
+          "wordCount": 4699,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "The Missing Right-Wing Firms: Hanania’s Plausible Resolution"
+        },
+        {
+          "description": "Brennan and Lomasky&#8217;s expressive voting model tries to explain why politics is largely about style and stories, not substance and numbers.  Long story short: Political entertainment is a private good; political results are a public good.  As a result, political systems primarily yield entertainment, not results.  Jonah Goldberg nicely illustrates these insights in a recent [&#8230;]\nThe post Goldberg on Expressive Politics appeared first on Econlib.",
+          "link": "https://www.econlib.org/goldberg-on-expressive-politics/",
+          "publishedOn": "2021-04-20T13:29:28.000Z",
+          "wordCount": 3708,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "Goldberg on Expressive Politics"
+        },
+        {
+          "description": "In response to my ageless hypothetical, Jeremy Horpedahl raises some empirical doubts about the relative value of life for the young and the old: Surprisingly, though, roughly equally valuing all lives is actually the answer that a normal economic calculation, willingness-to-pay for risk reduction, would give you! Or at least roughly. I haven’t seen an [&#8230;]\nThe post An Ageless Hypothetical: Horpedahl&#8217;s Critique appeared first on Econlib.",
+          "link": "https://www.econlib.org/an-ageless-hypothetical-horpedahls-critique/",
+          "publishedOn": "2021-04-19T14:05:51.000Z",
+          "wordCount": 3871,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "An Ageless Hypothetical: Horpedahl’s Critique"
+        },
+        {
+          "description": "I recently watched Amazon&#8217;s 2018 series The Romanoffs.  While reviews were mixed, I thought this limited ensemble series was amazingly good overall.  Backstory: A century after the execution of the czar and his immediate family at the hands of the Bolsheviks, viewers experience eight distinct stories about descendants of Russian royalty.  None of the characters remain more [&#8230;]\nThe post &lt;i&gt;The Romanoffs&lt;/i&gt; appeared first on Econlib.",
+          "link": "https://www.econlib.org/the-romanoffs/",
+          "publishedOn": "2021-04-15T13:37:48.000Z",
+          "wordCount": 1014,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "The Romanoffs"
+        },
+        {
+          "description": "Whenever I want a clear-cut example of latter-day racial discrimination, I point to elite universities&#8217; treatment of Asians.  As far as I&#8217;m concerned, the evidence is overwhelming.  The denials are not only motivated reasoning, but desperate motivated reasoning. Still, this leaves me with a puzzle.  Do I really think that elite admissions officers wake up [&#8230;]\nThe post Admissions versus Asians appeared first on Econlib.",
+          "link": "https://www.econlib.org/admissions-versus-asians/",
+          "publishedOn": "2021-04-14T13:19:29.000Z",
+          "wordCount": 3256,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "Admissions versus Asians"
+        }
+      ]
+    },
+    {
+      "href": "https://gwern.substack.com/feed/",
+      "articles": [
+        {
+          "description": "2 major new site features: 'popins' and recursive Wikipedia popups",
+          "link": "https://gwern.substack.com/p/march-2021-gwernnet-newsletter",
+          "publishedOn": "2021-04-06T15:31:01.000Z",
+          "wordCount": 1594,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "March 2021 Gwern.net Newsletter"
+        }
+      ]
+    },
+    {
+      "href": "http://scottaaronson.com/blog/?feed=rss2",
+      "articles": [
+        {
+          "description": "Peter Singer, in the parable that came to represent his whole worldview and that of the effective altruism movement more generally, asked us to imagine that we could save a drowning child at the cost of jumping into a lake and ruining an expensive new suit. Assuming we&#8217;d do that, he argued that we do [&#8230;]",
+          "link": "https://www.scottaaronson.com/blog/?p=5481",
+          "publishedOn": "2021-04-25T20:04:49.000Z",
+          "wordCount": 4912,
+          "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
+          "sourceTitle": "Shtetl-Optimized",
+          "title": "The easiest exercise in the moral philosophy book"
+        },
+        {
+          "description": "Richard Borcherds is a British mathematician at Berkeley, who won the 1998 Fields Medal for the proof of the monstrous moonshine conjecture among many other contributions. A couple months ago, Borcherds posted on YouTube a self-described &#8220;rant&#8221; about quantum computing, which was recently making the rounds on Facebook and which I found highly entertaining. Borcherds [&#8230;]",
+          "link": "https://www.scottaaronson.com/blog/?p=5460",
+          "publishedOn": "2021-04-20T18:55:39.000Z",
+          "wordCount": 16669,
+          "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
+          "sourceTitle": "Shtetl-Optimized",
+          "title": "Doubts about teapot supremacy: my reply to Richard Borcherds"
+        },
+        {
+          "description": "Last week I got an email from Dina Katabi, my former MIT colleague, asking me to call her urgently. Am I in trouble? For what, though?? I haven&#8217;t even worked at MIT for five years! Luckily, Dina only wanted to tell me that I&#8217;d been selected to receive the 2020 ACM Prize in Computing, a [&#8230;]",
+          "link": "https://www.scottaaronson.com/blog/?p=5448",
+          "publishedOn": "2021-04-14T15:41:51.000Z",
+          "wordCount": 11521,
+          "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
+          "sourceTitle": "Shtetl-Optimized",
+          "title": "The ACM Prize thing"
+        },
+        {
+          "description": "Oded Goldreich is a theoretical computer scientist at the Weizmann Institute in Rehovot, Israel. He&#8217;s best known for helping to lay the rigorous foundations of cryptography in the 1980s, through seminal results like the Goldreich-Levin Theorem (every one-way function can be modified to have a hard-core predicate), the Goldreich-Goldwasser-Micali Theorem (every pseudorandom generator can be [&#8230;]",
+          "link": "https://www.scottaaronson.com/blog/?p=5437",
+          "publishedOn": "2021-04-09T18:15:33.000Z",
+          "wordCount": 13217,
+          "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
+          "sourceTitle": "Shtetl-Optimized",
+          "title": "Just some prizes"
+        },
+        {
+          "description": "Update (April 5, 2021): So it turns out that Adam Chalcraft and Michael Greene already proved the essential result of this post back in 1994 (hat tip to commenter Dylan). Not terribly surprising in retrospect! My son Daniel had his fourth birthday a couple weeks ago. For a present, he got an electric train set. [&#8230;]",
+          "link": "https://www.scottaaronson.com/blog/?p=5402",
+          "publishedOn": "2021-04-04T18:37:49.000Z",
+          "wordCount": 7266,
+          "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
+          "sourceTitle": "Shtetl-Optimized",
+          "title": "The Computational Expressiveness of a Model Train Set: A Paperlet"
+        }
+      ]
+    },
+    {
+      "href": "https://rootsofprogress.org/feed.xml",
+      "articles": [
+        {
+          "description": "If technological progress has slowed down, what is causing it? Here is a hypothesis.\nBroadly speaking, there are three domains of activity important to technological progress: science, invention, and business. Science discovers new knowledge; invention creates useful machines, chemicals, processes, or other products; and business produces and distributes these products in a scalable, self-sustaining way. (Occasionally inventions are distributed by government: water sanitation is an example. But this oversim…",
+          "link": "https://rootsofprogress.org/a-career-path-for-invention",
+          "publishedOn": "2021-04-29T10:52:51.000Z",
+          "wordCount": 1446,
+          "sourceHref": "https://rootsofprogress.org/feed.xml",
+          "sourceTitle": "The Roots of Progress",
+          "title": "We need a career path for invention"
+        },
+        {
+          "description": "I did an eight-minute interview with Matthew Guay on Racket. We discussed the book I’m writing on the history of industrial civilization, and the salon series I’m hosting based on it. Listen here.",
+          "link": "https://rootsofprogress.org/short-interview-about-my-new-book-and-the-salon-series",
+          "publishedOn": "2021-04-22T17:24:40.000Z",
+          "wordCount": 120,
+          "sourceHref": "https://rootsofprogress.org/feed.xml",
+          "sourceTitle": "The Roots of Progress",
+          "title": "Short interview about my new book and the salon series"
+        },
+        {
+          "description": "I’m hiring a part-time research assistant to support my work on these essays, my talks, and the book I’m writing on the history of industrial civilization.\nYou must have the ability to orient yourself in unfamiliar mental territory; to penetrate the fog of confusing, incomplete, and contradictory information; to sniff out reliable sources of key facts and to corroborate them; and to quickly sketch out a new intellectual landscape.\nYou will handle queries such as:\nWhat happened to the price of cotton and the…",
+          "link": "https://rootsofprogress.org/wanted-research-assistant",
+          "publishedOn": "2021-04-19T11:26:39.000Z",
+          "wordCount": 463,
+          "sourceHref": "https://rootsofprogress.org/feed.xml",
+          "sourceTitle": "The Roots of Progress",
+          "title": "Wanted: Research Assistant"
+        },
+        {
+          "description": "I was interviewed on the Futurati Podcast with Thomas Frey and Trent Fowler; we talked about “skeptics of progress, progress in political and social domains, stagnation, and what excites him about the future.”",
+          "link": "https://rootsofprogress.org/interview-futurati-podcast-with-thomas-frey-and-trent-fowler",
+          "publishedOn": "2021-04-18T19:19:28.000Z",
+          "wordCount": 121,
+          "sourceHref": "https://rootsofprogress.org/feed.xml",
+          "sourceTitle": "The Roots of Progress",
+          "title": "Interview: Futurati Podcast with Thomas Frey and Trent Fowler"
+        },
+        {
+          "description": "To fully understand progress, we must contrast it with non-progress. Of particular interest are the technologies that have failed to live up to the promise they seemed to have decades ago. And few technologies have failed more to live up to a greater promise than nuclear power.\nIn the 1950s, nuclear was the energy of the future. Two generations later, it provides only about 10% of world electricity, and reactor design hasn‘t fundamentally changed in decades. (Even “advanced reactor designs” are based on con…",
+          "link": "https://rootsofprogress.org/devanney-on-the-nuclear-flop",
+          "publishedOn": "2021-04-16T09:18:28.000Z",
+          "wordCount": 4788,
+          "sourceHref": "https://rootsofprogress.org/feed.xml",
+          "sourceTitle": "The Roots of Progress",
+          "title": "Why has nuclear power been a flop?"
+        },
+        {
+          "description": "I’ve been reading Andrew Carnegie’s autobiography, published late in his life, in the early 1900s. Here are some interesting themes and quotes. (Emphasis added in all block quotes below.)\nScience and steel\nOne key to Carnegie‘s success in the iron business is that he was one of the first to seriously apply chemistry:\nLooking back to-day it seems incredible that only forty years ago (1870) chemistry in the United States was an almost unknown agent in connection with the manufacture of pig iron. It was the ag…",
+          "link": "https://rootsofprogress.org/andrew-carnegie-autobiography",
+          "publishedOn": "2021-04-08T13:56:35.000Z",
+          "wordCount": 5814,
+          "sourceHref": "https://rootsofprogress.org/feed.xml",
+          "sourceTitle": "The Roots of Progress",
+          "title": "Highlights from The Autobiography of Andrew Carnegie"
+        },
+        {
+          "description": "I’ve started writing a book about the accomplishments of industrial civilization, the major discoveries and inventions behind them, and the meaning of it all. I’m hosting a 13-month series of discussion salons through Interintellect based on it.\nSign up here.\nThe book is very much a work in progress—won’t be out for a couple of years. But we’ll go through the outline chapter by chapter. Each month I’ll present the material I have so far and the open questions I’m still researching, and we’ll discuss.\nThis i…",
+          "link": "https://rootsofprogress.org/discussion-series-the-story-of-industrial-civilization",
+          "publishedOn": "2021-04-05T11:56:58.000Z",
+          "wordCount": 796,
+          "sourceHref": "https://rootsofprogress.org/feed.xml",
+          "sourceTitle": "The Roots of Progress",
+          "title": "I’m writing a book! And hosting a discussion series on it"
+        }
+      ]
+    },
+    {
+      "href": "http://slatestarcodex.com/feed/",
+      "articles": []
     }
   ],
   "cliVersion": "1.2.3"
