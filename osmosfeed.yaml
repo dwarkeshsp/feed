@@ -1,4 +1,7 @@
-# cacheUrl: https://dwarkeshsp.github.io/feed/cache.json
+cacheUrl: https://dwarkeshsp.github.io/feed/cache.json
+
+cacheMaxDays: 365
+
 sources:
   - href: https://applieddivinitystudies.com/atom.xml
   - href: https://astralcodexten.substack.com/feed/
