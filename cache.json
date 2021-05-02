@@ -20,6 +20,168 @@
           "sourceHref": "https://applieddivinitystudies.com/atom.xml",
           "sourceTitle": "Applied Divinity Studies",
           "title": "My Fantasy Intellectual Draft Picks"
+        },
+        {
+          "description": "[trigger warning: everything]\nWhat’s the point of any of this?\nThis is not for the purpose of cause prioritization. Unfortunately, the severity of a problem is not necessarily related to its tractability, especially for lay people looking to donate money or time. If that’s your interest, check out the 80,000 hours problem profiles.\nThis is also an explicitly short-termist list. There’s no mention of climate change or existential risks. There’s no mention of abstract causes like “failures of international co…",
+          "link": "https://applieddivinitystudies.com/bad/",
+          "publishedOn": "2021-03-27T07:00:00.000Z",
+          "wordCount": 847,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "A List of Very Bad Things"
+        },
+        {
+          "description": "This is an evergreen post. It’s linked from the header, and will be updated periodically. If I’ve made mistakes not listed here, let me know and I’ll issue a correction.\nVaccine Acceptance\nPost: Was Vaccine Production Actually Delayed?\nSummary: I wrote that historical ills, including the Tuskegee study may play a role in diminishing vaccine acceptance. Two links from Marginal Revolution (1, 2) indicate that there is no link.\nSeverity: Minor. This was an appendix to the post, and not central to the argument.…",
+          "link": "https://applieddivinitystudies.com/mistakes/",
+          "publishedOn": "2021-03-23T19:00:00.000Z",
+          "wordCount": 837,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Mistakes"
+        },
+        {
+          "description": "This is an evergreen post. It’s linked from the header, and will be updated periodically.\nStat News\nPost: Contra StatNews: How Long to Herd Immunity?\nType: Factual errors.\nSummary: A Stat article forecasting time to herd immunity misrepresents basic research findings and contains non-trivial arithmetic errors.\nEpistemic Status of Source: High – Stat is widely acclaimed and often featured on Marginal Revolution as an authoritative source.\nAttempts to Contact: They have a form for correction requests.\nRespons…",
+          "link": "https://applieddivinitystudies.com/criticism/",
+          "publishedOn": "2021-03-23T18:00:00.000Z",
+          "wordCount": 331,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Criticism"
+        },
+        {
+          "description": "This is an evergreen post. It’s linked from the header, and will be updated periodically.\nLambda School Incentives\nGoogle Sheet\nPost: Lambda School’s Incredibly Naive Incentive Alignment\nDescription: Modeling Lambda School’s ISA incentive structure with consideration of taxation. A fully functional California income tax calculator.\nFindings: There is only a brief window where student and LS returns grow in tandem. LS is mostly not aligned with students, or actually incentivized against their interests. Base…",
+          "link": "https://applieddivinitystudies.com/data/",
+          "publishedOn": "2021-03-23T13:00:00.000Z",
+          "wordCount": 698,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Data and Models"
+        },
+        {
+          "description": "NFTs are stupid. I don’t feel compelled to make this case. Enough people have already flaunted their opinions (as well as their ignorance).\nBut how stupid is the conventional fine art world? Fairly stupid:\n\nThe drab free port zone near the Geneva city center, a compound of blocky gray and vanilla warehouses surrounded by train tracks, roads and a barbed-wire fence, looks like the kind of place where beauty goes to die. But within its walls, crated or sealed cheek by jowl in cramped storage vaults, are more …",
+          "link": "https://applieddivinitystudies.com/crypto-stupid/",
+          "publishedOn": "2021-03-16T07:00:00.000Z",
+          "wordCount": 1231,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Crypto is Stupid; Everything is Stupid; It's All Okay"
+        },
+        {
+          "description": "Everyone loves asymmetric opportunities. If the stock goes down, you lose nothing, but it goes up, you win! Taleb has written an entire book (or five) about them. The Naval / James Clear Twitter thread got thousands of likes and retweets.\nA recent post from Tom Cleveland illustrates one type of asymmetric opportunity called a call option. It gives you the right, but not the obligation, to purchase an asset at a pre-specified price. If the asset price goes down, you don’t have to buy at a loss so your downsi…",
+          "link": "https://applieddivinitystudies.com/asymmetric/",
+          "publishedOn": "2021-03-15T07:00:00.000Z",
+          "wordCount": 2068,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Asymmetric Opportunities and the Cult of Optionality"
+        },
+        {
+          "description": "I typically work 4 hours a day, and am generous about taking vacations and weekends off.\nRecently, Alexey Guzey challenged me to work 12 hours non-stop. The idea was extremely unappealing to me. So much so that it worried me, and I decided to accept the challenge if only to see what I was so averse to.\nDoes that sound silly? After all, a 12 hour workday is not that long. People typically work 8 hours 5 days a week, surely a single  12 hour day is reasonable?\nThe difference is that it’s all “deep work”, or a…",
+          "link": "https://applieddivinitystudies.com/hyperproductivity/",
+          "publishedOn": "2021-03-11T08:00:00.000Z",
+          "wordCount": 830,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Against and Then for Hyperproductivity"
+        },
+        {
+          "description": "Follow up to Monday’s post Why Hasn’t Effective Altruism Grown Since 2015?. See discussions on r/scc, LessWrong and EA Forum.\nI’m honored to have received responses from Scott Alexander, Katja Grace (AI Impacts), Peter Hurford (Rethink Priorities), and Rob Bensinger (MIRI), among many other insightful replies.\nThis is a long post, so I’m going to put the summary first:\n\nEA has shifted from “earning to give” to “x-risk”, leading to less of as mass movement and more focused attempts to cultivate and develop t…",
+          "link": "https://applieddivinitystudies.com/ea-growth-replies/",
+          "publishedOn": "2021-03-10T08:00:00.000Z",
+          "wordCount": 4630,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Responses and Testimonies on EA Growth"
+        },
+        {
+          "description": "In his latest post, Scott writes on the success of radical top-down reforms, contrary to his previous writing on the dangers of radical top-down reforms.\nThis leads to confusion when he approaches the Acemoglu et al. paper The Consequences of Radical Reform:\n\nI think my real concern here is that someone might use this paper to support some sort of far-left reform, saying “come on, this shows that reforms work better than leaving institutions in place”, when an alternate lesson is “capitalism works better th…",
+          "link": "https://applieddivinitystudies.com/reforms/",
+          "publishedOn": "2021-03-09T08:00:00.000Z",
+          "wordCount": 1371,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "On Radical Reforms, Technocracy and Seeing Like a State"
+        },
+        {
+          "description": "Follow up post here. See discussions on r/scc, LessWrong and EA Forum.\nHere’s a chart of GiveWell’s annual money moved. It rose dramatically from 2014 to 2015, then more or less plateaued:\n\nOpen Philanthropy doesn’t provide an equivalent chart, but they do have a grants database, so I was able to compile the data myself. It peaks in 2017, then falls a bit and plateaus:\n\n(Note that the GiveWell and Open Philanthropy didn’t formally split until 2017. GiveWell records $70.4m from Open Philanthropy in 2015, whi…",
+          "link": "https://applieddivinitystudies.com/ea-growth/",
+          "publishedOn": "2021-03-08T08:00:00.000Z",
+          "wordCount": 2780,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Why Hasn't Effective Altruism Grown Since 2015?"
+        },
+        {
+          "description": "Alternative title: Byrne Hobart is 64x better than the average hedge fund.\nOn December 14, Byrne wrote: “Disclosure: I’m long a small amount of FireEye now that I understand it a bit better. 300,000 customers and 400 of the Fortune 500 is a large addressable market.”\nThen this happened:\n\nOver the next 7 days, Byrne’s investment shot up 66%. If this trade was representative of a typical week, it would indicate annual returns of 305,439,776,880%. Starting 2020 with $1, he would be the richest man in the world…",
+          "link": "https://applieddivinitystudies.com/byrne-portfolio/",
+          "publishedOn": "2021-02-19T08:00:00.000Z",
+          "wordCount": 1202,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "The Byrne Hobart Portfolio"
+        },
+        {
+          "description": "The term “nominative determinism” captures the idea that name is destiny. Storm Field is the real given name of a meteorologist, Igor Judge the real name of a justice. As Peter Thiel once put it, “the names of companies are often very predictive of future failure or success.”\nI favor the contrary hypothesis: nominative anti-determinism. Uber Express is the slowest of their offerings, Operation Iraqi Freedom was a violation of sovereignty. This occurs not by coincidence, but as the result of desperate overco…",
+          "link": "https://applieddivinitystudies.com/progress-irony/",
+          "publishedOn": "2021-02-18T08:00:00.000Z",
+          "wordCount": 545,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "The Irony of \"Progress Studies\""
+        },
+        {
+          "description": "See also No Revival for the Industrial Research Lab, Notes on Adam Marblestone’s Focused Research Organizations, and Is There a Translational Research Gap?.\nMore anecdotally, see Bus Factor 1, The Murder of Wilbur Wright and Highlights from the Emails on Golden Handcuffs.\nAll emphasis mine, some of these are several comments or emails grafted together, with minor omissions. Commentary at the bottom.\nAdam Marblestone\n\nOne comment is actually I agree a lot of effort is going to “bridging the valley of death”.…",
+          "link": "https://applieddivinitystudies.com/organization-comments/",
+          "publishedOn": "2021-02-11T08:00:00.000Z",
+          "wordCount": 1476,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Highlights from the Comments on Organizing Research"
+        },
+        {
+          "description": "See also Wake Up, You’ve Been Asleep for 50 Years, and Book Review: Why We’re Polarized.\nUp until 1971, we were proposing and passing new amendments at a pretty steady rate:\n\nThe current drought is our longest since 1865, when a 62 year streak ended with the passage of the 13th amendment banning slavery.\nThere was a 27th amendment, completed in 1992, but it was proposed in 1789, and is a fairly minor issue relating to Congressional salaries.\nMore broadly, there’s even stagnation in terms of each amendment’s…",
+          "link": "https://applieddivinitystudies.com/polarization-constitution/",
+          "publishedOn": "2021-02-10T08:00:00.000Z",
+          "wordCount": 1643,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Why Haven't We Passed any Constitutional Amendments Lately?"
+        },
+        {
+          "description": "While I was busy explaining why the industrial research labs won’t return, an exciting thread unraveled on Twitter arguing about how to revive them anyway.\nTo kick things off, Activate CEO Ilan Gur argues that tech startups are the new Bell Labs, citing Moderna as proof. Then Sarah Constantin jumps in to explain that Moderna was just commercializing research from a university lab, and startups can’t do fundamental research because VCs won’t fund it.\nFinally, Adam Marblestone chimes in to plug Focused Resear…",
+          "link": "https://applieddivinitystudies.com/translational/",
+          "publishedOn": "2021-02-09T18:00:00.000Z",
+          "wordCount": 1691,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Is There a Translational Research Gap?"
+        },
+        {
+          "description": "Tom Brady just won the superbowl again.\nPreviously, you could have attributed his streak to the Patriots as a team. But then he left for the Buccaneers, which had not won a superbowl since 2002, and immediately won again. He pulled Rob Gronkowski out of retirement who had previously been with him on the Patriots, so maybe it’s the two of them together, but still.\nIt’s even more insane when you remember that Tom Brady’s first Super Bowl win was in 2002. Was he some rookie back then, nominally on the team but…",
+          "link": "https://applieddivinitystudies.com/great-for-longer/",
+          "publishedOn": "2021-02-08T20:00:00.000Z",
+          "wordCount": 1186,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Are Athletes Great for Longer?"
+        },
+        {
+          "description": "I write full-time. That’s not to say I’m at my desk 40 hours a week, just that I don’t have anything else going on.\nIn January, I published a post on average every other day, then didn’t publish for a week until today.\nThe latest post is good, but does it represent a week’s output? Why does everything take so long? Am I even trying?\nThere are a couple answers:\n\nI only publish ~50% of the posts I write\nEvery post I publish has to be rewritten at least once\n\nIt doesn’t take too long to hash out a quick draft,…",
+          "link": "https://applieddivinitystudies.com/blogging-speed/",
+          "publishedOn": "2021-02-08T19:00:00.000Z",
+          "wordCount": 797,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Why does this blog take so long to write?"
+        },
+        {
+          "description": "After arguing that industrial research labs won’t return, I was hopeful for a new mechanism to reignite transformative research, but had no idea what it would actually be.\nA couple hours later, Nintil told me about Focused Research Organizations.\nIn short: FROs promise to pair government funding with startup agility, and a mandate to pursue high-impact pre-commercial research. There isn’t a lot of literature out on them yet, but it’s a compelling proposal. [0]\nGoing into this, it’s worth noting that Adam ex…",
+          "link": "https://applieddivinitystudies.com/FRO/",
+          "publishedOn": "2021-02-08T18:00:00.000Z",
+          "wordCount": 2145,
+          "sourceHref": "https://applieddivinitystudies.com/atom.xml",
+          "sourceTitle": "Applied Divinity Studies",
+          "title": "Notes on Adam Marblestone’s Focused Research Organizations"
         }
       ]
     },
@@ -228,6 +390,213 @@
           "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
           "sourceTitle": "The Scholar's Stage",
           "title": "For God and Progress: Notes On Training the Medical Mind"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/04/welcome-to-decade-of-concern.html",
+          "publishedOn": "2021-04-01T09:16:00.013Z",
+          "wordCount": 10658,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Welcome to the Decade of Concern"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/03/notes-from-all-over-march-2021.html",
+          "publishedOn": "2021-03-30T06:24:00.004Z",
+          "wordCount": 924,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Notes From All Over - March 2021"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/03/a-few-more-notes-on-where-have-all.html",
+          "publishedOn": "2021-03-26T21:45:00.010Z",
+          "wordCount": 3307,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "A Few More Notes on the Dearth of Great Works"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/03/on-laws-and-gods.html",
+          "publishedOn": "2021-03-24T02:36:00.019Z",
+          "wordCount": 10184,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "On Laws and Gods"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/03/against-kennan-sweepstakes.html",
+          "publishedOn": "2021-03-06T20:18:00.004Z",
+          "wordCount": 3467,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Against the Kennan Sweepstakes"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/03/all-measures-short-of-cross-straits.html",
+          "publishedOn": "2021-03-04T00:40:00.005Z",
+          "wordCount": 5428,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "All Measures Short of a Cross Straits Invasion"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/02/longfellow-and-decline-of-american.html",
+          "publishedOn": "2021-02-27T20:57:00.031Z",
+          "wordCount": 6044,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Longfellow and the Decline of American Poetry"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/02/the-framers-and-framed-notes-on-slate.html",
+          "publishedOn": "2021-02-26T01:19:00.043Z",
+          "wordCount": 12217,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "The Framers and the Framed: Notes On the Slate Star Codex Controversy"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/02/why-writers-and-think-tankers-feud-so.html",
+          "publishedOn": "2021-02-16T22:27:00.007Z",
+          "wordCount": 2994,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Why Writers (and Think Tankers) Feud So Viciously"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/02/understanding-taiwanese-nationalism.html",
+          "publishedOn": "2021-02-03T20:44:00.014Z",
+          "wordCount": 5342,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Understanding Taiwanese Nationalism: A Historical Primer in Bullet Points"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/01/where-have-all-great-works-gone.html",
+          "publishedOn": "2021-01-30T20:44:00.004Z",
+          "wordCount": 5030,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Where Have All the Great Works Gone?"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/01/the-2021-scholars-stage-readers-poll.html",
+          "publishedOn": "2021-01-29T22:01:00.005Z",
+          "wordCount": 1815,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "The 2021 Scholar's Stage Readers Poll!"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/01/bootstrapping-marx-with-peasant-masses.html",
+          "publishedOn": "2021-01-29T18:03:00.003Z",
+          "wordCount": 3316,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Bootstrapping Marx With the Peasant Masses"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/01/the-first-failure-of-liberal-rules.html",
+          "publishedOn": "2021-01-21T16:00:00.002Z",
+          "wordCount": 2866,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "The First Failure of the Liberal Rules Based Order"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/01/assessing-trump-china-strategy-key.html",
+          "publishedOn": "2021-01-19T02:40:00.004Z",
+          "wordCount": 1917,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Assessing the Trump China Strategy: The Key Documents"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/01/everything-i-got-wrong-in-2020.html",
+          "publishedOn": "2021-01-06T19:25:00.023Z",
+          "wordCount": 6312,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Everything I Got Wrong in 2020"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/01/every-book-i-read-in-2020.html",
+          "publishedOn": "2021-01-05T00:02:00.009Z",
+          "wordCount": 2532,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Every Book I Read in 2020"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2020/12/a-theory-of-authoritarian-personality.html",
+          "publishedOn": "2020-12-20T02:28:00.005Z",
+          "wordCount": 2794,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "A Theory of Authoritarian Personality Cults"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2020/12/spengler-and-search-for-science-of.html",
+          "publishedOn": "2020-12-15T00:25:00.009Z",
+          "wordCount": 9937,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Spengler and the Search for a Science of Human Culture"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2020/12/chinas-attack-on-australia-is-about.html",
+          "publishedOn": "2020-12-11T17:27:00.003Z",
+          "wordCount": 3009,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "China's Attack on Australia is About America"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2020/11/leninist-politics-reading-course.html",
+          "publishedOn": "2020-12-01T04:41:00.020Z",
+          "wordCount": 3408,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Leninist Politics: A Reading Course"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2020/11/why-i-am-bearish-on-substack.html",
+          "publishedOn": "2020-11-23T02:34:00.004Z",
+          "wordCount": 5186,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Why I am Bearish on Substack"
+        },
+        {
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2020/11/do-not-choose-susan-rice.html",
+          "publishedOn": "2020-11-19T18:37:00.003Z",
+          "wordCount": 3698,
+          "sourceHref": "http://scholars-stage.blogspot.com/feeds/posts/default",
+          "sourceTitle": "The Scholar's Stage",
+          "title": "Do Not Choose Susan Rice"
         }
       ]
     },
@@ -278,12 +647,328 @@
           "sourceHref": "https://fakenous.net/?feed=rss2",
           "sourceTitle": "Fake Nous",
           "title": "My New Book!"
+        },
+        {
+          "description": "A little while ago, I heard the story of Daryl Davis on a podcast. Daryl Davis is an African American musician who has basically caused hundreds of KKK members to leave the Klan just by talking. This is a TEDx talk by him: https://youtu.be/fw0vS0qvYo0. And his podcast, Changing Minds: https://change.minds.com/feed. In case you haven’t heard &#8230; Continue reading Daryl Davis: American Hero",
+          "link": "https://fakenous.net/?p=2214",
+          "publishedOn": "2021-03-27T15:00:00.000Z",
+          "wordCount": 3427,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "Daryl Davis: American Hero"
+        },
+        {
+          "description": "For many years, I wondered why people go to war as often as they do. I heard a number of theories about this, but they were all unsatisfying. They always left an element of unexplained irrationality. Not just immorality, mind you (which is understandable, if deplorable), but sheer, obvious imprudence. Then one day, I found &#8230; Continue reading Why Humans Fight",
+          "link": "https://fakenous.net/?p=2207",
+          "publishedOn": "2021-03-20T15:00:00.000Z",
+          "wordCount": 5650,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "Why Humans Fight"
+        },
+        {
+          "description": "When you hear someone confidently declaring &#8220;BTC is going to be $100k later this year&#8221; (when its current actual price is $50k) you should probably completely discount that. If it could actually be known, based on publicly available information, that BTC would be trading at $100k later this year, then it would be about $100k &#8230; Continue reading Why I Think Your Investment Advice Is Bullshit",
+          "link": "https://fakenous.net/?p=2197",
+          "publishedOn": "2021-03-06T16:00:00.000Z",
+          "wordCount": 2652,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "Why I Think Your Investment Advice Is Bullshit"
+        },
+        {
+          "description": "[*Qualification: I don’t really hate Shakespeare. I merely fail to enjoy his work. But who wants to read a post called “Why I fail to enjoy Shakespeare’s work”?] For about as long as I can remember, I’ve been hearing about how amazingly awesome William Shakespeare is, the greatest writer ever to walk the Earth, etc., &#8230; Continue reading Why I Hate Shakespeare*",
+          "link": "https://fakenous.net/?p=2186",
+          "publishedOn": "2021-02-27T16:00:00.000Z",
+          "wordCount": 4704,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "Why I Hate Shakespeare*"
+        },
+        {
+          "description": "Continuing my discussion of the contents of a general education: In the last two posts, I complained about gym, foreign language, history, math, science, and English education. This time, we turn to cultural diversity requirements, then the things that should be but aren’t included in general education, such as philosophy and economics. But first … &#8230; Continue reading What Should Students Learn?, Part 3",
+          "link": "https://fakenous.net/?p=2168",
+          "publishedOn": "2021-02-20T16:00:00.000Z",
+          "wordCount": 4759,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "What Should Students Learn?, Part 3"
         }
       ]
     },
     {
       "href": "https://nintil.com/rss.xml",
-      "articles": []
+      "articles": [
+        {
+          "description": "Last year I tweeted about something I called cozy futurism;\nCool-shit futurism (space colonization, moon telescopes, tech for the sake of tech to some extent) vs cozy futurism (urban reform, renewable energy, solving climate change; focusing on specific problems and having tech as an ends) are categories I&#39;ve been thinking about recently\n&mdash; José Luis Ricón Fernández de la Puente (@ArtirKel) November 10, 2020\n \nRecently there were a series of tweets that got me thinking again about the same idea;\nSp…",
+          "link": "https://nintil.com/cozy-futurism/",
+          "publishedOn": "2021-03-29T00:00:00.000Z",
+          "wordCount": 1173,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Cozy futurism"
+        },
+        {
+          "description": "A roundtable on Richard Hamming\nCombination therapies are very rare, but on my view underrated, outside of oncology. A paper on their origin, in the treatment of tuberculosis. Related work.\nNoah Smith interview with Patrick Collison and explainer on inflation\nA call for a new World Fair\nSome social science bashing coming from social scientists Andrew Gelman\nPrivate cities in China\nFusion startups continue to make progress\nSpencer Greenberg on self-control\nThe New Space Race, with some cost charts\nIn case yo…",
+          "link": "https://nintil.com/links-46/",
+          "publishedOn": "2021-03-25T00:00:00.000Z",
+          "wordCount": 672,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Links (46)"
+        },
+        {
+          "description": "In a previous post in the Fund People, not Projects series I talked about a potential new structure for a hypothetical funding agency. That was just one proposal among many one could make. This post has a set of other such proposals, along with a brief justification for why it might be a good idea. The proposals are not fully fleshed out but they are meant to be inspirational, and intended to be more broadly in the right direction than precisely ready for implementation.\nThe Young Researchers Research Insti…",
+          "link": "https://nintil.com/new-science-models/",
+          "publishedOn": "2021-03-21T00:00:00.000Z",
+          "wordCount": 1473,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "New Models for Funding and Organizing Science"
+        },
+        {
+          "description": "In my Fund People, Not Projects post series I discussed various reforms that have been proposed to change the way science is funded. NIH is the world's largest science-funding entity (or entities), singlehandedly funding 60% of global non-private life sciences research in 2013. Given the possibilities of the life sciences, it is of interest to understand what one would have to do if one wanted to implement these reforms at NIH. Do you just need to convince the Director of an Institute to get changes approve…",
+          "link": "https://nintil.com/nih-levers/",
+          "publishedOn": "2021-03-11T00:00:00.000Z",
+          "wordCount": 1404,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "The levers of NIH: Paths to reform"
+        },
+        {
+          "description": "Back in 2015-2016 I wrote a series of posts criticizing the book &quot;The Entrepreneurial State&quot; by Mariana Mazzucato. While I'm not going to add much new to what I wrote back then, here I wanted to clarify what the critique amounts to in a concise way, providing a guide for all those posts. The earlier posts of the series are in Spanish and you can find them linked there but in what follows I'll just link to the English ones.\nFirst, read this to understand the context in which the book appeared. One …",
+          "link": "https://nintil.com/mazzucato/",
+          "publishedOn": "2021-03-09T00:00:00.000Z",
+          "wordCount": 1259,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Thoughts on Mariana Mazzucato's Entrepreneurial State"
+        },
+        {
+          "description": "What follows are some thoughts on the question &quot;what is aging&quot;. Initially there is a meandering back and forth around the concept using a non-biological example (pyramids), later we get to a more concrete definition of aging, and using that to cast some light on various questions like whether aging is a disease or not.\nYou can see a video companion to this essay here.\nA paper from last year (Cohen et al., 2020a) pointed to the lack of consensus within gerontology (&quot;aging research&quot;) as to…",
+          "link": "https://nintil.com/what-is-aging/",
+          "publishedOn": "2021-03-01T00:00:00.000Z",
+          "wordCount": 5225,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "What is aging?"
+        },
+        {
+          "description": "Aging &amp; Bio \nStrategies for reversal of brain aging with cell replacement\nReview of the role of long lived proteins in humans (Why should you care? Because these are hard to target to replace or remove)\nNew marker of brain aging found in blood. One more step towards assaying organ-specific health in humans without having to take biopsies.\nNew therapy found that can reduce weight and improve overall metabolic health\nSome proteins are by their nature not folded, or disordered\nROS and aging, a review. This…",
+          "link": "https://nintil.com/links-45/",
+          "publishedOn": "2021-02-26T00:00:00.000Z",
+          "wordCount": 591,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Links (45)"
+        },
+        {
+          "description": "In the US, federal R&amp;D expenditures are down since their peak in 1964 at 1.86% of GDP. Now they are 0.61% of GDP. This from ITIF is representative of this narrative:\n\nOr here's Gruber and Johnson,\n“From 1940 to 1964, federal funding for research and development increased twentyfold. At its peak in the mid-1960s, this spending amount was around 2 percent of annual gross domestic product—roughly one in every fifty dollars in the United States was devoted to government funding of research and development (…",
+          "link": "https://nintil.com/us-science-without-space/",
+          "publishedOn": "2021-02-22T00:00:00.000Z",
+          "wordCount": 1140,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "US Federal R&D spending decline: a breakdown"
+        },
+        {
+          "description": "Max Plank, who looked at thermodynamics, and it took him 20 years to reach his conclusions, that, that matter was, was quantized. (Donald Braben)\nMax Planck got his PhD around 1879, and it wouldn't be until ~1900 when he published the key papers postulating the quantization of energy, which he used to explain black body radiation (See here for some context). The 1879-1900 gap are probably those 20 years that Braben has in mind. It's interestingly hard to find anything published by Planck prior to this. His …",
+          "link": "https://nintil.com/science-time/",
+          "publishedOn": "2021-02-07T00:00:00.000Z",
+          "wordCount": 3127,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Fund People, not Projects V: Fund for longer?"
+        },
+        {
+          "description": "Econ\nThe wars over the minimum wage literature continue\nAnton Howes on how innovation spreads and can be fostered; he points to getting people in contact with inventors and innovators broadly is key. This seems right from my own experience.\nMatt Clancy on the Applied Turn in economics\nDoes education improve health? Those two things are correlated, but the correlation is probably not causal.\nEli Dourado on environmental review slowing things down\nExcessive use of professional licensing make US healthcare mor…",
+          "link": "https://nintil.com/links-44/",
+          "publishedOn": "2021-01-29T00:00:00.000Z",
+          "wordCount": 1356,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Links (44)"
+        },
+        {
+          "description": "Back in 2016 I wrote a Nintil classic, No great technological stagnation where I argued that, as far as we could see from public data, improvements in various technologies do not seem to be slowing down. If I were to rewrite it now I would note that trends in batteries and solar panels have continued, and I would add some new trends like for single cell sequencing (A whole new category that didn't exist until 2009).\nThere is one problem with my analysis there that I left open,\nAre there less 'really innovat…",
+          "link": "https://nintil.com/still-no-great-stagnation/",
+          "publishedOn": "2021-01-27T00:00:00.000Z",
+          "wordCount": 2302,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "The Great Stagnation: A misleading narrative"
+        },
+        {
+          "description": "Having a lot of tabs open seems to be so widespread that it has transcended being a Dawkinsian meme (Just a habit that people have and notice, and perhaps gets normalized and spreads) to become a regular meme1 where people are amused at the phenomenon.\nThis state of affairs is generally not liked by those that suffer from chronic tabitis, citing various reasons like\nMakes the computer slow\nA crash can make them disappear, losing those bookmarks forever\nTheir sheer number makes it hard to even read them anym…",
+          "link": "https://nintil.com/against-too-many-tabs/",
+          "publishedOn": "2021-01-26T00:00:00.000Z",
+          "wordCount": 696,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Against too many open tabs"
+        },
+        {
+          "description": "One of the hottest topics right now in the world of meta-science is using lotteries to fund research. In a nutshell, the rationale is that it's hard to tell who or what will be successful, and it is very costly to try to do so as well. A system that relies on peer review demands of researchers time to write grants and to review them. I have reviewed before the effectiveness of peer review at figuring out &quot;what's good&quot; in the context of grant awards, finding that peer review as currently practiced …",
+          "link": "https://nintil.com/funding-lotteries/",
+          "publishedOn": "2021-01-20T00:00:00.000Z",
+          "wordCount": 6619,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Fund people, not projects IV: Scientific egalitarianism and lotteries"
+        },
+        {
+          "description": "In previous posts I said that the extent to which &quot;Fund people&quot; works will depend on the distribution of scientific talent. Think about the following situation: Imagine that only a handful of scientists at every point in time are able to –if given the time and means–lead revolutions on par with the work of Darwin, Einstein, or Galileo (This is an extreme case admittedly because most of science does not look like this; most of science is more incremental and less memorable). I recently found two au…",
+          "link": "https://nintil.com/newton-hypothesis/",
+          "publishedOn": "2021-01-14T00:00:00.000Z",
+          "wordCount": 6398,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Fund people, not projects III: The Newton hypothesis; Is science done by a small elite?"
+        },
+        {
+          "description": "In a previous post I reviewed the evidence behind the effectiveness of two awards targeted at promising researchers, funding them more and for longer. The conclusion was that the evidence is not very strong and that the extent to which &quot;Fund people&quot; makes sense depends on other factors that we should also investigate.\nBoth the HHMI Investigator and NIH Director's Pioneer Award are targeted at scientists that are expected to perform well. The each require applicants to have shown success already. U…",
+          "link": "https://nintil.com/grant-peer-review/",
+          "publishedOn": "2021-01-08T00:00:00.000Z",
+          "wordCount": 7168,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Fund people, not projects II: Does pre-grant peer review work?"
+        },
+        {
+          "description": "Though I'm right now not employed as a software engineer I have been writing code under various hats for the last few years (As a data scientist, ML engineer, and software engineer). Naturally me being me I have not just done the thing but also reflected about the thing. Questions like what's good software, what does being a good software engineer mean, how should meetings be ran, and so on. Here are some thoughts on that.\nOrganizational issues\nThe cost of disagreement\nIn many cases a disagreement may be ov…",
+          "link": "https://nintil.com/programming/",
+          "publishedOn": "2020-12-31T00:00:00.000Z",
+          "wordCount": 2777,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Thinking about software engineering"
+        },
+        {
+          "description": "I started the year in London, attending later in in early March a private conference in Jackson Hole. Near the end of the conference the travel ban UK-&gt;USA was announced but I continued without paying much attention to it. Other than advances in science and technology I tend to pay little attention to current events (noise that repeats itself) and Covid was just the last of them. In a few years I'll look back and see exactly what Covid did in its proper context. So instead of reading and thinking about t…",
+          "link": "https://nintil.com/end-2020/",
+          "publishedOn": "2020-12-28T00:00:00.000Z",
+          "wordCount": 797,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Notes on 2020"
+        },
+        {
+          "description": "So there's this paper, Incentives and Creativity: Evidence from the academic life sciences (Azoulay, Graff Zivin, Manso 2011) that shows that Howard Hughes Medical Institute (HHMI) investigators (who are funded for a longer term and in a more open ended way) outperform those of the National Institutes of Health (NIH) that have shorter review cycles and more concrete grant proposals. This is seen as a vindication of the &quot;fund people, not projects&quot; paradigm. However, the effect sample reported is hu…",
+          "link": "https://nintil.com/hhmi-and-nih/",
+          "publishedOn": "2020-12-27T00:00:00.000Z",
+          "wordCount": 8249,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Fund people, not projects I: The HHMI and the NIH Director's Pioneer Award"
+        },
+        {
+          "description": "DeepMind finally cracks the protein-folding problem at the CASP14 competition (Or rather, is almost there; see here and here for a more sober take). As noted here a while back, it's astonishing to observe how outsiders have come into a field and solved the core problem the field had been working on for decades. Good news in that it means there may be free lunches waiting for us when better equipped outsiders (With money, AI, or anything else) enter new fields.\nDoes this constitute a solution of the static p…",
+          "link": "https://nintil.com/links-43/",
+          "publishedOn": "2020-12-19T00:00:00.000Z",
+          "wordCount": 904,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Links (43)"
+        },
+        {
+          "description": "Note: I am using Andy Matuschak's new Orbit project to add spaced repetition prompts to the blogpost to help you remember the content. Let me know what you think!\nScientists are getting older. Some have expressed concern at that fact. While the motivations for that concern are not always explicit, it usually boils down to two: One, a matter of fairness. Science getting older may mean that it's not making room for younger scientists; older scientists would be sitting in a limited number of chairs for life, s…",
+          "link": "https://nintil.com/age-and-science/",
+          "publishedOn": "2020-12-16T00:00:00.000Z",
+          "wordCount": 7146,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Was Planck right? The effects of aging on the productivity of scientists"
+        },
+        {
+          "description": "One of the points that Braben makes in Scientific Freedom, and one that others have made elsewhere, is that science is not as welcoming of new ideas as it may seem. The process of peer review stands in the way of new breakthroughs, and one man's crankery is another's brilliant insight, or so goes the story.\nThe examples of this that probably come to mind are old: Galileo and heliocentrism or perhaps Semmelweis and hand washing and in general the germ theory of disease. So one may think that science used to …",
+          "link": "https://nintil.com/discoveries-ignored/",
+          "publishedOn": "2020-12-02T00:00:00.000Z",
+          "wordCount": 9525,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Peer rejection in science"
+        },
+        {
+          "description": "On the statistics of individual variations of productivity in research laboratories\nEverything you always wanted to know about saturated fat\nPeter Mitchell and the ox phos wars, when OXPHOS was controversial\nLangmuir on pathological science\nSydney Brenner &quot;How academia and publishing are destroying scientific innovation&quot;\nWhat people don’t realise is that at the beginning, it was just a handful of people who saw the light, if I can put it that way. So it was like belonging to an evangelical sect, b…",
+          "link": "https://nintil.com/links-42/",
+          "publishedOn": "2020-11-29T00:00:00.000Z",
+          "wordCount": 899,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Links (42)"
+        },
+        {
+          "description": "Are ideas getting harder to find? (2020) by Nicholas Bloom, Chad Jones, John van Reenen and Michael Webb repeatedly pops up in discussions of technological progress, the great stagnation and related topics. They take a different angle from the usual, rather than debating whether there is stagnation or not in a range of metrics (Like TFP, Moore's law, crop yields), they instead opt for taking the optimistic view (That those metrics are advancing as usual, in some of their models) and calculate instead how mu…",
+          "link": "https://nintil.com/ideas-harder-find/",
+          "publishedOn": "2020-11-23T00:00:00.000Z",
+          "wordCount": 2647,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Are ideas getting harder to find?"
+        },
+        {
+          "description": "In my Bloom's Two sigma essay, in section 12, What should you learn I was thinking about a problem that comes before the question of the optimal learning method. Once one has decided, say, that one wants to start practicing SRS, what should one SRS? Should a software engineer SRS their programming language of choice? Of course not: They are using it all the time. Spaced repetition works, but knowledge or skills you use every day are effectively built in SRS. There is also knowledge one is exposed to daily t…",
+          "link": "https://nintil.com/what-should-you-memorize/",
+          "publishedOn": "2020-11-17T00:00:00.000Z",
+          "wordCount": 924,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "What should you remember? SRSing your life"
+        },
+        {
+          "description": "In the science policy world a term often heard is &quot;high-risk, high-reward&quot; activities; funding initiatives, projects, or researchers that individually are likely to fail but that also hold potential for truly radical, breakthrough discoveries. But what about &quot;low-risk, high-reward&quot;, wouldn't that be nice?\nOne more of Stripe Press' beautifully edited tomes, Scientific Freedom: the elixir of civilization, is Donald Braben's theoretical case for the existence of such scientific opportunitie…",
+          "link": "https://nintil.com/review-scientific-freedom/",
+          "publishedOn": "2020-11-01T00:00:00.000Z",
+          "wordCount": 3029,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Book review: Scientific Freedom, the elixir of civilization"
+        },
+        {
+          "description": "I just finished reading Vinay Prasad's Malignant, a book on the current state of oncology, covering everything from the way clinical trials are run to the myriad of ways cancer therapies  can be administered (as neoadjuvants, adjuvants, in a metastatic setting etc). \nI jokingly described Prasad's take as &quot;cancer therapiesnihilism&quot; on Twitter in the same way that John Ioannidis has been described as a methodological terrorist. It is nihilistic in that relative to what one would hear from the pharma…",
+          "link": "https://nintil.com/malignant-review/",
+          "publishedOn": "2020-10-31T00:00:00.000Z",
+          "wordCount": 1894,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Book review: Malignant"
+        },
+        {
+          "description": "Deriving multiple aging clocks out of looking at blood plasma; also includes nice table of proteins that accumulate (or decrease their frequency) with age and what they might be doing.\nBryan Caplan on Matt Yglesias' One Billion Americans\nIn the same way that the secretome of stem cells can ameliorate Alzheimer in a mouse model(See previous links), stem cells may not be needed to help regenerate injuries to the heart (in this case, in pigs), just what they secrete, as if telling cells &quot;hey there are ste…",
+          "link": "https://nintil.com/links-41/",
+          "publishedOn": "2020-10-17T00:00:00.000Z",
+          "wordCount": 631,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Links (41)"
+        },
+        {
+          "description": "What follows is an unedited guest post by the author of Applied Divinity Studies about Substack. While I don't necessarily endorse everything said in the text that follows, I thought it was an interesting post and the author asked me to guest-post it here.\nSome thoughts of my own as a prologue: \nLooking at things I read in my RSS I notice first that indeed I look at my RSS reader (Feedly), and not at my mailbox. RSS is a civilized way of following updates from disparate sites you like, aggregating them in o…",
+          "link": "https://nintil.com/substack-milquetoast/",
+          "publishedOn": "2020-10-17T00:00:00.000Z",
+          "wordCount": 4045,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "[Guest post] How Substack Became Milquetoast"
+        },
+        {
+          "description": "How Ichor Therapeutics (a sort of meta-company that incubates biotech startups) is run, and how it was built from scratch (They don't use external labs)\nA brief history of the last 50 years of aging research; mostly focused on what one might call &quot;classic&quot; aging research (That is focused around IGF-1, rapamycin, caloric restriction etc)\nSpeculation on how to increase antimatter production by a factor of 10 billion. Seems doable. This would be useful chiefly for spaceships I can imagine.\nIt is rare…",
+          "link": "https://nintil.com/links-40/",
+          "publishedOn": "2020-09-28T00:00:00.000Z",
+          "wordCount": 1303,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Links (40)"
+        },
+        {
+          "description": "Gene editing powered by retrotransposons, coming soon to a chromosome near you at some point\nIn my immunosenescence post I hinted at the possibility of the nervous system playing a role in the aging of hematopoietic stem cells. Well, shortly after a brief review about exactly that came out! And the same goes for the broader topic, neuronal regulation of immunity, and rejuvenation of neural stem cells.\nWhat happens if you give old animals young stem cells (in the form of bone marrow transplants)? Not much. N…",
+          "link": "https://nintil.com/links-39/",
+          "publishedOn": "2020-08-26T00:00:00.000Z",
+          "wordCount": 1051,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "Links (39)"
+        }
+      ]
     },
     {
       "href": "https://fantasticanachronism.com/atom.xml",
@@ -296,20 +981,373 @@
           "sourceHref": "https://fantasticanachronism.com/atom.xml",
           "sourceTitle": "Fantastic Anachronism",
           "title": "Book Review: The Decline and Fall of the Roman Empire"
+        },
+        {
+          "description": "Links\nMetasciencey Stuff\nI tried to report scientific misconduct. How did it go? It&#39;s exactly as tragicomic as you expect. Hilariously blatant fraud, recalcitrant journal editors (though some did their job properly), and of course &quot;A month after that, Southwest University cleared Dr. Zhang of all charges.&quot;\n\nThe clearest consequence of my actions has been that Zhang has gotten better at publishing. Every time I reported an irregularity with his data, his next article would not feature that irre…",
+          "link": "https://fantasticanachronism.com/2021/04/01/links-and-what-ive-been-reading-q1-2021/",
+          "publishedOn": "2021-04-01T11:17:52.000Z",
+          "wordCount": 2931,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Links & What I've Been Reading Q1 2021"
+        },
+        {
+          "description": "[[ ]] Level-1 or world space is an anthropomorphically scaled, predominantly vision-configured, massively multi-slotted reality system that is obsolescing very rapidly.\nGarbage time is running out.\nCan what is playing you make it to level-2?\n\nThe history of the world is a history of s-curves stacked on top of each other. Here&#39;s one of my favorite charts, showing growth in how much cutting edge could be produced from 1kg of flint during the stone age:1\n\nNote the logarithmic y-axis—the growth is not expon…",
+          "link": "https://fantasticanachronism.com/2021/03/23/two-paths-to-the-future/",
+          "publishedOn": "2021-03-23T13:35:43.000Z",
+          "wordCount": 5014,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Two Paths to the Future"
+        },
+        {
+          "description": "Three men jump over the fence of Princeton Cemetery under the cover of a moonless night. They know where they&#39;re going and quickly reach their target. After a few minutes of methodical digging they hit the bones. It&#39;s the head they really want, but they take a few more just to be sure. As the van drives off, a thermite charge annihilates everything left behind. An hour later they reach the coast and take a dinghy out to meet the submarine that is going to take them back to Shanghai.\nWithin a week, g…",
+          "link": "https://fantasticanachronism.com/2021/03/22/princeton-cemetery/",
+          "publishedOn": "2021-03-22T11:42:56.000Z",
+          "wordCount": 342,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Princeton Cemetery"
+        },
+        {
+          "description": "At the end of Jorge Luis Borges&#39;s Tlön, Uqbar, Orbis Tertius, the Tlönian conspiracy is taking over the world and the narrator retreats into esoteric literary pursuits. The final paragraph reads:\n\nThen English and French and mere Spanish will disappear from the globe. The world will be Tlön. I pay no attention to all this and go on revising, in the still days at the Adrogue hotel, an uncertain Quevedian translation (which I do not intend to publish) of Browne&#39;s Urn Burial.\n\nWho&#39;s Browne? What is…",
+          "link": "https://fantasticanachronism.com/2021/02/09/urne-buriall-in-tlon/",
+          "publishedOn": "2021-02-09T12:42:01.000Z",
+          "wordCount": 1592,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Urne-Buriall in Tlön and the Sedulous Ape"
+        },
+        {
+          "description": "The Best\n\nLucio Russo, The Forgotten Revolution: How Science Was Born in 300 BC and Why it Had to Be Reborn\nRusso argues that Hellenistic science was significantly more developed than generally believed, and that it was killed by the Romans. This is one of those books that you have to approach with aggressive skepticism: Russo makes the case for a Hellenistic hypothetico-deductive scientific method, and some of the deductions he makes from second-hand readings certainly seem a bit much. But even if you don&…",
+          "link": "https://fantasticanachronism.com/2021/01/18/the-best-and-worst-books-i-read-in-2020/",
+          "publishedOn": "2021-01-18T13:04:23.000Z",
+          "wordCount": 2986,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "The Best and Worst Books I Read in 2020"
+        },
+        {
+          "description": "Yesterday I wrote about fake experts and credentialism, but left open the question of how to react. The philosopher Edmund Gettier is famous for presenting a series of problems (known as Gettier cases) designed to undermine the justified true belief account of knowledge. I&#39;m interested in a more pragmatic issue: people rejecting bad science when they don&#39;t have the abilities necessary to make such a judgment, or in other words, unjustified true disbelief.1\nThere are tons of articles suggesting that …",
+          "link": "https://fantasticanachronism.com/2021/01/12/unjustified-true-disbelief/",
+          "publishedOn": "2021-01-12T13:53:10.000Z",
+          "wordCount": 2222,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Unjustified True Disbelief"
+        },
+        {
+          "description": "I vacillate between two modes: sometimes I think every scientific and professional field is genuinely complex, requiring years if not decades of specialization to truly understand even a small sliver of it, and the experts1 at the apex of these fields have deep insights about their subject matter. The evidence in favor of this view seems pretty good, a quick look at the technology, health, and wealth around us ought to convince anyone.\nBut sometimes one of these masters at the top of the mountain will say s…",
+          "link": "https://fantasticanachronism.com/2021/01/11/are-experts-real/",
+          "publishedOn": "2021-01-11T12:21:13.000Z",
+          "wordCount": 3028,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Are Experts Real?"
+        },
+        {
+          "description": "Links\nForecasting\nArpit Gupta on prediction markets vs 538 in the 2020 election: &quot;Betting markets are pretty well calibrated—state markets that have an estimate of 50% are, in fact, tossups in the election. 538 is at least 20 points off—if 538 says that a state has a ~74% chance of going for Democrats, it really is a tossup.&quot; Also, In Defense of Polling: How I earned $50,000 on election night using polling data and some Python code. Here is a giant spreadsheet that scores 538/Economist vs markets.…",
+          "link": "https://fantasticanachronism.com/2020/12/30/links-and-what-ive-been-reading-q4-2020/",
+          "publishedOn": "2020-12-30T12:40:35.000Z",
+          "wordCount": 3064,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Links & What I've Been Reading Q4 2020"
+        },
+        {
+          "description": "In 1969, Alfred Appel declared that Ada or Ardor was &quot;the last 19th-century Russian novel&quot;. Now we have in our hands a new last 19th-century Russian novel—perhaps even the final one. And while Nabokov selected the obvious and trivial task of combining the Russian and American novels, our &quot;Dostoyevsky&quot; (an obvious pseudonym) has given himself the unparalleled and interminably heroic mission of combining the Russian novel with the Mexican soap opera. I am pleased to report that he has succ…",
+          "link": "https://fantasticanachronism.com/2020/11/30/book-review-the-idiot/",
+          "publishedOn": "2020-11-30T12:50:01.000Z",
+          "wordCount": 2093,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Book Review: The Idiot"
+        },
+        {
+          "description": "It has been said that philosophy of science is as useful to scientists as ornithology is to birds. But perhaps it can be useful to metascientists?\nState of Play\nPhilosophy\nIn the 20th century, philosophy of science attracted first-rate minds: scientists like Henri Poincaré, Pierre Duhem, and Michael Polanyi, as well as philosophers like Popper, Quine, Carnap, Kuhn, and Lakatos. Today the field is a backwater, lost in endless debates about scientific realism which evoke the malaise of medieval angelology.1 D…",
+          "link": "https://fantasticanachronism.com/2020/11/28/metascience-and-philosophy/",
+          "publishedOn": "2020-11-28T12:51:34.000Z",
+          "wordCount": 2921,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Metascience and Philosophy"
+        },
+        {
+          "description": "Comparing Sweden&#39;s COVID-19 statistics to other European countries, two peculiar features emerge:\n\nDespite very different policies, Sweden has a similar pattern of cases.\nDespite a similar pattern of cases, Sweden has a very different pattern of deaths.\n\nSweden&#39;s Strategy\nWhat exactly has Sweden done (and not done) in response to COVID-19?\n\nThe government has banned large public gatherings.\nThe government has partially closed schools and universities: lower secondary schools remained open while olde…",
+          "link": "https://fantasticanachronism.com/2020/11/03/swedens-covid-19-numbers/",
+          "publishedOn": "2020-11-03T12:08:54.000Z",
+          "wordCount": 1312,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "The Riddle of Sweden's COVID-19 Numbers"
+        },
+        {
+          "description": "Boswell&#39;s Life of Johnson is not just one of my favorite books, it also engendered some of my favorite book reviews. While praise for the work is universal, the main question commentators try to answer is this: how did the worst man in the world manage to write the best biography?\nThe Man\nWho was James Boswell? He was a perpetual drunk, a degenerate gambler, a sex addict, whoremonger, exhibitionist, and rapist. He gave his wife an STD he caught from a prostitute.\nSelfish, servile and self-indulgent, laz…",
+          "link": "https://fantasticanachronism.com/2020/10/22/when-the-worst-man-in-the-world-writes-a-masterpiece/",
+          "publishedOn": "2020-10-22T13:57:27.000Z",
+          "wordCount": 3068,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "When the Worst Man in the World Writes a Masterpiece"
+        },
+        {
+          "description": "Links\nHigh Replicability of Newly-Discovered Social-behavioral Findings is Achievable: a replication of 16 papers that followed &quot;optimal practices&quot; finds a high rate of replicability and virtually identical effect sizes as the original studies.\nHow do you decide what to replicate? This paper attempts to build a model that can be used to pick studies to maximize utility gained from replications.\nGuzey on that deworming study, tracks which variables are reported across 5 different drafts of the pape…",
+          "link": "https://fantasticanachronism.com/2020/10/01/links-and-what-ive-been-reading-q3-2020/",
+          "publishedOn": "2020-10-01T12:34:25.000Z",
+          "wordCount": 1454,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Links & What I've Been Reading Q3 2020"
+        },
+        {
+          "description": "I&#39;ve seen things you people wouldn&#39;t believe.\n\nOver the past year, I have skimmed through 2578 social science papers, spending about 2.5 minutes on each one. This was due to my participation in Replication Markets, a part of DARPA&#39;s SCORE program, whose goal is to evaluate the reliability of social science research. 3000 studies were split up into 10 rounds of ~300 studies each. Starting in August 2019, each round consisted of one week of surveys followed by two weeks of market trading. I finish…",
+          "link": "https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/",
+          "publishedOn": "2020-09-11T18:31:28.000Z",
+          "wordCount": 7900,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "What's Wrong with Social Science and How to Fix It: Reflections After Reading 2578 Papers"
+        },
+        {
+          "description": "0.04% of papers are retracted. At least 1.9% of papers have duplicate images &quot;suggestive of deliberate manipulation&quot;. About 2.5% of scientists admit to fraud, and they estimate that 10% of other scientists have committed fraud. 27% of postdocs said they were willing to select or omit data to improve their results. More than 50% of published findings in psychology are false. The ORI, which makes about 13 misconduct findings per year, gives a conservative estimate of over 2000 misconduct incidents p…",
+          "link": "https://fantasticanachronism.com/2020/08/11/how-many-undetected-frauds-in-science/",
+          "publishedOn": "2020-08-11T05:19:23.000Z",
+          "wordCount": 1962,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "How Many Undetected Frauds in Science?"
+        },
+        {
+          "description": "In 1945, Robert Merton wrote:\n\nThere is only this to be said: the sociology of knowledge is fast outgrowing a prior tendency to confuse provisional hypothesis with unimpeachable dogma; the plenitude of speculative insights which marked its early stages are now being subjected to increasingly rigorous test.\n\nThen, 16 years later:\n\nAfter enjoying more than two generations of scholarly interest, the sociology of knowledge remains largely a subject for meditation rather than a field of sustained and methodical …",
+          "link": "https://fantasticanachronism.com/2020/07/29/book-review-science-fictions-by-stuart-ritchie/",
+          "publishedOn": "2020-07-28T21:21:09.000Z",
+          "wordCount": 1159,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Book Review: Science Fictions by Stuart Ritchie"
+        },
+        {
+          "description": "Tyler Cowen reviews Status and Beauty in the Global Party Circuit. &quot;In this world, girls function as a form of capital.&quot; The podcast is good too.\nLots of good info on education: Why Conventional Wisdom on Education Reform is Wrong (a primer)\nScott Alexander on the life of Herbert Hoover.\nLonger-Run Economic Consequences of Pandemics [speculative]:\n\nMeasured by deviations in a benchmark economic statistic, the real natural rate of interest, these responses indicate that pandemics are followed by su…",
+          "link": "https://fantasticanachronism.com/2020/07/01/links-q2-2020/",
+          "publishedOn": "2020-07-01T20:52:43.000Z",
+          "wordCount": 512,
+          "sourceHref": "https://fantasticanachronism.com/atom.xml",
+          "sourceTitle": "Fantastic Anachronism",
+          "title": "Links Q2 2020"
         }
       ]
     },
     {
       "href": "https://dormin.org/feed/",
-      "articles": []
+      "articles": [
+        {
+          "description": "There&#8217;s not too much to say on this one, so I&#8217;ll keep it short. My goal was to do nothing for 24 hours. Like everyone in the modern world, I’m hopelessly addicted to little dopamine&#8230; More",
+          "link": "https://dormin.org/2020/12/08/the-24-hour-do-nothing-challenge/",
+          "publishedOn": "2020-12-08T18:20:35.000Z",
+          "wordCount": 1630,
+          "sourceHref": "https://dormin.org/feed/",
+          "sourceTitle": "Dormin",
+          "title": "The 24 Hour “Do Nothing” Challenge"
+        },
+        {
+          "description": "A few weeks ago, a friend came to me with a bad idea. He wanted us to start a dietary supplement and nootropics company together. We would use dropshipping to offload most inventory and management&#8230; More",
+          "link": "https://dormin.org/2020/11/22/reflections-on-having-a-bad-idea/",
+          "publishedOn": "2020-11-22T16:08:10.000Z",
+          "wordCount": 4469,
+          "sourceHref": "https://dormin.org/feed/",
+          "sourceTitle": "Dormin",
+          "title": "Reflections on Having a Bad Idea"
+        },
+        {
+          "description": "For 24 hours I will be blind and alone in my apartment. I eventually want to try being blind for a week, but I’ll need seven days with no other obligations, and I won’t have&#8230; More",
+          "link": "https://dormin.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/",
+          "publishedOn": "2020-11-08T15:15:30.000Z",
+          "wordCount": 5136,
+          "sourceHref": "https://dormin.org/feed/",
+          "sourceTitle": "Dormin",
+          "title": "The Blind, Alone, and Confused for 24 Hours Challenge"
+        },
+        {
+          "description": "I was once at a dinner party and someone was telling me about her recent trip to Arizona. One of the highlights was visiting a biodome project where scientists had attempted to achieve a totally&#8230; More",
+          "link": "https://dormin.org/2020/10/06/thoughts-on-meaning-and-writing/",
+          "publishedOn": "2020-10-06T19:14:31.000Z",
+          "wordCount": 4041,
+          "sourceHref": "https://dormin.org/feed/",
+          "sourceTitle": "Dormin",
+          "title": "Thoughts on Meaning and Writing"
+        },
+        {
+          "description": "Pocket Guide to China is a 64 page primer for American soldiers stationed in China during World War II written by unknown personnel of the Special Service Division of the Army Service Forces of the&#8230; More",
+          "link": "https://dormin.org/2020/09/21/everything-you-need-to-know-about-chinese-people-according-to-the-us-government-in-1943/",
+          "publishedOn": "2020-09-21T14:20:55.000Z",
+          "wordCount": 1894,
+          "sourceHref": "https://dormin.org/feed/",
+          "sourceTitle": "Dormin",
+          "title": "Everything You Need to Know About Chinese People (According to the US Government in 1943)"
+        },
+        {
+          "description": "Prior to last month, I knew next to nothing about K-pop (Korean popular music) besides having heard a few songs in passing and the rumors of the industry’s infamous elements, most notably a string of&#8230; More",
+          "link": "https://dormin.org/2020/09/06/a-deep-dive-into-k-pop/",
+          "publishedOn": "2020-09-06T13:58:20.000Z",
+          "wordCount": 50839,
+          "sourceHref": "https://dormin.org/feed/",
+          "sourceTitle": "Dormin",
+          "title": "A Deep Dive into K-pop"
+        },
+        {
+          "description": "Bypassing numerous international restrictions, I traveled from America to Spain for a month-long trip in July.  Most of the month was spent in and around Madrid, but I took a brief trip north to Galicia,&#8230; More",
+          "link": "https://dormin.org/2020/08/09/notes-on-spain/",
+          "publishedOn": "2020-08-09T15:38:29.000Z",
+          "wordCount": 8227,
+          "sourceHref": "https://dormin.org/feed/",
+          "sourceTitle": "Dormin",
+          "title": "Notes on Spain"
+        },
+        {
+          "description": "I read and reviewed Oliver Platt’s Imperial Twilight: The Opium War and the End of China’s Last Golden Age over a year ago, and I haven’t been able to get one small story from the&#8230; More",
+          "link": "https://dormin.org/2020/07/10/how-much-would-you-need-to-be-paid-to-live-on-a-deserted-island-for-1-5-years-and-do-nothing-but-kill-seals/",
+          "publishedOn": "2020-07-10T14:15:24.000Z",
+          "wordCount": 3455,
+          "sourceHref": "https://dormin.org/feed/",
+          "sourceTitle": "Dormin",
+          "title": "How Much Would You Need to be Paid to Live on a Deserted Island for 1.5 Years and Do Nothing but Kill Seals?"
+        },
+        {
+          "description": "The Spanish conquest of the Aztecs was terrible. It was a prolonged period of pestilence, famine, torture, rape, plunder, destruction, conquest, cultural eradication, and general misery, with a short term death toll of something like&#8230; More",
+          "link": "https://dormin.org/2020/06/25/polygamy-human-sacrifices-and-steel-why-the-aztecs-were-awesome/",
+          "publishedOn": "2020-06-25T14:42:38.000Z",
+          "wordCount": 19048,
+          "sourceHref": "https://dormin.org/feed/",
+          "sourceTitle": "Dormin",
+          "title": "Polygamy, Human Sacrifices, and Steel – Why the Aztecs Were Awesome"
+        },
+        {
+          "description": "From May 15 to June 13, I was on the vegan diet. This experiment turned out to be far less interesting than expected, so I’m going to keep this short. &#160; Rules I can eat&#8230; More",
+          "link": "https://dormin.org/2020/06/15/30-day-vegan-challenge/",
+          "publishedOn": "2020-06-15T17:00:05.000Z",
+          "wordCount": 2151,
+          "sourceHref": "https://dormin.org/feed/",
+          "sourceTitle": "Dormin",
+          "title": "30 Day Vegan Challenge"
+        }
+      ]
     },
     {
       "href": "https://www.benkuhn.net/index.xml",
-      "articles": []
+      "articles": [
+        {
+          "description": "I start each of my weekly reviews by re-reading one of my favorite essays of life advice&mdash;a different one each week. It&rsquo;s useful for a few different reasons:\nIt helps me get into the right reflective frame of mind.\nThe best essays are dense enough with useful advice that I find new interesting bits every time I read them.\nMuch good advice is easy to understand, but hard to implement. So to get the most benefit from it, you should find whatever version of it most resonates you and then re-read it …",
+          "link": "https://www.benkuhn.net/weeklyessays/",
+          "publishedOn": "2020-12-23T00:00:00.000Z",
+          "wordCount": 2603,
+          "sourceHref": "https://www.benkuhn.net/index.xml",
+          "sourceTitle": "benkuhn.net",
+          "title": "My favorite essays of life advice"
+        },
+        {
+          "description": "source\n\nA common piece of interacting-with-people advice goes: &ldquo;often when people complain, they don&rsquo;t want help, they just want you to listen!&rdquo;\nFor instance, Nonviolent Communication:✻\n✻Nonviolent Communication, ch. 7.\n\nIt is often frustrating for someone needing empathy to have us assume that they want reassurance or “fix-it” advice.\nActive Listening:†\n†Active Listening, p. 2\n\nSimilarly, advice and information are almost always seen as efforts to change a person and thus serve as barrier…",
+          "link": "https://www.benkuhn.net/listen/",
+          "publishedOn": "2020-12-12T00:00:00.000Z",
+          "wordCount": 1869,
+          "sourceHref": "https://www.benkuhn.net/index.xml",
+          "sourceTitle": "benkuhn.net",
+          "title": "To listen well, get curious"
+        },
+        {
+          "description": "Sometimes people ask me what they should learn to become a better programmer. I feel like the default recommendation here is usually an obscure programming language or a textbook on some high-powered machinery like ML. So I always feel a little bit embarrassed and boring when I instead suggest going really deep on what you already know: your main programming language, web framework, object-relational mapper, UI library, version control system, database, Unix tools, etc. It&rsquo;s not shiny or esoteric, but…",
+          "link": "https://www.benkuhn.net/blub/",
+          "publishedOn": "2020-12-05T00:00:00.000Z",
+          "wordCount": 4228,
+          "sourceHref": "https://www.benkuhn.net/index.xml",
+          "sourceTitle": "benkuhn.net",
+          "title": "In defense of blub studies"
+        },
+        {
+          "description": "I spend a lot of my day on video calls. Wave is a distributed company, so they&rsquo;re the main way we communicate. But compared to talking in person, they feel unnatural:\nMost people have low-quality microphones and webcams that make them look and sound bad.\nThere&rsquo;s a lag between when you say something and when the other person hears it, making it hard to navigate conversational turn-taking.\nIf you&rsquo;re using headphones, you can&rsquo;t hear your own voice very well.\nBecause of echo cancellation…",
+          "link": "https://www.benkuhn.net/vc/",
+          "publishedOn": "2020-09-27T00:00:00.000Z",
+          "wordCount": 6124,
+          "sourceHref": "https://www.benkuhn.net/index.xml",
+          "sourceTitle": "benkuhn.net",
+          "title": "How to make video calls almost as good as face-to-face"
+        },
+        {
+          "description": "Once I realized that my attention was even scarcer than my time, I became an anti-distraction fanatic. During my weekly reviews I methodically went through my past week, figured out what had been distracting me, and tried to eliminate it or replace it with something less distracting.\nOver time, this has led me to find lots of tools (and ways of using my tools) that help me stay more focused. Here are some of the things I&rsquo;ve started doing:\n\nAnxious yet?\n\n\n\nI aggressively disable notifications and badge…",
+          "link": "https://www.benkuhn.net/focustools/",
+          "publishedOn": "2020-08-04T00:00:00.000Z",
+          "wordCount": 1767,
+          "sourceHref": "https://www.benkuhn.net/index.xml",
+          "sourceTitle": "benkuhn.net",
+          "title": "Tools for keeping focused"
+        },
+        {
+          "description": "Like many people, I have most of my best ideas in the shower.\nThis is sometimes annoying: I could use more than one shower&rsquo;s worth of good ideas a day, but I&rsquo;d rather not end up as a shrivelled yet insightful prune. Mostly, though, shower ideas are the incentive that keeps me smelling okay, so I grudgingly accept the constraint.\nThe time when it was most constraining was the first time I became a manager. I only had a few reports, so managing them wasn&rsquo;t a full-time job. But I was very bad…",
+          "link": "https://www.benkuhn.net/attention/",
+          "publishedOn": "2020-07-29T00:00:00.000Z",
+          "wordCount": 1985,
+          "sourceHref": "https://www.benkuhn.net/index.xml",
+          "sourceTitle": "benkuhn.net",
+          "title": "Attention is your scarcest resource"
+        },
+        {
+          "description": "June, 2017: my partner Eve and I are stuck at the visa-on-arrival desk in the domestic transfer wing of Bole International Airport, Addis Ababa. The rest of the transfer passengers, all Ethiopian, are waltzing past us to form a monster queue at passport control. As soon as I get my precious stamp, I sprint off to hold our place before more passengers sneak in front of us.\nTen minutes later, Eve finds me, groggy from our redeye and nonplussed about navigating the Ethiopian visa desk on her own. &ldquo;Why di…",
+          "link": "https://www.benkuhn.net/impatient/",
+          "publishedOn": "2020-07-23T00:00:00.000Z",
+          "wordCount": 4751,
+          "sourceHref": "https://www.benkuhn.net/index.xml",
+          "sourceTitle": "benkuhn.net",
+          "title": "Be impatient"
+        },
+        {
+          "description": "Every so often I read an essay that I end up thinking about, and citing in conversation, over and over again.\nHere&rsquo;s my index of all the ones of those I can remember! I&rsquo;ll try to keep it up to date as I think of more.\n(sign up on site)\nNelson Elhage, Computers can be understood. The attitude embodied in this essay is one of the things that has made the biggest difference to my effectiveness as an engineer:\nI approach software with a deep-seated belief that computers and software systems can be u…",
+          "link": "https://www.benkuhn.net/progessays/",
+          "publishedOn": "2020-07-20T00:00:00.000Z",
+          "wordCount": 2815,
+          "sourceHref": "https://www.benkuhn.net/index.xml",
+          "sourceTitle": "benkuhn.net",
+          "title": "Essays on programming I think about a lot"
+        },
+        {
+          "description": "Many large companies today are software monopolies that give their product away for free to get monopoly status, then do the most horrible things once they&rsquo;ve won. (Previously, previously.) Can we do anything about this?\nUnfortunately, &ldquo;you&rsquo;re the product&rdquo; is a popular business model for a reason: businesses like Facebook would be really hard to support without them.\nFacebook would be suicidal to charge its users money, because its entire selling point is that everyone uses it, and &…",
+          "link": "https://www.benkuhn.net/nwe/",
+          "publishedOn": "2020-07-05T00:00:00.000Z",
+          "wordCount": 558,
+          "sourceHref": "https://www.benkuhn.net/index.xml",
+          "sourceTitle": "benkuhn.net",
+          "title": "What should we do about network-effect monopolies?"
+        },
+        {
+          "description": "Every Saturday morning, I take 3-4 hours to think about how my week went and how I&rsquo;ll make the next one better.\nThe format has changed over time, but for example, here&rsquo;s some of what I reflected on last week:\nI noticed I&rsquo;d fallen far short of my goal for written output. I decided to allocate more time to reading this week, hoping that it would generate more ideas. And I reorganized my morning routine to make it easier to start writing in the morning.\nI looked at some stats from RescueTime …",
+          "link": "https://www.benkuhn.net/weekly/",
+          "publishedOn": "2020-06-21T00:00:00.000Z",
+          "wordCount": 1681,
+          "sourceHref": "https://www.benkuhn.net/index.xml",
+          "sourceTitle": "benkuhn.net",
+          "title": "My weekly review habit"
+        }
+      ]
     },
     {
       "href": "https://graymirror.substack.com/feed/",
       "articles": [
+        {
+          "description": "\"One must ruthlessly write what one knows to be the truth, or else shut up.\"",
+          "link": "https://graymirror.substack.com/p/the-frivolity-of-the-pundit-right",
+          "publishedOn": "2021-05-02T10:15:28.000Z",
+          "wordCount": 8617,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "The frivolity of the pundit right"
+        },
+        {
+          "description": "\"From which no traveler is tracked.\"",
+          "link": "https://graymirror.substack.com/p/the-divorce",
+          "publishedOn": "2021-05-02T09:19:36.000Z",
+          "wordCount": 490,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "The Divorce"
+        },
         {
           "description": "\"I will never buy you a diamond.\"",
           "link": "https://graymirror.substack.com/p/the-perfect-thing",
@@ -345,6 +1383,132 @@
           "sourceHref": "https://graymirror.substack.com/feed/",
           "sourceTitle": "Gray Mirror",
           "title": "Jennifer Kollmer, 1971-2021"
+        },
+        {
+          "description": "\"That negation which is the life-breath of materialism.\"",
+          "link": "https://graymirror.substack.com/p/lost-horses",
+          "publishedOn": "2021-04-02T09:32:57.000Z",
+          "wordCount": 500,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "Lost Horses"
+        },
+        {
+          "description": "\"What's wrong with the workers of the world uniting?\"",
+          "link": "https://graymirror.substack.com/p/censorship-a-21st-century-approach",
+          "publishedOn": "2021-03-31T00:58:21.000Z",
+          "wordCount": 10046,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "Censorship: a 21st-century approach"
+        },
+        {
+          "description": "\"Every vote is cast in person by an identified citizen before an independent witness.\"",
+          "link": "https://graymirror.substack.com/p/the-presentee-election",
+          "publishedOn": "2021-03-27T00:59:24.000Z",
+          "wordCount": 183,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "The presentee election"
+        },
+        {
+          "description": "\"We have just suffered such a defeat as no one would have believed possible.\"",
+          "link": "https://graymirror.substack.com/p/covid-and-our-strange-defeat",
+          "publishedOn": "2021-03-23T07:20:59.000Z",
+          "wordCount": 4418,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "Covid and our strange defeat"
+        },
+        {
+          "description": "\"The supreme function of statesmanship is to provide against preventable evils.\"",
+          "link": "https://graymirror.substack.com/p/end-international-travel-now",
+          "publishedOn": "2021-03-21T15:17:06.000Z",
+          "wordCount": 1147,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "End international travel now"
+        },
+        {
+          "description": "\"The entire recommencement of the whole work of the mind.\"",
+          "link": "https://graymirror.substack.com/p/the-restoration-of-science",
+          "publishedOn": "2021-03-20T09:11:49.000Z",
+          "wordCount": 185,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "The restoration of science"
+        },
+        {
+          "description": "Covid isn't China's Chernobyl. Or even America's. Covid belongs to science itself.",
+          "link": "https://graymirror.substack.com/p/covid-is-sciences-chernobyl",
+          "publishedOn": "2021-03-18T00:41:41.000Z",
+          "wordCount": 4935,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "Covid is science's Chernobyl"
+        },
+        {
+          "description": "\"Some people are larger than life. Hitler is larger than death.\"",
+          "link": "https://graymirror.substack.com/p/killing-the-ghosts",
+          "publishedOn": "2021-03-13T02:25:35.000Z",
+          "wordCount": 9165,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "Killing the ghosts"
+        },
+        {
+          "description": "\"Yet the test of a general is not how he looks on a horse.\"",
+          "link": "https://graymirror.substack.com/p/political-strategy-of-the-2020s",
+          "publishedOn": "2021-03-06T19:29:21.000Z",
+          "wordCount": 189,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "Political strategy of the 2020s"
+        },
+        {
+          "description": "\"You had unfortunately not understood what kind of a jungle you lived in.\"",
+          "link": "https://graymirror.substack.com/p/glasnost-and-perestroika",
+          "publishedOn": "2021-03-04T08:23:40.000Z",
+          "wordCount": 4181,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "Glasnost and perestroika"
+        },
+        {
+          "description": "\"For I will fight against my cankered country with the spleen of all the under fiends.\"",
+          "link": "https://graymirror.substack.com/p/coriolanus-and-the-conservatives",
+          "publishedOn": "2021-03-02T09:47:53.000Z",
+          "wordCount": 6781,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "Coriolanus and the conservatives"
+        },
+        {
+          "description": "\"This monarch has no selfish aims, for he has nothing to desire.\"",
+          "link": "https://graymirror.substack.com/p/64-the-technology-of-world-domination",
+          "publishedOn": "2021-02-28T08:25:16.000Z",
+          "wordCount": 188,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "#6.4: the technology of world domination"
+        },
+        {
+          "description": "\"Now he is safe from some disturbed intern whose clumsy advances he spurns.\"",
+          "link": "https://graymirror.substack.com/p/if-a-lion-could-talk",
+          "publishedOn": "2021-02-26T11:10:44.000Z",
+          "wordCount": 5977,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "If a lion could talk"
+        },
+        {
+          "description": "\"Fuck you, and fuck your blender.\"",
+          "link": "https://graymirror.substack.com/p/we-dont-have-to-live-like-this",
+          "publishedOn": "2021-02-25T00:13:08.000Z",
+          "wordCount": 6428,
+          "sourceHref": "https://graymirror.substack.com/feed/",
+          "sourceTitle": "Gray Mirror",
+          "title": "We don't have to live like this"
         }
       ]
     },
@@ -404,6 +1568,96 @@
           "sourceHref": "https://douthat.substack.com/feed/",
           "sourceTitle": "Reactions",
           "title": "Jurassic Park Is Frightening in the Dark"
+        },
+        {
+          "description": "Looking for paths out of religious decadence.",
+          "link": "https://douthat.substack.com/p/the-cul-de-sacs-of-the-christian",
+          "publishedOn": "2021-04-01T13:44:21.000Z",
+          "wordCount": 2918,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "The Cul-De-Sacs of the Christian Intellectual"
+        },
+        {
+          "description": "Notes on the (apparent) exhaustion of the Western mind.",
+          "link": "https://douthat.substack.com/p/decadence-and-the-intellectuals",
+          "publishedOn": "2021-03-24T16:09:01.000Z",
+          "wordCount": 2746,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "Decadence and the Intellectuals"
+        },
+        {
+          "description": "A response to Patrick Deneen on the compatibility of traditionalism and dynamism.",
+          "link": "https://douthat.substack.com/p/how-i-became-a-techno-futurist-kind",
+          "publishedOn": "2021-03-18T15:54:56.000Z",
+          "wordCount": 2864,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "How I Became a Techno-Futurist (Kind Of)"
+        },
+        {
+          "description": "Post-liberalism and its present limits, from Hungary to MAGA.",
+          "link": "https://douthat.substack.com/p/the-rights-answer-to-decadence",
+          "publishedOn": "2021-03-16T15:48:53.000Z",
+          "wordCount": 1913,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "The Right's Answer to Decadence?"
+        },
+        {
+          "description": "Sometimes the virtual really can transform the real.",
+          "link": "https://douthat.substack.com/p/memes-against-decadence",
+          "publishedOn": "2021-03-12T16:04:40.000Z",
+          "wordCount": 1149,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "Memes Against Decadence"
+        },
+        {
+          "description": "Arguing with Bruno Ma&#231;aes about virtual reality and decadence.",
+          "link": "https://douthat.substack.com/p/is-america-just-beginning",
+          "publishedOn": "2021-03-11T15:18:35.000Z",
+          "wordCount": 2013,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "Is America Just Beginning?"
+        },
+        {
+          "description": "Dreampolitik became real in the Capitol Riot. Did History come back with it?",
+          "link": "https://douthat.substack.com/p/the-implications-of-the-6th-of-january",
+          "publishedOn": "2021-03-10T14:41:39.000Z",
+          "wordCount": 1622,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "The Implications of the 6th of January"
+        },
+        {
+          "description": "Or does a decadent society get the technological progress it deserves?",
+          "link": "https://douthat.substack.com/p/can-science-end-decadence",
+          "publishedOn": "2021-03-09T14:40:52.000Z",
+          "wordCount": 2125,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "Can Science End Decadence?"
+        },
+        {
+          "description": "Has the coronavirus deepened our decadence, or pushed us somewhere new?",
+          "link": "https://douthat.substack.com/p/the-pandemic-and-the-decadent-society",
+          "publishedOn": "2021-03-08T14:45:34.000Z",
+          "wordCount": 2143,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "The Pandemic and the Decadent Society"
+        },
+        {
+          "description": "A cultural notebook",
+          "link": "https://douthat.substack.com/p/coming-soon",
+          "publishedOn": "2021-02-15T21:10:57.000Z",
+          "wordCount": 198,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "Welcome to Reactions"
         }
       ]
     },
@@ -504,7 +1758,80 @@
     },
     {
       "href": "https://www.forourposterity.com/rss/",
-      "articles": []
+      "articles": [
+        {
+          "description": "Conventional startup and business wisdom has become “there are plenty of good ideas, all that matters is execution.” We don’t buy it.",
+          "link": "https://www.forourposterity.com/ideas-not-mattering-is-a-psyop/",
+          "publishedOn": "2021-02-21T22:55:55.000Z",
+          "wordCount": 385,
+          "sourceHref": "https://www.forourposterity.com/rss/",
+          "sourceTitle": "For Our Posterity",
+          "title": "Ideas Not Mattering Is A Psyop"
+        },
+        {
+          "description": "To boost birth rates, make child benefits more useful and more salient by paying them out up front.",
+          "link": "https://www.forourposterity.com/a-check-for-every-newborn/",
+          "publishedOn": "2021-02-02T15:10:04.000Z",
+          "wordCount": 1527,
+          "sourceHref": "https://www.forourposterity.com/rss/",
+          "sourceTitle": "For Our Posterity",
+          "title": "A $57,600 Check for Every Newborn"
+        },
+        {
+          "description": "On mass delusion, sticking out, and cultivating the everyday habits of liberalism.",
+          "link": "https://www.forourposterity.com/wear-a-weird-looking-mask/",
+          "publishedOn": "2021-01-28T18:16:48.000Z",
+          "wordCount": 2857,
+          "sourceHref": "https://www.forourposterity.com/rss/",
+          "sourceTitle": "For Our Posterity",
+          "title": "Wear a Weird-Looking Mask"
+        },
+        {
+          "description": "America’s economic dependence on China creates a security vulnerability. But tariffs are royally ineffective at mitigating this vulnerability. I consider the underlying informational problem.",
+          "link": "https://www.forourposterity.com/the-economics-of-decoupling/",
+          "publishedOn": "2021-01-15T13:31:08.000Z",
+          "wordCount": 2941,
+          "sourceHref": "https://www.forourposterity.com/rss/",
+          "sourceTitle": "For Our Posterity",
+          "title": "The Economics of Decoupling"
+        },
+        {
+          "description": "Too many great minds waste away their time watching Netflix. Worse, we have made that culturally acceptable. For a TV-temperance movement.",
+          "link": "https://www.forourposterity.com/against-netflix/",
+          "publishedOn": "2020-12-02T15:11:16.000Z",
+          "wordCount": 1240,
+          "sourceHref": "https://www.forourposterity.com/rss/",
+          "sourceTitle": "For Our Posterity",
+          "title": "Against Netflix"
+        },
+        {
+          "description": "Expanding America would arrest our decadent decline and sustain American hegemony. An exploration of a crazy idea.",
+          "link": "https://www.forourposterity.com/canada-and-mexico-should-join-the-union/",
+          "publishedOn": "2020-11-30T19:13:47.000Z",
+          "wordCount": 3847,
+          "sourceHref": "https://www.forourposterity.com/rss/",
+          "sourceTitle": "For Our Posterity",
+          "title": "Canada and Mexico Should Join the Union"
+        },
+        {
+          "description": "On the European obsession with America, the dearth of the political on the Continent, and the downsides of homogeneity.",
+          "link": "https://www.forourposterity.com/europes-political-stupor/",
+          "publishedOn": "2020-11-23T17:56:19.000Z",
+          "wordCount": 2270,
+          "sourceHref": "https://www.forourposterity.com/rss/",
+          "sourceTitle": "For Our Posterity",
+          "title": "Europe’s Political Stupor"
+        },
+        {
+          "description": "Human activity and new technologies can be dangerous, threatening the very survival of humanity. Does that mean economic growth is inherently risky?",
+          "link": "https://www.forourposterity.com/securing-posterity/",
+          "publishedOn": "2020-10-19T21:25:00.000Z",
+          "wordCount": 681,
+          "sourceHref": "https://www.forourposterity.com/rss/",
+          "sourceTitle": "For Our Posterity",
+          "title": "Stagnation is the Real Risk"
+        }
+      ]
     },
     {
       "href": "http://putanumonit.com/feed/",
@@ -517,6 +1844,177 @@
           "sourceHref": "http://putanumonit.com/feed/",
           "sourceTitle": "Put A Number On It!",
           "title": "Monastery and Throne"
+        },
+        {
+          "description": "Rationality is knowing better than to sell your soul for a few dollars, even if you don't believe you have one.",
+          "link": "https://putanumonit.com/2021/03/11/dont-sell-your-soul/",
+          "publishedOn": "2021-03-12T02:46:03.000Z",
+          "wordCount": 6580,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Don’t Sell Your Soul"
+        },
+        {
+          "description": "A roundup of podcasts and upcoming online chats.",
+          "link": "https://putanumonit.com/2021/02/26/podcasts-and-hangouts/",
+          "publishedOn": "2021-02-26T20:32:17.000Z",
+          "wordCount": 1353,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Podcasts and Hangouts"
+        },
+        {
+          "description": "Follow ups on The Narrative and Its Discontents: journalists, nerds, politicians, and trolls.",
+          "link": "https://putanumonit.com/2021/02/22/above-the-narrative/",
+          "publishedOn": "2021-02-22T21:04:47.000Z",
+          "wordCount": 4262,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Above the Narrative"
+        },
+        {
+          "description": "Confirmation bias is the biggest obstacle to Rationality, and often the least understood. We need to rethink it through the lens of brains evolved in bodies and made for action, not argument.",
+          "link": "https://putanumonit.com/2021/01/23/confirmation-bias-in-action/",
+          "publishedOn": "2021-01-24T00:46:57.000Z",
+          "wordCount": 6930,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Confirmation Bias in Action"
+        },
+        {
+          "description": "My current probability estimate with regards to the new COVID strain discovered in the UK and the US response. 1 in 3 says we're f***ed.",
+          "link": "https://putanumonit.com/2020/12/26/seeing-the-new-covid-variant-smoke/",
+          "publishedOn": "2020-12-27T04:22:34.000Z",
+          "wordCount": 3306,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Seeing The New COVID Variant Smoke"
+        },
+        {
+          "description": "Review of the LessWrong 2018 essay collection on epistemology, from how it smells to what it says about the state of the Rationality community in 2020.",
+          "link": "https://putanumonit.com/2020/12/26/lesswrong-2018-epistemology/",
+          "publishedOn": "2020-12-26T07:38:30.000Z",
+          "wordCount": 3506,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "LessWrong Best of 2018 – Epistemology"
+        },
+        {
+          "description": "What is a good life? What can mere numbers offer on this question? They offer freedom from other people's stories, and insight into yourself.",
+          "link": "https://putanumonit.com/2020/12/10/good-life-putanumed/",
+          "publishedOn": "2020-12-10T05:03:59.000Z",
+          "wordCount": 2872,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "The Good Life Putanumed"
+        },
+        {
+          "description": "Celebrating Putanumonit's 5th birthday with some writing tips I picked up along the way.",
+          "link": "https://putanumonit.com/2020/11/15/how-i-write/",
+          "publishedOn": "2020-11-15T05:07:08.000Z",
+          "wordCount": 2695,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "How I Write"
+        },
+        {
+          "description": "The internet wants to put our self-expression in neat boxes, but there's no reason to play along.",
+          "link": "https://putanumonit.com/2020/10/25/subonlystackfans/",
+          "publishedOn": "2020-10-25T21:11:00.000Z",
+          "wordCount": 2247,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "SubOnlyStackFans"
+        },
+        {
+          "description": "Rationalists did amazingly well with COVID. Will this inspire everyone else to embrace rationality? I see a few obstacles on the way.",
+          "link": "https://putanumonit.com/2020/10/08/path-to-reason/",
+          "publishedOn": "2020-10-09T03:15:27.000Z",
+          "wordCount": 9003,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "The Path to Reason"
+        },
+        {
+          "description": "Victimhood is a hot product, and many are selling it. But it's not worth the price.",
+          "link": "https://putanumonit.com/2020/09/12/against-victimhood/",
+          "publishedOn": "2020-09-12T16:41:08.000Z",
+          "wordCount": 6048,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Against Victimhood"
+        },
+        {
+          "description": "Choices, anxiety, and why I haven't written anything in a month.",
+          "link": "https://putanumonit.com/2020/08/20/working-hardly/",
+          "publishedOn": "2020-08-21T03:03:23.000Z",
+          "wordCount": 3697,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Working Hardly"
+        },
+        {
+          "description": "A blogging collaboration with the machine that will replace me.",
+          "link": "https://putanumonit.com/2020/07/22/gputanumonit-3/",
+          "publishedOn": "2020-07-22T22:12:10.000Z",
+          "wordCount": 2346,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "GPuTanumonit-3"
+        },
+        {
+          "description": "Some reasons why I use my real name online, both personal and with regard to the truth.",
+          "link": "https://putanumonit.com/2020/07/20/real-name/",
+          "publishedOn": "2020-07-21T03:17:48.000Z",
+          "wordCount": 3041,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Why I Write Under My Real Name"
+        },
+        {
+          "description": "\"The better you do the more you should bet on yourself\" is a lesson from finance you can apply everywhere.",
+          "link": "https://putanumonit.com/2020/07/04/kelly-bet-on-everything/",
+          "publishedOn": "2020-07-05T01:56:43.000Z",
+          "wordCount": 5455,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Kelly Bet on Everything"
+        },
+        {
+          "description": "The collapse of authority leads to anxiety. Anxiety leads to outrage. Outrage leads to fear. Fear leads to submission. Don't submit.",
+          "link": "https://putanumonit.com/2020/06/18/fight-the-power/",
+          "publishedOn": "2020-06-18T18:10:57.000Z",
+          "wordCount": 4752,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Fight the Power"
+        },
+        {
+          "description": "Results from my research project on personality traits and mating success.",
+          "link": "https://putanumonit.com/2020/06/11/dating-assholes/",
+          "publishedOn": "2020-06-11T17:42:10.000Z",
+          "wordCount": 11016,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Do Women Like Assholes?"
+        },
+        {
+          "description": "Tesla wealth hypocrisy billionaire.\nTrump Musk Trump Musk COVID.\nMisogynist racist Silicon Valley.",
+          "link": "https://putanumonit.com/2020/05/20/fnords-of-the-times/",
+          "publishedOn": "2020-05-20T18:13:45.000Z",
+          "wordCount": 4554,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Fnords of the Times"
+        },
+        {
+          "description": "Please fill out my research survey by 5/18. The results will be published on Putanumonit soon!",
+          "link": "https://putanumonit.com/2020/05/10/please-fill-out-my-survey-on-personality-and-relationships/",
+          "publishedOn": "2020-05-10T18:30:49.000Z",
+          "wordCount": 3353,
+          "sourceHref": "http://putanumonit.com/feed/",
+          "sourceTitle": "Put A Number On It!",
+          "title": "Please fill out my survey on personality and relationships"
         }
       ]
     },
@@ -626,6 +2124,96 @@
           "sourceHref": "https://gwern.substack.com/feed/",
           "sourceTitle": "Gwern.net Newsletter",
           "title": "March 2021 Gwern.net Newsletter"
+        },
+        {
+          "description": "links on AI scaling, semaglutide, and ethicist ethics",
+          "link": "https://gwern.substack.com/p/february-2021-gwernnet-newsletter",
+          "publishedOn": "2021-03-13T15:18:44.000Z",
+          "wordCount": 1493,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "February 2021 Gwern.net Newsletter"
+        },
+        {
+          "description": "January 2021 gwern.net newsletter with links on AI scaling up and down.",
+          "link": "https://gwern.substack.com/p/jan-2021-gwernnet-newsletter",
+          "publishedOn": "2021-02-04T20:23:01.000Z",
+          "wordCount": 1917,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "Jan 2021 Gwern.net Newsletter"
+        },
+        {
+          "description": "December 2020 gwern.net newsletter with links on AI and technology; major new site feature: fully-generalized recursive popups.",
+          "link": "https://gwern.substack.com/p/december-newsletter",
+          "publishedOn": "2021-01-10T17:31:06.000Z",
+          "wordCount": 136,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "December newsletter"
+        },
+        {
+          "description": "November 2020 gwern.net newsletter with links on DL and genomics scaling, dark mode rewrite, 1 essay, and 1 opera review ('The Ring' cycle).",
+          "link": "https://gwern.substack.com/p/november-newsletter",
+          "publishedOn": "2020-12-04T00:40:13.000Z",
+          "wordCount": 140,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "November newsletter"
+        },
+        {
+          "description": "October 2020 gwern.net newsletter with links on AI scaling, Euclid; further site reorganization & improvement.",
+          "link": "https://gwern.substack.com/p/october-2020-news",
+          "publishedOn": "2020-11-01T21:42:39.000Z",
+          "wordCount": 137,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "October 2020 news"
+        },
+        {
+          "description": "September 2020 gwern.net newsletter with links on DRL and AI scaling, psychiatric disorders; no reviews.",
+          "link": "https://gwern.substack.com/p/september-2020-news",
+          "publishedOn": "2020-10-26T13:40:32.000Z",
+          "wordCount": 137,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "September 2020 News"
+        },
+        {
+          "description": "with an essay on sidenotes; links on human competence, efficient-computing/hardware-overhangs; no reviews.",
+          "link": "https://gwern.substack.com/p/august-2020-gwernnet-newsletter",
+          "publishedOn": "2020-09-01T23:18:28.000Z",
+          "wordCount": 136,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "August 2020 gwern.net newsletter"
+        },
+        {
+          "description": "Links on the Uighurs, authoritarianism, negative emissions, AI overhang; 1 movie & 2 anime reviews",
+          "link": "https://gwern.substack.com/p/july-2020-gwernnet-newsletter",
+          "publishedOn": "2020-08-20T20:09:50.000Z",
+          "wordCount": 139,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "July 2020 gwern.net newsletter"
+        },
+        {
+          "description": "June 2020 gwern.net newsletter with 3 new pages/essays, and links on CRISPR, population screening, AI scaling, politics, and technological unemployment.",
+          "link": "https://gwern.substack.com/p/june-gwernnet-newsletter",
+          "publishedOn": "2020-07-02T14:34:53.000Z",
+          "wordCount": 141,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "June gwern.net newsletter"
+        },
+        {
+          "description": "Link compilation newsletter with anime GAN updates, links on AI scaling, discussion of GPT-3, and 1 book review.",
+          "link": "https://gwern.substack.com/p/may-gwernnet-newsletter",
+          "publishedOn": "2020-06-06T18:44:15.000Z",
+          "wordCount": 146,
+          "sourceHref": "https://gwern.substack.com/feed/",
+          "sourceTitle": "Gwern.net Newsletter",
+          "title": "May Gwern.net Newsletter"
         }
       ]
     },
@@ -676,6 +2264,51 @@
           "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
           "sourceTitle": "Shtetl-Optimized",
           "title": "The Computational Expressiveness of a Model Train Set: A Paperlet"
+        },
+        {
+          "description": "For years, I&#8217;d sometimes hear discussions about the ethics of quantum computing research. Quantum ethics! When the debates weren&#8217;t purely semantic, over the propriety of terms like &#8220;quantum supremacy&#8221; or &#8220;ancilla qubit,&#8221; they were always about chin-strokers like &#8220;but what if cracking RSA encryption gives governments more power to surveil their citizens? or what if [&#8230;]",
+          "link": "https://www.scottaaronson.com/blog/?p=5387",
+          "publishedOn": "2021-03-21T01:18:54.000Z",
+          "wordCount": 23956,
+          "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
+          "sourceTitle": "Shtetl-Optimized",
+          "title": "QC ethics and hype: the call is coming from inside the house"
+        },
+        {
+          "description": "Many of you will have seen the happy news today that Avi Wigderson and László Lovász share this year&#8217;s Abel Prize (which now contends with the Fields Medal for the highest award in pure math). This is only the second time that the Abel Prize has been given wholly or partly for work in theoretical [&#8230;]",
+          "link": "https://www.scottaaronson.com/blog/?p=5388",
+          "publishedOn": "2021-03-18T03:19:46.000Z",
+          "wordCount": 2022,
+          "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
+          "sourceTitle": "Shtetl-Optimized",
+          "title": "Abel to win"
+        },
+        {
+          "description": "Back at MIT, whenever I taught my graduate course on Quantum Complexity Theory (see here for lecture notes), I had a tradition of showcasing the student projects on this blog: see here (Fall 2010), here (Fall 2012), here (Fall 2014). I was incredibly proud that, each time I taught, at least some of the projects [&#8230;]",
+          "link": "https://www.scottaaronson.com/blog/?p=5382",
+          "publishedOn": "2021-03-11T20:31:03.000Z",
+          "wordCount": 2327,
+          "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
+          "sourceTitle": "Shtetl-Optimized",
+          "title": "Long-delayed UT Austin Quantum Complexity Theory Student Project Showcase!"
+        },
+        {
+          "description": "Many of you have surely already seen the news that the Kouwenhoven group in Delft&#8212;which in 2018 published a paper in Nature claiming to have detected Majorana particles, a type of nonabelian anyon&#8212;have retracted the paper and apologized for &#8220;insufficient scientific rigour.&#8221; This work was considered one of the linchpins of Microsoft&#8217;s experimental effort toward [&#8230;]",
+          "link": "https://www.scottaaronson.com/blog/?p=5376",
+          "publishedOn": "2021-03-10T22:29:51.000Z",
+          "wordCount": 4856,
+          "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
+          "sourceTitle": "Shtetl-Optimized",
+          "title": "Sayonara Majorana?"
+        },
+        {
+          "description": "So there&#8217;s an interesting new paper on the arXiv by Feng Pan and Pan Zhang, entitled &#8220;Simulating the Sycamore supremacy circuits.&#8221; It&#8217;s about a new tensor contraction strategy for classically simulating Google&#8217;s 53-qubit quantum supremacy experiment from Fall 2019. Using their approach, and using just 60 GPUs running for a few days, the authors say [&#8230;]",
+          "link": "https://www.scottaaronson.com/blog/?p=5371",
+          "publishedOn": "2021-03-07T19:15:53.000Z",
+          "wordCount": 6985,
+          "sourceHref": "http://scottaaronson.com/blog/?feed=rss2",
+          "sourceTitle": "Shtetl-Optimized",
+          "title": "Another axe swung at the Sycamore"
         }
       ]
     },
@@ -744,13 +2377,50 @@
           "sourceHref": "https://rootsofprogress.org/feed.xml",
           "sourceTitle": "The Roots of Progress",
           "title": "I’m writing a book! And hosting a discussion series on it"
+        },
+        {
+          "description": "Inventors sweat and tinker for years, sometimes decades, before their inventions work—if they ever do. But how do they choose what to work on? What or who inspires and directs them?\nI was thinking about this after coming across a little gem buried in Herbert Casson’s biography of Cyrus McCormick, inventor of an automatic reaping machine.\n\n\n\n\n\n\n\n\n\n\nSome context. In the 1800s, a lot of inventive effort went into the mechanization of agriculture. Agriculture requires many tasks—tilling the soil, planting seeds…",
+          "link": "https://rootsofprogress.org/pump-carpenter-and-the-grain-binder",
+          "publishedOn": "2021-03-31T22:07:32.000Z",
+          "wordCount": 1623,
+          "sourceHref": "https://rootsofprogress.org/feed.xml",
+          "sourceTitle": "The Roots of Progress",
+          "title": "“Pump” Carpenter and the grain binder"
+        },
+        {
+          "description": "Is progress slowing down? In a previous post I explained why I got convinced that it is. Some people making this argument point to quantitative evidence, such as GDP or total factor productivity. I gave more qualitative evidence, or perhaps very crude quantitative evidence, by counting technological breakthroughs/revolutions: five in the Second Industrial Revolution, versus only one so far in the Third.\nBut this approach has its own difficulties:\nIt is sensitive to the granularity of technological revolutio…",
+          "link": "https://rootsofprogress.org/metrics-for-progress",
+          "publishedOn": "2021-03-20T20:32:19.000Z",
+          "wordCount": 753,
+          "sourceHref": "https://rootsofprogress.org/feed.xml",
+          "sourceTitle": "The Roots of Progress",
+          "title": "A dashboard for progress"
+        },
+        {
+          "description": "When I wrote my post on technological stagnation, the top question I got asked was: So, how do we fix it?\nI don’t have the definitive answer, but here’s a starting point. I generally think about the causes of progress on three levels:\nFunding. How do research, development, and distribution get funded? This encompasses both for-profit investing and non-profit funding of R&amp;D.\nGovernment. How does the law enable progress, or hamper it? Progress depends on good legal institutions; equally, it can be stifled…",
+          "link": "https://rootsofprogress.org/how-to-end-stagnation",
+          "publishedOn": "2021-02-28T21:15:39.000Z",
+          "wordCount": 1188,
+          "sourceHref": "https://rootsofprogress.org/feed.xml",
+          "sourceTitle": "The Roots of Progress",
+          "title": "How to end stagnation?"
         }
       ]
     },
     {
       "href": "http://slatestarcodex.com/feed/",
-      "articles": []
+      "articles": [
+        {
+          "description": "Thanks for bearing with me the past few months. My new blog is at https://astralcodexten.substack.com/. I&#8217;ll try to have a less unwieldy domain name working soon.",
+          "link": "https://slatestarcodex.com/2021/01/21/introducing-astral-codex-ten/",
+          "publishedOn": "2021-01-21T23:55:03.000Z",
+          "wordCount": 1315,
+          "sourceHref": "http://slatestarcodex.com/feed/",
+          "sourceTitle": "Slate Star Codex",
+          "title": "Introducing Astral Codex Ten"
+        }
+      ]
     }
   ],
-  "cliVersion": "1.2.3"
+  "cliVersion": "1.3.0"
 }
