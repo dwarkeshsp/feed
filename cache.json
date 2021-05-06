@@ -189,6 +189,15 @@
       "href": "https://astralcodexten.substack.com/feed/",
       "articles": [
         {
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/why-is-it-hard-to-acknowledge-preferences",
+          "publishedOn": "2021-05-05T20:54:54.000Z",
+          "wordCount": 1541,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Why Is It Hard To Acknowledge Preferences?"
+        },
+        {
           "description": "Summary and commentary on David Harvey's \"A Brief History Of Neoliberalism\"",
           "link": "https://astralcodexten.substack.com/p/book-review-a-brief-history-of-neoliberalism",
           "publishedOn": "2021-05-04T22:08:31.000Z",
@@ -1570,6 +1579,15 @@
       "href": "https://douthat.substack.com/feed/",
       "articles": [
         {
+          "description": "Do American conservative problems have Catholic solutions?",
+          "link": "https://douthat.substack.com/p/the-rome-ing-of-the-right",
+          "publishedOn": "2021-05-05T15:22:20.000Z",
+          "wordCount": 1665,
+          "sourceHref": "https://douthat.substack.com/feed/",
+          "sourceTitle": "Reactions",
+          "title": "The Rome-ing of the Right"
+        },
+        {
           "description": "Reflections on a Very Oscar movie from a very different Oscar age.",
           "link": "https://douthat.substack.com/p/the-ten-commandments-experience",
           "publishedOn": "2021-04-30T15:04:39.000Z",
@@ -1718,6 +1736,15 @@
     {
       "href": "http://www.overcomingbias.com/feed",
       "articles": [
+        {
+          "description": "Sometimes I pride myself on my taking an intellectual strategy of tackling neglected important questions. However, one indicator of a topic being neglected is that it seems low status; people who discuss it are ridiculed, and their intellectual ability doubted. &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/05/ufos-say-govt-competence-is-either-surprisingly-high-or-surprisingly-low.html",
+          "publishedOn": "2021-05-05T19:15:23.000Z",
+          "wordCount": 1618,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "UFOs Shows Govt. Competence As Either Surprisingly High Or Low"
+        },
         {
           "description": "In a new paper in Journal of Social Philosophy, Nicholas Smyth offers a “moral critique” of “psychological debunking”, by which he means “a speech‐act which expresses the proposition that a person&#8217;s beliefs, intentions, or utterances are caused by hidden and &#8230; Continue reading &#8594;",
           "link": "http://www.overcomingbias.com/2021/05/the-debunking-of-debunking.html",
@@ -2093,6 +2120,15 @@
     {
       "href": "https://www.econlib.org/author/bcaplan/feed/",
       "articles": [
+        {
+          "description": "There&#8217;s less disagreement than meets the eye between myself and my anonymous friend at the University of Texas.  He&#8217;s in blockquotes, I&#8217;m not.  Point-by-point: I respectfully disagree with Bryan’s recent post on anti-Communism and “anti-racism.”  I believe he falls into a classic false equivalence trap; just because two things sound similar does not make them [&#8230;]\nThe post Anti-Communism and Anti-Racism: A Reply appeared first on Econlib.",
+          "link": "https://www.econlib.org/anti-communism-and-anti-racism-a-reply/",
+          "publishedOn": "2021-05-05T13:29:03.000Z",
+          "wordCount": 1332,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "Anti-Communism and Anti-Racism: A Reply"
+        },
         {
           "description": "My anonymous friend at the University of Texas has issues with yesterday&#8217;s post.  Here&#8217;s his critique.  Enjoy! I respectfully disagree with Bryan&#8217;s recent post on anti-Communism and &#8220;anti-racism.&#8221;  I believe he falls into a classic false equivalence trap; just because two things sound similar does not make them fundamentally similar.  For example, slicing someone&#8217;s stomach [&#8230;]\nThe post Anti-Communism and Anti-Racism Reconsidered appeared first on Econlib.",
           "link": "https://www.econlib.org/anti-communism-and-anti-racism-reconsidered/",
@@ -2530,5 +2566,5 @@
       ]
     }
   ],
-  "cliVersion": "1.3.1"
+  "cliVersion": "1.4.0"
 }
