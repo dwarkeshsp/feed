@@ -189,6 +189,15 @@
       "href": "https://astralcodexten.substack.com/feed/",
       "articles": [
         {
+          "description": "Finalist #8 of the Book Review Contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-through-the-eye",
+          "publishedOn": "2021-05-06T20:46:45.000Z",
+          "wordCount": 5636,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Your Book Review: Through The Eye Of A Needle"
+        },
+        {
           "description": "...",
           "link": "https://astralcodexten.substack.com/p/why-is-it-hard-to-acknowledge-preferences",
           "publishedOn": "2021-05-05T20:54:54.000Z",
@@ -2120,6 +2129,15 @@
     {
       "href": "https://www.econlib.org/author/bcaplan/feed/",
       "articles": [
+        {
+          "description": "In case you haven&#8217;t heard, my very favorite philosopher has just released a new introductory philosophy textbook, entitled Knowledge, Reality, and Value. Yes, Mike Huemer has entered the textbook market.  And since he&#8217;s publishing via Amazon, the price is a rock-bottom $14.99. I&#8217;ll discuss KRV in detail once I finish it.  For now, I share a [&#8230;]\nThe post A Few Huemerian Highlights appeared first on Econlib.",
+          "link": "https://www.econlib.org/a-few-huemerian-highlights/",
+          "publishedOn": "2021-05-06T13:01:52.000Z",
+          "wordCount": 1345,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "A Few Huemerian Highlights"
+        },
         {
           "description": "There&#8217;s less disagreement than meets the eye between myself and my anonymous friend at the University of Texas.  He&#8217;s in blockquotes, I&#8217;m not.  Point-by-point: I respectfully disagree with Bryan’s recent post on anti-Communism and “anti-racism.”  I believe he falls into a classic false equivalence trap; just because two things sound similar does not make them [&#8230;]\nThe post Anti-Communism and Anti-Racism: A Reply appeared first on Econlib.",
           "link": "https://www.econlib.org/anti-communism-and-anti-racism-a-reply/",
