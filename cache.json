@@ -189,6 +189,17 @@
       "href": "https://astralcodexten.substack.com/feed/",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/my-favorite-icd-10-codes",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/my-favorite-icd-10-codes",
+          "publishedOn": "2021-05-08T20:22:27.000Z",
+          "wordCount": 117,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "My Favorite ICD-10 Codes"
+        },
+        {
           "description": "Finalist #9 of the Book Review Contest",
           "link": "https://astralcodexten.substack.com/p/your-book-review-the-years-of-lyndon",
           "publishedOn": "2021-05-07T21:56:19.000Z",
@@ -667,6 +678,17 @@
       "href": "https://fakenous.net/?feed=rss2",
       "articles": [
         {
+          "id": "https://fakenous.net/?p=2283",
+          "author": "Michael Huemer",
+          "description": "Polygamy is currently illegal in the U.S. and most other nations. But it has been practiced in most human societies. Should it be legal? And, whether or not it’s legal, is it a good thing? I think the answer is (a) it should be legal, (b) it is good for some people, but (c) it &#8230; Continue reading Monogamy &#038; Polygamy",
+          "link": "https://fakenous.net/?p=2283",
+          "publishedOn": "2021-05-08T15:00:00.000Z",
+          "wordCount": 2149,
+          "sourceHref": "https://fakenous.net/?feed=rss2",
+          "sourceTitle": "Fake Nous",
+          "title": "Monogamy & Polygamy"
+        },
+        {
           "description": "“The truth is rarely pure and never simple.” &#8211;Oscar Wilde The insane extremists are winning the debate about global warming. Whatever your view of global warming, you probably agree with me about that. You probably also think the crazy extremists are the people on the opposite side from yourself – the people on the left &#8230; Continue reading Subtle Truths, 2: Global Warming",
           "link": "https://fakenous.net/?p=2262",
           "publishedOn": "2021-05-01T15:00:00.000Z",
@@ -761,6 +783,17 @@
     {
       "href": "https://nintil.com/rss.xml",
       "articles": [
+        {
+          "id": "https://nintil.com/how-to-solve-aging/",
+          "author": "Nintil",
+          "description": "Answers to this question can be found online in the forms of shorter and longer term roadmaps. One could infer an answer from SENS or get a list of ideas from Celine Halioua's recent take on the matter (On what the field needs rather than how to deal with the problem itself). This is just my view.\nAn important question for anyone wanting to answer &quot;How to solve aging&quot; is &quot;If aging is solved, have we then made a given individual, in normal conditions, immortal?&quot; Or &quot;Have we thus made…",
+          "link": "https://nintil.com/how-to-solve-aging/",
+          "publishedOn": "2021-05-08T00:00:00.000Z",
+          "wordCount": 2195,
+          "sourceHref": "https://nintil.com/rss.xml",
+          "sourceTitle": "Nintil",
+          "title": "How to solve aging"
+        },
         {
           "description": "Want to own the Longevity FAQ as an NFT? You can bid for it here.\nWhy has nuclear power been a flop?\nConstruction costs around the world: How does the US compare?\nComing full circle, from endless complexity to simplicity and back again (On the history of cancer research)\nWhat evidence do we need for biomarker qualification (at the FDA)?\nHow was it found that lithium works as a psychiatric drug?\nRoundtable on Richard Hamming\nReview of &quot;The Kill Chain&quot;\nWhy is everything liberal (as in leftist)? Beca…",
           "link": "https://nintil.com/links-47/",
@@ -2602,5 +2635,5 @@
       ]
     }
   ],
-  "cliVersion": "1.4.0"
+  "cliVersion": "1.5.0"
 }
