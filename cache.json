@@ -189,6 +189,17 @@
       "href": "https://astralcodexten.substack.com/feed/",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/open-thread-171",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-171",
+          "publishedOn": "2021-05-09T21:55:10.000Z",
+          "wordCount": 368,
+          "sourceHref": "https://astralcodexten.substack.com/feed/",
+          "sourceTitle": "Astral Codex Ten",
+          "title": "Open Thread 171"
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/my-favorite-icd-10-codes",
           "author": "Scott Alexander",
           "description": "...",
@@ -1797,6 +1808,17 @@
       "href": "http://www.overcomingbias.com/feed",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32826",
+          "author": "Robin Hanson",
+          "description": "On Thursday I came across this article, which discusses the peer-reviewed journal article, “Fungi on Mars? Evidence of Growth and Behavior From Sequential Images”. As its pictures seemed to me to suggest fungal life active now on Mars, I tweeted &#8230; Continue reading &#8594;",
+          "link": "http://www.overcomingbias.com/2021/05/parsing-pictures-of-mars-muck.html",
+          "publishedOn": "2021-05-09T21:45:03.000Z",
+          "wordCount": 1406,
+          "sourceHref": "http://www.overcomingbias.com/feed",
+          "sourceTitle": "Overcoming Bias",
+          "title": "Parsing Pictures of Mars Muck"
+        },
+        {
           "description": "Sometimes I pride myself on my taking an intellectual strategy of tackling neglected important questions. However, one indicator of a topic being neglected is that it seems low status; people who discuss it are ridiculed, and their intellectual ability doubted. &#8230; Continue reading &#8594;",
           "link": "http://www.overcomingbias.com/2021/05/ufos-say-govt-competence-is-either-surprisingly-high-or-surprisingly-low.html",
           "publishedOn": "2021-05-05T19:15:23.000Z",
@@ -2180,6 +2202,17 @@
     {
       "href": "https://www.econlib.org/author/bcaplan/feed/",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=54965",
+          "author": "Bryan Caplan",
+          "description": "Douglas Allen of Simon Fraser University has a working paper that builds on &#8220;Life-Years Lost: The Quantity and the Quality,&#8221; one of my blog posts from last year.  Most of his paper critiques other researchers&#8217; cost-benefit analyses of COVID policy, but Allen spends a whole section applying my method to Canada: As of March 2021 [&#8230;]\nThe post COVID Prevention and Cost-Benefit Analysis appeared first on Econlib.",
+          "link": "https://www.econlib.org/covid-prevention-and-cost-benefit-analysis/",
+          "publishedOn": "2021-05-09T13:20:33.000Z",
+          "wordCount": 1575,
+          "sourceHref": "https://www.econlib.org/author/bcaplan/feed/",
+          "sourceTitle": "Bryan Caplan – Econlib",
+          "title": "COVID Prevention and Cost-Benefit Analysis"
+        },
         {
           "description": "In case you haven&#8217;t heard, my very favorite philosopher has just released a new introductory philosophy textbook, entitled Knowledge, Reality, and Value. Yes, Mike Huemer has entered the textbook market.  And since he&#8217;s publishing via Amazon, the price is a rock-bottom $14.99. I&#8217;ll discuss KRV in detail once I finish it.  For now, I share a [&#8230;]\nThe post A Few Huemerian Highlights appeared first on Econlib.",
           "link": "https://www.econlib.org/a-few-huemerian-highlights/",

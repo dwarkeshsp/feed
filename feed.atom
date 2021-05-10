@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T01:06:46.310Z</updated>
+    <updated>2021-05-10T01:05:56.517Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 171]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-171</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-171"/>
+        <updated>2021-05-09T21:55:10.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsing Pictures of Mars Muck]]></title>
+        <id>https://www.overcomingbias.com/?p=32826</id>
+        <link href="http://www.overcomingbias.com/2021/05/parsing-pictures-of-mars-muck.html"/>
+        <updated>2021-05-09T21:45:03.000Z</updated>
+        <summary type="html"><![CDATA[On Thursday I came across this article, which discusses the peer-reviewed journal article, “Fungi on Mars? Evidence of Growth and Behavior From Sequential Images”. As its pictures seemed to me to suggest fungal life active now on Mars, I tweeted &#8230; Continue reading &#8594;]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID Prevention and Cost-Benefit Analysis]]></title>
+        <id>https://www.econlib.org/?p=54965</id>
+        <link href="https://www.econlib.org/covid-prevention-and-cost-benefit-analysis/"/>
+        <updated>2021-05-09T13:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Douglas Allen of Simon Fraser University has a working paper that builds on &#8220;Life-Years Lost: The Quantity and the Quality,&#8221; one of my blog posts from last year.  Most of his paper critiques other researchers&#8217; cost-benefit analyses of COVID policy, but Allen spends a whole section applying my method to Canada: As of March 2021 [&#8230;]
+The post COVID Prevention and Cost-Benefit Analysis appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Favorite ICD-10 Codes]]></title>
         <id>https://astralcodexten.substack.com/p/my-favorite-icd-10-codes</id>
