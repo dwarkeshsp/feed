@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T01:05:56.517Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-11T01:05:18.435Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Rise And Fall Of Online Culture Wars]]></title>
+        <id>https://astralcodexten.substack.com/p/the-rise-and-fall-of-online-culture</id>
+        <link href="https://astralcodexten.substack.com/p/the-rise-and-fall-of-online-culture"/>
+        <updated>2021-05-10T20:29:41.000Z</updated>
+        <summary type="html"><![CDATA[How do Internet atheism and Internet feminism help us understand the current cultural moment?]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Conversation on Freedom, Populism, and Big Tech]]></title>
+        <id>https://www.econlib.org/?p=54957</id>
+        <link href="https://www.econlib.org/a-conversation-on-freedom-populism-and-big-tech/"/>
+        <updated>2021-05-10T13:43:54.000Z</updated>
+        <summary type="html"><![CDATA[Last month Edmund Santurri of St. Olaf College&#8217;s Institute for Freedom and Community interviewed me on &#8220;Freedom, Populism, and Big Tech.&#8221;  The format was highly unconventional, and I liked it.  There was no lecture.  Instead, Santurri and St. Olaf students asked me a bunch of questions about a bunch of blog posts, especially this one.  [&#8230;]
+The post A Conversation on Freedom, Populism, and Big Tech appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three updates]]></title>
+        <id>https://www.scottaaronson.com/blog/?p=5486</id>
+        <link href="https://www.scottaaronson.com/blog/?p=5486"/>
+        <updated>2021-05-10T05:47:52.000Z</updated>
+        <summary type="html"><![CDATA[For those who read my reply to Richard Borcherds on &#8220;teapot supremacy&#8221;: seeking better data, I ordered a dozen terra cotta flowerpots, and smashed eight of them on my driveway with my 4-year-old son, dropping each one from approximately 2 meters. For each flowerpot, we counted how many pieces it broke into, seeking insight about [&#8230;]]]></summary>
+        <author>
+            <name>Scott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Thread 171]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-171</id>
@@ -75,7 +106,7 @@ An important question for anyone wanting to answer &quot;How to solve aging&quot
         <updated>2021-05-07T21:56:19.000Z</updated>
         <summary type="html"><![CDATA[Finalist #9 of the Book Review Contest]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
@@ -85,7 +116,7 @@ An important question for anyone wanting to answer &quot;How to solve aging&quot
         <updated>2021-05-07T20:40:49.000Z</updated>
         <summary type="html"><![CDATA[...]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
@@ -95,18 +126,18 @@ An important question for anyone wanting to answer &quot;How to solve aging&quot
         <updated>2021-05-06T20:46:45.000Z</updated>
         <summary type="html"><![CDATA[Finalist #8 of the Book Review Contest]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Few Huemerian Highlights]]></title>
-        <id>https://www.econlib.org/a-few-huemerian-highlights/</id>
+        <id>https://www.econlib.org/?p=54934</id>
         <link href="https://www.econlib.org/a-few-huemerian-highlights/"/>
         <updated>2021-05-06T13:01:52.000Z</updated>
         <summary type="html"><![CDATA[In case you haven&#8217;t heard, my very favorite philosopher has just released a new introductory philosophy textbook, entitled Knowledge, Reality, and Value. Yes, Mike Huemer has entered the textbook market.  And since he&#8217;s publishing via Amazon, the price is a rock-bottom $14.99. I&#8217;ll discuss KRV in detail once I finish it.  For now, I share a [&#8230;]
 The post A Few Huemerian Highlights appeared first on Econlib.]]></summary>
         <author>
-            <name>Bryan Caplan – Econlib</name>
+            <name>Bryan Caplan</name>
         </author>
     </entry>
     <entry>
@@ -116,17 +147,17 @@ The post A Few Huemerian Highlights appeared first on Econlib.]]></summary>
         <updated>2021-05-05T20:54:54.000Z</updated>
         <summary type="html"><![CDATA[...]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UFOs Shows Govt. Competence As Either Surprisingly High Or Low]]></title>
-        <id>http://www.overcomingbias.com/2021/05/ufos-say-govt-competence-is-either-surprisingly-high-or-surprisingly-low.html</id>
+        <title type="html"><![CDATA[UFOs Show Govt. Competence As Either Surprisingly High Or Low]]></title>
+        <id>https://www.overcomingbias.com/?p=32823</id>
         <link href="http://www.overcomingbias.com/2021/05/ufos-say-govt-competence-is-either-surprisingly-high-or-surprisingly-low.html"/>
         <updated>2021-05-05T19:15:23.000Z</updated>
         <summary type="html"><![CDATA[Sometimes I pride myself on my taking an intellectual strategy of tackling neglected important questions. However, one indicator of a topic being neglected is that it seems low status; people who discuss it are ridiculed, and their intellectual ability doubted. &#8230; Continue reading &#8594;]]></summary>
         <author>
-            <name>Overcoming Bias</name>
+            <name>Robin Hanson</name>
         </author>
     </entry>
     <entry>
@@ -141,13 +172,13 @@ The post A Few Huemerian Highlights appeared first on Econlib.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anti-Communism and Anti-Racism: A Reply]]></title>
-        <id>https://www.econlib.org/anti-communism-and-anti-racism-a-reply/</id>
+        <id>https://www.econlib.org/?p=55017</id>
         <link href="https://www.econlib.org/anti-communism-and-anti-racism-a-reply/"/>
         <updated>2021-05-05T13:29:03.000Z</updated>
         <summary type="html"><![CDATA[There&#8217;s less disagreement than meets the eye between myself and my anonymous friend at the University of Texas.  He&#8217;s in blockquotes, I&#8217;m not.  Point-by-point: I respectfully disagree with Bryan’s recent post on anti-Communism and “anti-racism.”  I believe he falls into a classic false equivalence trap; just because two things sound similar does not make them [&#8230;]
 The post Anti-Communism and Anti-Racism: A Reply appeared first on Econlib.]]></summary>
         <author>
-            <name>Bryan Caplan – Econlib</name>
+            <name>Bryan Caplan</name>
         </author>
     </entry>
     <entry>
@@ -157,18 +188,18 @@ The post Anti-Communism and Anti-Racism: A Reply appeared first on Econlib.]]></
         <updated>2021-05-04T22:08:31.000Z</updated>
         <summary type="html"><![CDATA[Summary and commentary on David Harvey's "A Brief History Of Neoliberalism"]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anti-Communism and Anti-Racism Reconsidered]]></title>
-        <id>https://www.econlib.org/anti-communism-and-anti-racism-reconsidered/</id>
+        <id>https://www.econlib.org/?p=55004</id>
         <link href="https://www.econlib.org/anti-communism-and-anti-racism-reconsidered/"/>
         <updated>2021-05-04T13:21:20.000Z</updated>
         <summary type="html"><![CDATA[My anonymous friend at the University of Texas has issues with yesterday&#8217;s post.  Here&#8217;s his critique.  Enjoy! I respectfully disagree with Bryan&#8217;s recent post on anti-Communism and &#8220;anti-racism.&#8221;  I believe he falls into a classic false equivalence trap; just because two things sound similar does not make them fundamentally similar.  For example, slicing someone&#8217;s stomach [&#8230;]
 The post Anti-Communism and Anti-Racism Reconsidered appeared first on Econlib.]]></summary>
         <author>
-            <name>Bryan Caplan – Econlib</name>
+            <name>Bryan Caplan</name>
         </author>
     </entry>
     <entry>
@@ -208,28 +239,28 @@ Why is everything liberal (as in leftist)? Beca…]]></summary>
         <updated>2021-05-03T23:25:54.000Z</updated>
         <summary type="html"><![CDATA[...]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Debunking of Debunking]]></title>
-        <id>http://www.overcomingbias.com/2021/05/the-debunking-of-debunking.html</id>
+        <id>https://www.overcomingbias.com/?p=32820</id>
         <link href="http://www.overcomingbias.com/2021/05/the-debunking-of-debunking.html"/>
         <updated>2021-05-03T18:25:07.000Z</updated>
         <summary type="html"><![CDATA[In a new paper in Journal of Social Philosophy, Nicholas Smyth offers a “moral critique” of “psychological debunking”, by which he means “a speech‐act which expresses the proposition that a person&#8217;s beliefs, intentions, or utterances are caused by hidden and &#8230; Continue reading &#8594;]]></summary>
         <author>
-            <name>Overcoming Bias</name>
+            <name>Robin Hanson</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anti-Communism and Anti-Racism]]></title>
-        <id>https://www.econlib.org/anti-communism-and-anti-racism/</id>
+        <id>https://www.econlib.org/?p=53812</id>
         <link href="https://www.econlib.org/anti-communism-and-anti-racism/"/>
         <updated>2021-05-03T13:21:38.000Z</updated>
         <summary type="html"><![CDATA[I hate Communism.  I consider Communists to be the moral approximates of Nazis.  I might talk to a youthful Communist, but after the excuse of youth passes, I deem Communists beyond redemption. Even so, if George Mason University adopted an official Anti-Communist policy, I would oppose it. Why?  All of the following reasons. 1. George [&#8230;]
 The post Anti-Communism and Anti-Racism appeared first on Econlib.]]></summary>
         <author>
-            <name>Bryan Caplan – Econlib</name>
+            <name>Bryan Caplan</name>
         </author>
     </entry>
     <entry>
@@ -253,17 +284,17 @@ The barbarian invasions of the 4th and 5th centuries, and…]]></summary>
         <updated>2021-05-03T03:18:49.000Z</updated>
         <summary type="html"><![CDATA[...]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Theories Of Unnatural Selection]]></title>
-        <id>http://www.overcomingbias.com/2021/05/theories-of-unnatural-selection.html</id>
+        <id>https://www.overcomingbias.com/?p=32818</id>
         <link href="http://www.overcomingbias.com/2021/05/theories-of-unnatural-selection.html"/>
         <updated>2021-05-03T02:00:40.000Z</updated>
         <summary type="html"><![CDATA[In my career I’ve worked in an unusually large number of academic disciplines: physics, computer science, social science, psychology, engineering, and philosophy. But on a map of academic disciplines, where fields that cite each other often are put closer together, &#8230; Continue reading &#8594;]]></summary>
         <author>
-            <name>Overcoming Bias</name>
+            <name>Robin Hanson</name>
         </author>
     </entry>
     <entry>
@@ -273,7 +304,7 @@ The barbarian invasions of the 4th and 5th centuries, and…]]></summary>
         <updated>2021-05-02T10:15:28.000Z</updated>
         <summary type="html"><![CDATA["One must ruthlessly write what one knows to be the truth, or else shut up."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -283,17 +314,17 @@ The barbarian invasions of the 4th and 5th centuries, and…]]></summary>
         <updated>2021-05-02T09:19:36.000Z</updated>
         <summary type="html"><![CDATA["From which no traveler is tracked."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Subtext Shows Status]]></title>
-        <id>http://www.overcomingbias.com/2021/05/subtext-shows-status.html</id>
+        <id>https://www.overcomingbias.com/?p=32816</id>
         <link href="http://www.overcomingbias.com/2021/05/subtext-shows-status.html"/>
         <updated>2021-05-01T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[When we talk, we say things that are explicit and direct, on the surface of the text, and we also say things that are in hidden and indirect, said in more deniable ways via subtext. Imagine that there was a &#8230; Continue reading &#8594;]]></summary>
         <author>
-            <name>Overcoming Bias</name>
+            <name>Robin Hanson</name>
         </author>
     </entry>
     <entry>
@@ -303,7 +334,7 @@ The barbarian invasions of the 4th and 5th centuries, and…]]></summary>
         <updated>2021-05-01T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[“The truth is rarely pure and never simple.” &#8211;Oscar Wilde The insane extremists are winning the debate about global warming. Whatever your view of global warming, you probably agree with me about that. You probably also think the crazy extremists are the people on the opposite side from yourself – the people on the left &#8230; Continue reading Subtle Truths, 2: Global Warming]]></summary>
         <author>
-            <name>Fake Nous</name>
+            <name>Michael Huemer</name>
         </author>
     </entry>
     <entry>
@@ -313,7 +344,7 @@ The barbarian invasions of the 4th and 5th centuries, and…]]></summary>
         <updated>2021-04-30T16:27:55.000Z</updated>
         <summary type="html"><![CDATA[Finalist #7 of the book review contest]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
@@ -323,7 +354,7 @@ The barbarian invasions of the 4th and 5th centuries, and…]]></summary>
         <updated>2021-04-30T16:27:36.000Z</updated>
         <summary type="html"><![CDATA[...]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
@@ -343,28 +374,28 @@ The barbarian invasions of the 4th and 5th centuries, and…]]></summary>
         <updated>2021-04-30T00:04:29.000Z</updated>
         <summary type="html"><![CDATA[Finalist #6 of the book review contest]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Motive/Emotive Blindspot]]></title>
-        <id>http://www.overcomingbias.com/2021/04/motives-emotives-are-opaque.html</id>
+        <id>https://www.overcomingbias.com/?p=32814</id>
         <link href="http://www.overcomingbias.com/2021/04/motives-emotives-are-opaque.html"/>
         <updated>2021-04-29T15:10:28.000Z</updated>
         <summary type="html"><![CDATA[In this short post what I try to say is unusually imprecise, relative to what I usually try to say. Yet it seems important enough to try to say it anyway. I’ve noticed a big hole in my understanding, which &#8230; Continue reading &#8594;]]></summary>
         <author>
-            <name>Overcoming Bias</name>
+            <name>Robin Hanson</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thoughts on My Simplistic Theory of Left and Right]]></title>
-        <id>https://www.econlib.org/thoughts-on-my-simplistic-theory-of-left-and-right/</id>
+        <id>https://www.econlib.org/?p=54863</id>
         <link href="https://www.econlib.org/thoughts-on-my-simplistic-theory-of-left-and-right/"/>
         <updated>2021-04-29T13:37:32.000Z</updated>
         <summary type="html"><![CDATA[I have a Simplistic Theory of Left and Right.  A reader sent me their thoughts on the theory.  Reprinted anonymously with their permission. I&#8217;ve been thinking about your conception of the Right and Left in American Politics and thought I would run a thought by you. You say: 1. Leftists are anti-market.  On an emotional [&#8230;]
 The post Thoughts on My Simplistic Theory of Left and Right appeared first on Econlib.]]></summary>
         <author>
-            <name>Bryan Caplan – Econlib</name>
+            <name>Bryan Caplan</name>
         </author>
     </entry>
     <entry>
@@ -385,7 +416,7 @@ Broadly speaking, there are three domains of activity important to technological
         <updated>2021-04-28T18:57:38.000Z</updated>
         <summary type="html"><![CDATA[852 people put weird chemicals in their bodies and tell me the results.]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
@@ -417,23 +448,23 @@ Like the Iliad, like the pyramids, the Decline and Fall has an air of unreality.
     </entry>
     <entry>
         <title type="html"><![CDATA[Dual Anthems]]></title>
-        <id>https://www.econlib.org/dual-anthems/</id>
+        <id>https://www.econlib.org/?p=54901</id>
         <link href="https://www.econlib.org/dual-anthems/"/>
         <updated>2021-04-28T13:43:16.000Z</updated>
         <summary type="html"><![CDATA[Ayn Rand&#8216;s Anthem only takes about an hour to read.  So while it&#8217;s her weakest novel, the literary value per minute of reading is high.  And it definitely belongs on any list of classic dystopian fiction.  Only recently, though, did I discover that there are two graphic novel adaptations. 1. The 2011 adaptation by Charles Santino and [&#8230;]
 The post Dual &lt;i&gt;Anthems&lt;/i&gt; appeared first on Econlib.]]></summary>
         <author>
-            <name>Bryan Caplan – Econlib</name>
+            <name>Bryan Caplan</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shoulda-Listened Futures]]></title>
-        <id>http://www.overcomingbias.com/2021/04/shoulda-listened-futures.html</id>
+        <id>http://www.overcomingbias.com/?p=32811</id>
         <link href="http://www.overcomingbias.com/2021/04/shoulda-listened-futures.html"/>
         <updated>2021-04-27T22:45:09.000Z</updated>
         <summary type="html"><![CDATA[Over the decades I have written many times on how prediction markets might help the intellectual world. But usually my pitch has been to those who want to get a better actionable info out of intellectuals, or to help the &#8230; Continue reading &#8594;]]></summary>
         <author>
-            <name>Overcoming Bias</name>
+            <name>Robin Hanson</name>
         </author>
     </entry>
     <entry>
@@ -443,18 +474,18 @@ The post Dual &lt;i&gt;Anthems&lt;/i&gt; appeared first on Econlib.]]></summary>
         <updated>2021-04-27T17:28:44.000Z</updated>
         <summary type="html"><![CDATA[To the tune of the prologue to Les Mis&#233;rables]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Boudreaux’s Aged Hypothetical]]></title>
-        <id>https://www.econlib.org/boudreauxs-aged-hypothetical/</id>
+        <id>https://www.econlib.org/?p=54864</id>
         <link href="https://www.econlib.org/boudreauxs-aged-hypothetical/"/>
         <updated>2021-04-27T13:30:43.000Z</updated>
         <summary type="html"><![CDATA[The noble Don Boudreaux builds on my ageless hypothetical: To avoid the many challenges with calculating the value of a statistical life, think of the matter in the following way: Suppose that a society, identical to ours, will – with 100 percent certainty – be stricken with one of three deadly pathogens. But this society [&#8230;]
 The post Boudreaux&#8217;s Aged Hypothetical appeared first on Econlib.]]></summary>
         <author>
-            <name>Bryan Caplan – Econlib</name>
+            <name>Bryan Caplan</name>
         </author>
     </entry>
     <entry>
@@ -464,18 +495,18 @@ The post Boudreaux&#8217;s Aged Hypothetical appeared first on Econlib.]]></summ
         <updated>2021-04-26T23:12:17.000Z</updated>
         <summary type="html"><![CDATA[...]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Song of Slack]]></title>
-        <id>https://www.econlib.org/the-song-of-slack/</id>
+        <id>https://www.econlib.org/?p=54757</id>
         <link href="https://www.econlib.org/the-song-of-slack/"/>
         <updated>2021-04-26T13:54:59.000Z</updated>
         <summary type="html"><![CDATA[When I criticize leaders great and small, critics often reply: &#8220;You&#8217;re so naive.  These leaders are under immense pressure to act as they do.  Even if what they&#8217;re doing is as bad as you say, they have no choice.&#8221; &#160; Question: What exactly does it mean to say, &#8220;Leaders have no choice but to do [&#8230;]
 The post The Song of Slack appeared first on Econlib.]]></summary>
         <author>
-            <name>Bryan Caplan – Econlib</name>
+            <name>Bryan Caplan</name>
         </author>
     </entry>
     <entry>
@@ -485,7 +516,7 @@ The post The Song of Slack appeared first on Econlib.]]></summary>
         <updated>2021-04-25T21:56:38.000Z</updated>
         <summary type="html"><![CDATA[...]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
@@ -495,17 +526,17 @@ The post The Song of Slack appeared first on Econlib.]]></summary>
         <updated>2021-04-25T20:04:49.000Z</updated>
         <summary type="html"><![CDATA[Peter Singer, in the parable that came to represent his whole worldview and that of the effective altruism movement more generally, asked us to imagine that we could save a drowning child at the cost of jumping into a lake and ruining an expensive new suit. Assuming we&#8217;d do that, he argued that we do [&#8230;]]]></summary>
         <author>
-            <name>Shtetl-Optimized</name>
+            <name>Scott</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Schulze-Makuch & Bains on The Great Filter]]></title>
-        <id>http://www.overcomingbias.com/2021/04/schulze-makuch-bains-on-the-great-filter.html</id>
+        <id>http://www.overcomingbias.com/?p=32808</id>
         <link href="http://www.overcomingbias.com/2021/04/schulze-makuch-bains-on-the-great-filter.html"/>
         <updated>2021-04-25T01:00:17.000Z</updated>
         <summary type="html"><![CDATA[In their 2016 journal article &#8220;The Cosmic Zoo: The (Near) Inevitability of the Evolution of Complex, Macroscopic Life&#8220;, Dirk Schulze-Makuch and William Bains write: An important question is … whether there exists what Robin Hanson calls “The Great Filter” somewhere &#8230; Continue reading &#8594;]]></summary>
         <author>
-            <name>Overcoming Bias</name>
+            <name>Robin Hanson</name>
         </author>
     </entry>
     <entry>
@@ -520,12 +551,12 @@ The post The Song of Slack appeared first on Econlib.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Explaining Regulation]]></title>
-        <id>http://www.overcomingbias.com/2021/04/explaining-regulation.html</id>
+        <id>http://www.overcomingbias.com/?p=32806</id>
         <link href="http://www.overcomingbias.com/2021/04/explaining-regulation.html"/>
         <updated>2021-04-24T16:10:56.000Z</updated>
         <summary type="html"><![CDATA[During this pandemic, elites have greatly enjoyed getting to feel important by weighing in on big pandemic policy questions, such as masks, lockdowns, travel restrictions, vaccine tests, vaccine distribution, etc. Each elite can feel self-righteous in their concern for others, &#8230; Continue reading &#8594;]]></summary>
         <author>
-            <name>Overcoming Bias</name>
+            <name>Robin Hanson</name>
         </author>
     </entry>
     <entry>
@@ -535,7 +566,7 @@ The post The Song of Slack appeared first on Econlib.]]></summary>
         <updated>2021-04-24T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[“The truth is rarely pure and never simple.” &#8211;Oscar Wilde Two lessons that we all need to have drummed into our heads as part of critical thinking training: I. A ton of the information you’ve heard about contemporary issues is bogus – outright false, cherry-picked, distorted, or otherwise severely misleading. (I’m sure you already know &#8230; Continue reading Subtle Truths, I: Police Violence]]></summary>
         <author>
-            <name>Fake Nous</name>
+            <name>Michael Huemer</name>
         </author>
     </entry>
     <entry>
@@ -545,7 +576,7 @@ The post The Song of Slack appeared first on Econlib.]]></summary>
         <updated>2021-04-23T20:28:00.000Z</updated>
         <summary type="html"><![CDATA[Finalist #5 of the book review contest]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
@@ -565,17 +596,17 @@ The post The Song of Slack appeared first on Econlib.]]></summary>
         <updated>2021-04-22T19:56:37.000Z</updated>
         <summary type="html"><![CDATA[Finalist #4 of the book review contest]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Try-Two Contest Board]]></title>
-        <id>http://www.overcomingbias.com/2021/04/try-two-contest-board.html</id>
+        <id>http://www.overcomingbias.com/?p=32801</id>
         <link href="http://www.overcomingbias.com/2021/04/try-two-contest-board.html"/>
         <updated>2021-04-22T18:15:57.000Z</updated>
         <summary type="html"><![CDATA[Imagine that a restaurant wants to ask its associates (cooks, servers, etc.) what are the best two menu items to put on its menu as specials on a particular night. They have a large set of possible menu items to &#8230; Continue reading &#8594;]]></summary>
         <author>
-            <name>Overcoming Bias</name>
+            <name>Robin Hanson</name>
         </author>
     </entry>
     <entry>
@@ -589,55 +620,13 @@ The post The Song of Slack appeared first on Econlib.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Age and the Value of Life: A Further Reply]]></title>
-        <id>https://www.econlib.org/age-and-the-value-of-life-a-further-reply/</id>
-        <link href="https://www.econlib.org/age-and-the-value-of-life-a-further-reply/"/>
-        <updated>2021-04-22T14:27:50.000Z</updated>
-        <summary type="html"><![CDATA[&#8220;Old Lives Matter.&#8221; I fully agree with the title of Jeremy Horpedahl&#8217;s latest reply on the value of life.  To say that the life of an 80-year-old is worth 1% or .1% as much as the life of a 10-year-old is not deny the high value of elderly lives, because 10-year-old lives are immensely valuable. [&#8230;]
-The post Age and the Value of Life: A Further Reply appeared first on Econlib.]]></summary>
-        <author>
-            <name>Bryan Caplan – Econlib</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do Your Thoughts Scale?]]></title>
-        <id>http://www.overcomingbias.com/2021/04/do-your-thoughts-scale.html</id>
-        <link href="http://www.overcomingbias.com/2021/04/do-your-thoughts-scale.html"/>
-        <updated>2021-04-22T13:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Most intellectuals don’t pick their topics based on fundamental value. They instead opportunistically read the many clues around them regarding on which topics they are more likely to be rewarded. Now if you, in contrast, have the slack and inclination &#8230; Continue reading &#8594;]]></summary>
-        <author>
-            <name>Overcoming Bias</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hidden Open Thread 168.5]]></title>
         <id>https://astralcodexten.substack.com/p/hidden-open-thread-1685</id>
         <link href="https://astralcodexten.substack.com/p/hidden-open-thread-1685"/>
         <updated>2021-04-21T23:53:45.000Z</updated>
         <summary type="html"><![CDATA[...]]></summary>
         <author>
-            <name>Astral Codex Ten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Review: Global Economic History]]></title>
-        <id>https://astralcodexten.substack.com/p/book-review-global-economic-history</id>
-        <link href="https://astralcodexten.substack.com/p/book-review-global-economic-history"/>
-        <updated>2021-04-21T20:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Review and commentary on Robert Allen's "Global Economic History: A Very Short Introduction"]]></summary>
-        <author>
-            <name>Astral Codex Ten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Missing Right-Wing Firms: Hanania’s Plausible Resolution]]></title>
-        <id>https://www.econlib.org/the-missing-right-wing-firms-a-plausible-resolution/</id>
-        <link href="https://www.econlib.org/the-missing-right-wing-firms-a-plausible-resolution/"/>
-        <updated>2021-04-21T14:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Last year, I tried to figure out why there aren&#8217;t a lot more right-wing (or apolitical) firms.  A recent piece by Richard Hanania comes down firmly in favor of my Explanation #4.  To review: Explanation #4. Few moderates or right-wingers care enough to create a major profit opportunity.  While they don’t relish looking over their shoulders, they [&#8230;]
-The post The Missing Right-Wing Firms: Hanania&#8217;s Plausible Resolution appeared first on Econlib.]]></summary>
-        <author>
-            <name>Bryan Caplan – Econlib</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
@@ -651,55 +640,13 @@ The post The Missing Right-Wing Firms: Hanania&#8217;s Plausible Resolution appe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No, Really, Why Are So Many Christians In Colombia Converting To Orthodox Judaism?]]></title>
-        <id>https://astralcodexten.substack.com/p/no-really-why-are-so-many-christians</id>
-        <link href="https://astralcodexten.substack.com/p/no-really-why-are-so-many-christians"/>
-        <updated>2021-04-21T00:27:50.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>Astral Codex Ten</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Doubts about teapot supremacy: my reply to Richard Borcherds]]></title>
         <id>https://www.scottaaronson.com/blog/?p=5460</id>
         <link href="https://www.scottaaronson.com/blog/?p=5460"/>
         <updated>2021-04-20T18:55:39.000Z</updated>
         <summary type="html"><![CDATA[Richard Borcherds is a British mathematician at Berkeley, who won the 1998 Fields Medal for the proof of the monstrous moonshine conjecture among many other contributions. A couple months ago, Borcherds posted on YouTube a self-described &#8220;rant&#8221; about quantum computing, which was recently making the rounds on Facebook and which I found highly entertaining. Borcherds [&#8230;]]]></summary>
         <author>
-            <name>Shtetl-Optimized</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goldberg on Expressive Politics]]></title>
-        <id>https://www.econlib.org/goldberg-on-expressive-politics/</id>
-        <link href="https://www.econlib.org/goldberg-on-expressive-politics/"/>
-        <updated>2021-04-20T13:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Brennan and Lomasky&#8217;s expressive voting model tries to explain why politics is largely about style and stories, not substance and numbers.  Long story short: Political entertainment is a private good; political results are a public good.  As a result, political systems primarily yield entertainment, not results.  Jonah Goldberg nicely illustrates these insights in a recent [&#8230;]
-The post Goldberg on Expressive Politics appeared first on Econlib.]]></summary>
-        <author>
-            <name>Bryan Caplan – Econlib</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantic Monday: Grading My Trump Predictions]]></title>
-        <id>https://astralcodexten.substack.com/p/mantic-monday-grading-my-trump-predictions</id>
-        <link href="https://astralcodexten.substack.com/p/mantic-monday-grading-my-trump-predictions"/>
-        <updated>2021-04-19T19:16:56.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>Astral Codex Ten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Ageless Hypothetical: Horpedahl’s Critique]]></title>
-        <id>https://www.econlib.org/an-ageless-hypothetical-horpedahls-critique/</id>
-        <link href="https://www.econlib.org/an-ageless-hypothetical-horpedahls-critique/"/>
-        <updated>2021-04-19T14:05:51.000Z</updated>
-        <summary type="html"><![CDATA[In response to my ageless hypothetical, Jeremy Horpedahl raises some empirical doubts about the relative value of life for the young and the old: Surprisingly, though, roughly equally valuing all lives is actually the answer that a normal economic calculation, willingness-to-pay for risk reduction, would give you! Or at least roughly. I haven’t seen an [&#8230;]
-The post An Ageless Hypothetical: Horpedahl&#8217;s Critique appeared first on Econlib.]]></summary>
-        <author>
-            <name>Bryan Caplan – Econlib</name>
+            <name>Scott</name>
         </author>
     </entry>
     <entry>
@@ -707,22 +654,12 @@ The post An Ageless Hypothetical: Horpedahl&#8217;s Critique appeared first on E
         <id>https://rootsofprogress.org/wanted-research-assistant</id>
         <link href="https://rootsofprogress.org/wanted-research-assistant"/>
         <updated>2021-04-19T11:26:39.000Z</updated>
-        <summary type="html"><![CDATA[I’m hiring a part-time research assistant to support my work on these essays, my talks, and the book I’m writing on the history of industrial civilization.
+        <summary type="html"><![CDATA[UPDATE: I’ve filled this role. Thanks to all who applied!
+I’m hiring a part-time research assistant to support my work on these essays, my talks, and the book I’m writing on the history of industrial civilization.
 You must have the ability to orient yourself in unfamiliar mental territory; to penetrate the fog of confusing, incomplete, and contradictory information; to sniff out reliable sources of key facts and to corroborate them; and to quickly sketch out a new intellectual landscape.
-You will handle queries such as:
-What happened to the price of cotton and the…]]></summary>
+You will handle que…]]></summary>
         <author>
             <name>The Roots of Progress</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Thread 168]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-168</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-168"/>
-        <updated>2021-04-19T00:25:09.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>Astral Codex Ten</name>
         </author>
     </entry>
     <entry>
@@ -736,53 +673,13 @@ What happened to the price of cotton and the…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Managed Competition or Competing Managers?]]></title>
-        <id>http://www.overcomingbias.com/2021/04/managed-competition-or-competing-managers.html</id>
-        <link href="http://www.overcomingbias.com/2021/04/managed-competition-or-competing-managers.html"/>
-        <updated>2021-04-18T18:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Competition and cooperation [as] opposites, with vice on one side and virtue on the other … is a false dichotomy … The market-based competition envisioned in economics is disciplined by rules and reputations. … Just as competition is not a shorthand &#8230; Continue reading &#8594;]]></summary>
-        <author>
-            <name>Overcoming Bias</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Georgist Cartoons Of The Late 19th/Early 20th Century]]></title>
-        <id>https://astralcodexten.substack.com/p/georgist-cartoons-of-the-late-19thearly</id>
-        <link href="https://astralcodexten.substack.com/p/georgist-cartoons-of-the-late-19thearly"/>
-        <updated>2021-04-17T18:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Things I found looking for a preview image for the recent George book review]]></summary>
-        <author>
-            <name>Astral Codex Ten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Zoologist’s Guide to Our Past]]></title>
-        <id>http://www.overcomingbias.com/2021/04/a-zoologists-guide-to-the-past.html</id>
-        <link href="http://www.overcomingbias.com/2021/04/a-zoologists-guide-to-the-past.html"/>
-        <updated>2021-04-17T16:10:02.000Z</updated>
-        <summary type="html"><![CDATA[In his new book The Zoologist&#8217;s Guide to the Galaxy: What Animals on Earth Reveal About Aliens&#8211;and Ourselves, Cambridge zoologist Arik Kershenbaum purports to tell us what intelligent aliens will be like when we meet them: This book is about how &#8230; Continue reading &#8594;]]></summary>
-        <author>
-            <name>Overcoming Bias</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Marriage & Testosterone Levels]]></title>
         <id>https://fakenous.net/?p=2255</id>
         <link href="https://fakenous.net/?p=2255"/>
         <updated>2021-04-17T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[(I) Here is something I worry about: https://washingtonmonthly.com/magazine/maraprmay-2016/why-is-marriage-thriving-among-and-only-among-the-affluent/ It seems that marriage is drastically declining in our society. E.g., 41% of babies are born to unwed mothers. Q: Why did this happen? It looks like we don’t really know. You might think it’s because the “incentives” to marry have declined – there is less stigma &#8230; Continue reading Marriage &#038; Testosterone Levels]]></summary>
         <author>
-            <name>Fake Nous</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hidden Open Thread 167.5]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-1675</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-1675"/>
-        <updated>2021-04-16T23:04:47.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>Astral Codex Ten</name>
+            <name>Michael Huemer</name>
         </author>
     </entry>
     <entry>
@@ -794,16 +691,6 @@ What happened to the price of cotton and the…]]></summary>
 In the 1950s, nuclear was the energy of the future. Two generations later, it provides only about 10% of world electricity, and reactor design hasn‘t fundamentally changed in decades. (Even “advanced reactor designs” are based on con…]]></summary>
         <author>
             <name>The Roots of Progress</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Book Review: Progress And Poverty]]></title>
-        <id>https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty</id>
-        <link href="https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty"/>
-        <updated>2021-04-16T04:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Finalist #3 of the book review contest]]></summary>
-        <author>
-            <name>Astral Codex Ten</name>
         </author>
     </entry>
     <entry>
@@ -830,65 +717,13 @@ It’s also flat out the best biography I’ve ever…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Romanoffs]]></title>
-        <id>https://www.econlib.org/the-romanoffs/</id>
-        <link href="https://www.econlib.org/the-romanoffs/"/>
-        <updated>2021-04-15T13:37:48.000Z</updated>
-        <summary type="html"><![CDATA[I recently watched Amazon&#8217;s 2018 series The Romanoffs.  While reviews were mixed, I thought this limited ensemble series was amazingly good overall.  Backstory: A century after the execution of the czar and his immediate family at the hands of the Bolsheviks, viewers experience eight distinct stories about descendants of Russian royalty.  None of the characters remain more [&#8230;]
-The post &lt;i&gt;The Romanoffs&lt;/i&gt; appeared first on Econlib.]]></summary>
-        <author>
-            <name>Bryan Caplan – Econlib</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prospectus On Pr&#243;spera]]></title>
-        <id>https://astralcodexten.substack.com/p/prospectus-on-prospera</id>
-        <link href="https://astralcodexten.substack.com/p/prospectus-on-prospera"/>
-        <updated>2021-04-14T20:55:32.000Z</updated>
-        <summary type="html"><![CDATA[A look at Pr&#243;spera, the charter city taking shape in Honduras]]></summary>
-        <author>
-            <name>Astral Codex Ten</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The ACM Prize thing]]></title>
         <id>https://www.scottaaronson.com/blog/?p=5448</id>
         <link href="https://www.scottaaronson.com/blog/?p=5448"/>
         <updated>2021-04-14T15:41:51.000Z</updated>
         <summary type="html"><![CDATA[Last week I got an email from Dina Katabi, my former MIT colleague, asking me to call her urgently. Am I in trouble? For what, though?? I haven&#8217;t even worked at MIT for five years! Luckily, Dina only wanted to tell me that I&#8217;d been selected to receive the 2020 ACM Prize in Computing, a [&#8230;]]]></summary>
         <author>
-            <name>Shtetl-Optimized</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Admissions versus Asians]]></title>
-        <id>https://www.econlib.org/admissions-versus-asians/</id>
-        <link href="https://www.econlib.org/admissions-versus-asians/"/>
-        <updated>2021-04-14T13:19:29.000Z</updated>
-        <summary type="html"><![CDATA[Whenever I want a clear-cut example of latter-day racial discrimination, I point to elite universities&#8217; treatment of Asians.  As far as I&#8217;m concerned, the evidence is overwhelming.  The denials are not only motivated reasoning, but desperate motivated reasoning. Still, this leaves me with a puzzle.  Do I really think that elite admissions officers wake up [&#8230;]
-The post Admissions versus Asians appeared first on Econlib.]]></summary>
-        <author>
-            <name>Bryan Caplan – Econlib</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[LINK] Unifying Predictive Coding With Backpropagation]]></title>
-        <id>https://astralcodexten.substack.com/p/link-unifying-predictive-coding-with</id>
-        <link href="https://astralcodexten.substack.com/p/link-unifying-predictive-coding-with"/>
-        <updated>2021-04-14T08:02:18.000Z</updated>
-        <summary type="html"><![CDATA[P(A|B) = [P(A)*P(B|A)]/P(B), all the rest is commentary.]]></summary>
-        <author>
-            <name>Astral Codex Ten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links For April]]></title>
-        <id>https://astralcodexten.substack.com/p/links-for-april</id>
-        <link href="https://astralcodexten.substack.com/p/links-for-april"/>
-        <updated>2021-04-12T20:43:09.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>Astral Codex Ten</name>
+            <name>Scott</name>
         </author>
     </entry>
     <entry>
@@ -908,17 +743,7 @@ The post Admissions versus Asians appeared first on Econlib.]]></summary>
         <updated>2021-04-11T12:02:12.000Z</updated>
         <summary type="html"><![CDATA["I will never buy you a diamond."]]></summary>
         <author>
-            <name>Gray Mirror</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real Vs. Fake Stories: Complements or Substitutes?]]></title>
-        <id>http://www.overcomingbias.com/2021/04/real-vs-fake-stories-complements-or-substitutes.html</id>
-        <link href="http://www.overcomingbias.com/2021/04/real-vs-fake-stories-complements-or-substitutes.html"/>
-        <updated>2021-04-10T15:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Regarding meaningful stories and narratives, I see two huge trends over the last century or so. First, we’ve seen a great increase in the amount of fiction consumed. People now spend many hours of day watching TV and movies, reading &#8230; Continue reading &#8594;]]></summary>
-        <author>
-            <name>Overcoming Bias</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -928,7 +753,7 @@ The post Admissions versus Asians appeared first on Econlib.]]></summary>
         <updated>2021-04-10T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Popular question: How much of human behavior is explained by biology (“nature”) and how much is due to upbringing/culture/environment (“nurture”)? Popular answer: “Everything interesting is due to nurture! Biology tells us almost nothing of any import about human behavior. In particular, none or almost none of the variation in behavioral traits among humans has anything &#8230; Continue reading In Defense of Nature]]></summary>
         <author>
-            <name>Fake Nous</name>
+            <name>Michael Huemer</name>
         </author>
     </entry>
     <entry>
@@ -938,7 +763,7 @@ The post Admissions versus Asians appeared first on Econlib.]]></summary>
         <updated>2021-04-10T01:37:43.000Z</updated>
         <summary type="html"><![CDATA["Never once the rock we carried."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -948,7 +773,7 @@ The post Admissions versus Asians appeared first on Econlib.]]></summary>
         <updated>2021-04-09T18:15:33.000Z</updated>
         <summary type="html"><![CDATA[Oded Goldreich is a theoretical computer scientist at the Weizmann Institute in Rehovot, Israel. He&#8217;s best known for helping to lay the rigorous foundations of cryptography in the 1980s, through seminal results like the Goldreich-Levin Theorem (every one-way function can be modified to have a hard-core predicate), the Goldreich-Goldwasser-Micali Theorem (every pseudorandom generator can be [&#8230;]]]></summary>
         <author>
-            <name>Shtetl-Optimized</name>
+            <name>Scott</name>
         </author>
     </entry>
     <entry>
@@ -971,7 +796,7 @@ Looking back to-day it seems incredible that only forty years ago (1870) chemist
         <updated>2021-04-07T14:50:28.000Z</updated>
         <summary type="html"><![CDATA["I was eating that!"]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -991,7 +816,7 @@ Looking back to-day it seems incredible that only forty years ago (1870) chemist
         <updated>2021-04-07T12:51:57.000Z</updated>
         <summary type="html"><![CDATA["No one will ever see the rock on which I stood."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1001,7 +826,7 @@ Looking back to-day it seems incredible that only forty years ago (1870) chemist
         <updated>2021-04-06T15:31:01.000Z</updated>
         <summary type="html"><![CDATA[2 major new site features: 'popins' and recursive Wikipedia popups]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
@@ -1024,17 +849,17 @@ This i…]]></summary>
         <updated>2021-04-04T18:37:49.000Z</updated>
         <summary type="html"><![CDATA[Update (April 5, 2021): So it turns out that Adam Chalcraft and Michael Greene already proved the essential result of this post back in 1994 (hat tip to commenter Dylan). Not terribly surprising in retrospect! My son Daniel had his fourth birthday a couple weeks ago. For a present, he got an electric train set. [&#8230;]]]></summary>
         <author>
-            <name>Shtetl-Optimized</name>
+            <name>Scott</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Monastery and Throne]]></title>
-        <id>https://putanumonit.com/2021/04/03/monastery-and-throne/</id>
+        <id>http://putanumonit.com/?p=31177</id>
         <link href="https://putanumonit.com/2021/04/03/monastery-and-throne/"/>
         <updated>2021-04-04T03:38:52.000Z</updated>
         <summary type="html"><![CDATA[Thinking about the impact of my writing upon finding out that it may have been much greater than I thought.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -1044,7 +869,7 @@ This i…]]></summary>
         <updated>2021-04-03T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[I have a new book!: https://www.amazon.com/dp/B091F5QTDS/ So I’m going to talk about the book, and then about my publishing experience, because this is my first self-published book. Detailed contents, preface, and chapters 1 + 5 are posted on my web site (https://spot.colorado.edu/~huemer/, &#8220;Research&#8221; &#8211;&#62; &#8220;Books&#8221;). Hardcover version from Barnes &#38; Noble (because Amazon doesn&#8217;t make &#8230; Continue reading My New Book!]]></summary>
         <author>
-            <name>Fake Nous</name>
+            <name>Michael Huemer</name>
         </author>
     </entry>
     <entry>
@@ -1067,7 +892,7 @@ As a participant, I’m not supposed to co…]]></summary>
         <updated>2021-04-02T09:32:57.000Z</updated>
         <summary type="html"><![CDATA["That negation which is the life-breath of materialism."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1133,7 +958,7 @@ Some context. In the 1800s, a lot of inventive effort went into the mechanizatio
         <updated>2021-03-31T00:58:21.000Z</updated>
         <summary type="html"><![CDATA["What's wrong with the workers of the world uniting?"]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1168,7 +993,7 @@ Sp…]]></summary>
         <updated>2021-03-27T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[A little while ago, I heard the story of Daryl Davis on a podcast. Daryl Davis is an African American musician who has basically caused hundreds of KKK members to leave the Klan just by talking. This is a TEDx talk by him: https://youtu.be/fw0vS0qvYo0. And his podcast, Changing Minds: https://change.minds.com/feed. In case you haven’t heard &#8230; Continue reading Daryl Davis: American Hero]]></summary>
         <author>
-            <name>Fake Nous</name>
+            <name>Michael Huemer</name>
         </author>
     </entry>
     <entry>
@@ -1191,7 +1016,7 @@ This is also an explicitly short-termist list. There’s no mention of climate c
         <updated>2021-03-27T00:59:24.000Z</updated>
         <summary type="html"><![CDATA["Every vote is cast in person by an identified citizen before an independent witness."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1312,7 +1137,7 @@ Findings: There is only a brief window where student and LS returns grow in tand
         <updated>2021-03-23T07:20:59.000Z</updated>
         <summary type="html"><![CDATA["We have just suffered such a defeat as no one would have believed possible."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1333,7 +1158,7 @@ Within a week, g…]]></summary>
         <updated>2021-03-21T15:17:06.000Z</updated>
         <summary type="html"><![CDATA["The supreme function of statesmanship is to provide against preventable evils."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1343,7 +1168,7 @@ Within a week, g…]]></summary>
         <updated>2021-03-21T01:18:54.000Z</updated>
         <summary type="html"><![CDATA[For years, I&#8217;d sometimes hear discussions about the ethics of quantum computing research. Quantum ethics! When the debates weren&#8217;t purely semantic, over the propriety of terms like &#8220;quantum supremacy&#8221; or &#8220;ancilla qubit,&#8221; they were always about chin-strokers like &#8220;but what if cracking RSA encryption gives governments more power to surveil their citizens? or what if [&#8230;]]]></summary>
         <author>
-            <name>Shtetl-Optimized</name>
+            <name>Scott</name>
         </author>
     </entry>
     <entry>
@@ -1376,7 +1201,7 @@ It is sensitive to the granularity of technological revolutio…]]></summary>
         <updated>2021-03-20T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[For many years, I wondered why people go to war as often as they do. I heard a number of theories about this, but they were all unsatisfying. They always left an element of unexplained irrationality. Not just immorality, mind you (which is understandable, if deplorable), but sheer, obvious imprudence. Then one day, I found &#8230; Continue reading Why Humans Fight]]></summary>
         <author>
-            <name>Fake Nous</name>
+            <name>Michael Huemer</name>
         </author>
     </entry>
     <entry>
@@ -1386,7 +1211,7 @@ It is sensitive to the granularity of technological revolutio…]]></summary>
         <updated>2021-03-20T09:11:49.000Z</updated>
         <summary type="html"><![CDATA["The entire recommencement of the whole work of the mind."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1406,7 +1231,7 @@ It is sensitive to the granularity of technological revolutio…]]></summary>
         <updated>2021-03-18T03:19:46.000Z</updated>
         <summary type="html"><![CDATA[Many of you will have seen the happy news today that Avi Wigderson and László Lovász share this year&#8217;s Abel Prize (which now contends with the Fields Medal for the highest award in pure math). This is only the second time that the Abel Prize has been given wholly or partly for work in theoretical [&#8230;]]]></summary>
         <author>
-            <name>Shtetl-Optimized</name>
+            <name>Scott</name>
         </author>
     </entry>
     <entry>
@@ -1416,7 +1241,7 @@ It is sensitive to the granularity of technological revolutio…]]></summary>
         <updated>2021-03-18T00:41:41.000Z</updated>
         <summary type="html"><![CDATA[Covid isn't China's Chernobyl. Or even America's. Covid belongs to science itself.]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1460,7 +1285,7 @@ A recent post from Tom Cleveland illustrates one type of asymmetric opportunity 
         <updated>2021-03-13T15:18:44.000Z</updated>
         <summary type="html"><![CDATA[links on AI scaling, semaglutide, and ethicist ethics]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
@@ -1470,7 +1295,7 @@ A recent post from Tom Cleveland illustrates one type of asymmetric opportunity 
         <updated>2021-03-13T02:25:35.000Z</updated>
         <summary type="html"><![CDATA["Some people are larger than life. Hitler is larger than death."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1485,12 +1310,12 @@ A recent post from Tom Cleveland illustrates one type of asymmetric opportunity 
     </entry>
     <entry>
         <title type="html"><![CDATA[Don’t Sell Your Soul]]></title>
-        <id>https://putanumonit.com/2021/03/11/dont-sell-your-soul/</id>
+        <id>http://putanumonit.com/?p=31136</id>
         <link href="https://putanumonit.com/2021/03/11/dont-sell-your-soul/"/>
         <updated>2021-03-12T02:46:03.000Z</updated>
         <summary type="html"><![CDATA[Rationality is knowing better than to sell your soul for a few dollars, even if you don't believe you have one.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -1500,7 +1325,7 @@ A recent post from Tom Cleveland illustrates one type of asymmetric opportunity 
         <updated>2021-03-11T20:31:03.000Z</updated>
         <summary type="html"><![CDATA[Back at MIT, whenever I taught my graduate course on Quantum Complexity Theory (see here for lecture notes), I had a tradition of showcasing the student projects on this blog: see here (Fall 2010), here (Fall 2012), here (Fall 2014). I was incredibly proud that, each time I taught, at least some of the projects [&#8230;]]]></summary>
         <author>
-            <name>Shtetl-Optimized</name>
+            <name>Scott</name>
         </author>
     </entry>
     <entry>
@@ -1543,7 +1368,7 @@ The difference is that it’s all “deep work”, or a…]]></summary>
         <updated>2021-03-10T22:29:51.000Z</updated>
         <summary type="html"><![CDATA[Many of you have surely already seen the news that the Kouwenhoven group in Delft&#8212;which in 2018 published a paper in Nature claiming to have detected Majorana particles, a type of nonabelian anyon&#8212;have retracted the paper and apologized for &#8220;insufficient scientific rigour.&#8221; This work was considered one of the linchpins of Microsoft&#8217;s experimental effort toward [&#8230;]]]></summary>
         <author>
-            <name>Shtetl-Optimized</name>
+            <name>Scott</name>
         </author>
     </entry>
     <entry>
@@ -1553,7 +1378,7 @@ The difference is that it’s all “deep work”, or a…]]></summary>
         <updated>2021-03-10T14:41:39.000Z</updated>
         <summary type="html"><![CDATA[Dreampolitik became real in the Capitol Riot. Did History come back with it?]]></summary>
         <author>
-            <name>Reactions</name>
+            <name>Ross Douthat</name>
         </author>
     </entry>
     <entry>
@@ -1577,7 +1402,7 @@ EA has shifted from “earning to give” to “x-risk”, leading to less of as
         <updated>2021-03-09T14:40:52.000Z</updated>
         <summary type="html"><![CDATA[Or does a decadent society get the technological progress it deserves?]]></summary>
         <author>
-            <name>Reactions</name>
+            <name>Ross Douthat</name>
         </author>
     </entry>
     <entry>
@@ -1611,7 +1436,7 @@ First, read this to understand the context in which the book appeared. One …]]
         <updated>2021-03-08T14:45:34.000Z</updated>
         <summary type="html"><![CDATA[Has the coronavirus deepened our decadence, or pushed us somewhere new?]]></summary>
         <author>
-            <name>Reactions</name>
+            <name>Ross Douthat</name>
         </author>
     </entry>
     <entry>
@@ -1627,16 +1452,6 @@ Open Philanthropy doesn’t provide an equivalent chart, but they do have a gran
 (Note that the GiveWell and Open Philanthropy didn’t formally split until 2017. GiveWell records $70.4m from Open Philanthropy in 2015, whi…]]></summary>
         <author>
             <name>Applied Divinity Studies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another axe swung at the Sycamore]]></title>
-        <id>https://www.scottaaronson.com/blog/?p=5371</id>
-        <link href="https://www.scottaaronson.com/blog/?p=5371"/>
-        <updated>2021-03-07T19:15:53.000Z</updated>
-        <summary type="html"><![CDATA[So there&#8217;s an interesting new paper on the arXiv by Feng Pan and Pan Zhang, entitled &#8220;Simulating the Sycamore supremacy circuits.&#8221; It&#8217;s about a new tensor contraction strategy for classically simulating Google&#8217;s 53-qubit quantum supremacy experiment from Fall 2019. Using their approach, and using just 60 GPUs running for a few days, the authors say [&#8230;]]]></summary>
-        <author>
-            <name>Shtetl-Optimized</name>
         </author>
     </entry>
     <entry>
@@ -1656,7 +1471,7 @@ Open Philanthropy doesn’t provide an equivalent chart, but they do have a gran
         <updated>2021-03-06T19:29:21.000Z</updated>
         <summary type="html"><![CDATA["Yet the test of a general is not how he looks on a horse."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1666,7 +1481,7 @@ Open Philanthropy doesn’t provide an equivalent chart, but they do have a gran
         <updated>2021-03-06T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[When you hear someone confidently declaring &#8220;BTC is going to be $100k later this year&#8221; (when its current actual price is $50k) you should probably completely discount that. If it could actually be known, based on publicly available information, that BTC would be trading at $100k later this year, then it would be about $100k &#8230; Continue reading Why I Think Your Investment Advice Is Bullshit]]></summary>
         <author>
-            <name>Fake Nous</name>
+            <name>Michael Huemer</name>
         </author>
     </entry>
     <entry>
@@ -1676,7 +1491,7 @@ Open Philanthropy doesn’t provide an equivalent chart, but they do have a gran
         <updated>2021-03-04T08:23:40.000Z</updated>
         <summary type="html"><![CDATA["You had unfortunately not understood what kind of a jungle you lived in."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1696,7 +1511,7 @@ Open Philanthropy doesn’t provide an equivalent chart, but they do have a gran
         <updated>2021-03-02T09:47:53.000Z</updated>
         <summary type="html"><![CDATA["For I will fight against my cankered country with the spleen of all the under fiends."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1712,26 +1527,13 @@ A paper from last year (Cohen et al., 2020a) pointed to the lack of consensus wi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to end stagnation?]]></title>
-        <id>https://rootsofprogress.org/how-to-end-stagnation</id>
-        <link href="https://rootsofprogress.org/how-to-end-stagnation"/>
-        <updated>2021-02-28T21:15:39.000Z</updated>
-        <summary type="html"><![CDATA[When I wrote my post on technological stagnation, the top question I got asked was: So, how do we fix it?
-I don’t have the definitive answer, but here’s a starting point. I generally think about the causes of progress on three levels:
-Funding. How do research, development, and distribution get funded? This encompasses both for-profit investing and non-profit funding of R&amp;D.
-Government. How does the law enable progress, or hamper it? Progress depends on good legal institutions; equally, it can be stifled…]]></summary>
-        <author>
-            <name>The Roots of Progress</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#6.4: the technology of world domination]]></title>
         <id>https://graymirror.substack.com/p/64-the-technology-of-world-domination</id>
         <link href="https://graymirror.substack.com/p/64-the-technology-of-world-domination"/>
         <updated>2021-02-28T08:25:16.000Z</updated>
         <summary type="html"><![CDATA["This monarch has no selfish aims, for he has nothing to desire."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1751,17 +1553,17 @@ Government. How does the law enable progress, or hamper it? Progress depends on 
         <updated>2021-02-27T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[[*Qualification: I don’t really hate Shakespeare. I merely fail to enjoy his work. But who wants to read a post called “Why I fail to enjoy Shakespeare’s work”?] For about as long as I can remember, I’ve been hearing about how amazingly awesome William Shakespeare is, the greatest writer ever to walk the Earth, etc., &#8230; Continue reading Why I Hate Shakespeare*]]></summary>
         <author>
-            <name>Fake Nous</name>
+            <name>Michael Huemer</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Podcasts and Hangouts]]></title>
-        <id>https://putanumonit.com/2021/02/26/podcasts-and-hangouts/</id>
+        <id>http://putanumonit.com/?p=31118</id>
         <link href="https://putanumonit.com/2021/02/26/podcasts-and-hangouts/"/>
         <updated>2021-02-26T20:32:17.000Z</updated>
         <summary type="html"><![CDATA[A roundup of podcasts and upcoming online chats.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -1771,7 +1573,7 @@ Government. How does the law enable progress, or hamper it? Progress depends on 
         <updated>2021-02-26T11:10:44.000Z</updated>
         <summary type="html"><![CDATA["Now he is safe from some disturbed intern whose clumsy advances he spurns."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
@@ -1807,17 +1609,17 @@ ROS and aging, a review. This…]]></summary>
         <updated>2021-02-25T00:13:08.000Z</updated>
         <summary type="html"><![CDATA["Fuck you, and fuck your blender."]]></summary>
         <author>
-            <name>Gray Mirror</name>
+            <name>Curtis Yarvin</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Above the Narrative]]></title>
-        <id>https://putanumonit.com/2021/02/22/above-the-narrative/</id>
+        <id>http://putanumonit.com/?p=31098</id>
         <link href="https://putanumonit.com/2021/02/22/above-the-narrative/"/>
         <updated>2021-02-22T21:04:47.000Z</updated>
         <summary type="html"><![CDATA[Follow ups on The Narrative and Its Discontents: journalists, nerds, politicians, and trolls.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -1835,22 +1637,12 @@ Or here's Gruber and Johnson,
     </entry>
     <entry>
         <title type="html"><![CDATA[Ideas Not Mattering Is A Psyop]]></title>
-        <id>https://www.forourposterity.com/ideas-not-mattering-is-a-psyop/</id>
+        <id>6032dc2fada7f2003971f96b</id>
         <link href="https://www.forourposterity.com/ideas-not-mattering-is-a-psyop/"/>
         <updated>2021-02-21T22:55:55.000Z</updated>
         <summary type="html"><![CDATA[Conventional startup and business wisdom has become “there are plenty of good ideas, all that matters is execution.” We don’t buy it.]]></summary>
         <author>
-            <name>For Our Posterity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Should Students Learn?, Part 3]]></title>
-        <id>https://fakenous.net/?p=2168</id>
-        <link href="https://fakenous.net/?p=2168"/>
-        <updated>2021-02-20T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Continuing my discussion of the contents of a general education: In the last two posts, I complained about gym, foreign language, history, math, science, and English education. This time, we turn to cultural diversity requirements, then the things that should be but aren’t included in general education, such as philosophy and economics. But first … &#8230; Continue reading What Should Students Learn?, Part 3]]></summary>
-        <author>
-            <name>Fake Nous</name>
+            <name>Stephen Malina</name>
         </author>
     </entry>
     <entry>
@@ -1895,7 +1687,7 @@ I favor the contrary hypothesis: nominative anti-determinism. Uber Express is th
         <updated>2021-02-15T21:10:57.000Z</updated>
         <summary type="html"><![CDATA[A cultural notebook]]></summary>
         <author>
-            <name>Reactions</name>
+            <name>Ross Douthat</name>
         </author>
     </entry>
     <entry>
@@ -2015,7 +1807,7 @@ Max Planck got his PhD around 1879, and it wouldn't be until ~1900 when he publi
         <updated>2021-02-04T20:23:01.000Z</updated>
         <summary type="html"><![CDATA[January 2021 gwern.net newsletter with links on AI scaling up and down.]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
@@ -2030,12 +1822,12 @@ Max Planck got his PhD around 1879, and it wouldn't be until ~1900 when he publi
     </entry>
     <entry>
         <title type="html"><![CDATA[A $57,600 Check for Every Newborn]]></title>
-        <id>https://www.forourposterity.com/a-check-for-every-newborn/</id>
+        <id>60196a418d93350039d1f4bb</id>
         <link href="https://www.forourposterity.com/a-check-for-every-newborn/"/>
         <updated>2021-02-02T15:10:04.000Z</updated>
         <summary type="html"><![CDATA[To boost birth rates, make child benefits more useful and more salient by paying them out up front.]]></summary>
         <author>
-            <name>For Our Posterity</name>
+            <name>Leopold Aschenbrenner</name>
         </author>
     </entry>
     <entry>
@@ -2086,12 +1878,12 @@ Excessive use of professional licensing make US healthcare mor…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wear a Weird-Looking Mask]]></title>
-        <id>https://www.forourposterity.com/wear-a-weird-looking-mask/</id>
+        <id>6012f923ecce520039b7a81f</id>
         <link href="https://www.forourposterity.com/wear-a-weird-looking-mask/"/>
         <updated>2021-01-28T18:16:48.000Z</updated>
         <summary type="html"><![CDATA[On mass delusion, sticking out, and cultivating the everyday habits of liberalism.]]></summary>
         <author>
-            <name>For Our Posterity</name>
+            <name>Leopold Aschenbrenner</name>
         </author>
     </entry>
     <entry>
@@ -2122,22 +1914,22 @@ Their sheer number makes it hard to even read them anym…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Confirmation Bias in Action]]></title>
-        <id>https://putanumonit.com/2021/01/23/confirmation-bias-in-action/</id>
+        <id>http://putanumonit.com/?p=30855</id>
         <link href="https://putanumonit.com/2021/01/23/confirmation-bias-in-action/"/>
         <updated>2021-01-24T00:46:57.000Z</updated>
         <summary type="html"><![CDATA[Confirmation bias is the biggest obstacle to Rationality, and often the least understood. We need to rethink it through the lens of brains evolved in bodies and made for action, not argument.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Astral Codex Ten]]></title>
-        <id>https://slatestarcodex.com/2021/01/21/introducing-astral-codex-ten/</id>
+        <id>https://slatestarcodex.com/?p=6043</id>
         <link href="https://slatestarcodex.com/2021/01/21/introducing-astral-codex-ten/"/>
         <updated>2021-01-21T23:55:03.000Z</updated>
         <summary type="html"><![CDATA[Thanks for bearing with me the past few months. My new blog is at https://astralcodexten.substack.com/. I&#8217;ll try to have a less unwieldy domain name working soon.]]></summary>
         <author>
-            <name>Slate Star Codex</name>
+            <name>Scott Alexander</name>
         </author>
     </entry>
     <entry>
@@ -2185,12 +1977,12 @@ Russo argues that Hellenistic science was significantly more developed than gene
     </entry>
     <entry>
         <title type="html"><![CDATA[The Economics of Decoupling]]></title>
-        <id>https://www.forourposterity.com/the-economics-of-decoupling/</id>
+        <id>600197fa7b7e9b0039c27b65</id>
         <link href="https://www.forourposterity.com/the-economics-of-decoupling/"/>
         <updated>2021-01-15T13:31:08.000Z</updated>
         <summary type="html"><![CDATA[America’s economic dependence on China creates a security vulnerability. But tariffs are royally ineffective at mitigating this vulnerability. I consider the underlying informational problem.]]></summary>
         <author>
-            <name>For Our Posterity</name>
+            <name>Leopold Aschenbrenner</name>
         </author>
     </entry>
     <entry>
@@ -2232,7 +2024,7 @@ But sometimes one of these masters at the top of the mountain will say s…]]></
         <updated>2021-01-10T17:31:06.000Z</updated>
         <summary type="html"><![CDATA[December 2020 gwern.net newsletter with links on AI and technology; major new site feature: fully-generalized recursive popups.]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
@@ -2303,12 +2095,12 @@ Arpit Gupta on prediction markets vs 538 in the 2020 election: &quot;Betting mar
     </entry>
     <entry>
         <title type="html"><![CDATA[Seeing The New COVID Variant Smoke]]></title>
-        <id>https://putanumonit.com/2020/12/26/seeing-the-new-covid-variant-smoke/</id>
+        <id>http://putanumonit.com/?p=30906</id>
         <link href="https://putanumonit.com/2020/12/26/seeing-the-new-covid-variant-smoke/"/>
         <updated>2020-12-27T04:22:34.000Z</updated>
         <summary type="html"><![CDATA[My current probability estimate with regards to the new COVID strain discovered in the UK and the US response. 1 in 3 says we're f***ed.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -2323,12 +2115,12 @@ Arpit Gupta on prediction markets vs 538 in the 2020 election: &quot;Betting mar
     </entry>
     <entry>
         <title type="html"><![CDATA[LessWrong Best of 2018 – Epistemology]]></title>
-        <id>https://putanumonit.com/2020/12/26/lesswrong-2018-epistemology/</id>
+        <id>http://putanumonit.com/?p=30861</id>
         <link href="https://putanumonit.com/2020/12/26/lesswrong-2018-epistemology/"/>
         <updated>2020-12-26T07:38:30.000Z</updated>
         <summary type="html"><![CDATA[Review of the LessWrong 2018 essay collection on epistemology, from how it smells to what it says about the state of the Rationality community in 2020.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -2418,22 +2210,22 @@ Similarly, advice and information are almost always seen as efforts to change a 
     </entry>
     <entry>
         <title type="html"><![CDATA[The Good Life Putanumed]]></title>
-        <id>https://putanumonit.com/2020/12/10/good-life-putanumed/</id>
+        <id>http://putanumonit.com/?p=30830</id>
         <link href="https://putanumonit.com/2020/12/10/good-life-putanumed/"/>
         <updated>2020-12-10T05:03:59.000Z</updated>
         <summary type="html"><![CDATA[What is a good life? What can mere numbers offer on this question? They offer freedom from other people's stories, and insight into yourself.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The 24 Hour “Do Nothing” Challenge]]></title>
-        <id>https://dormin.org/2020/12/08/the-24-hour-do-nothing-challenge/</id>
+        <id>http://dormin.org/?p=994</id>
         <link href="https://dormin.org/2020/12/08/the-24-hour-do-nothing-challenge/"/>
         <updated>2020-12-08T18:20:35.000Z</updated>
         <summary type="html"><![CDATA[There&#8217;s not too much to say on this one, so I&#8217;ll keep it short. My goal was to do nothing for 24 hours. Like everyone in the modern world, I’m hopelessly addicted to little dopamine&#8230; More]]></summary>
         <author>
-            <name>Dormin</name>
+            <name>Dormin111</name>
         </author>
     </entry>
     <entry>
@@ -2453,17 +2245,17 @@ Similarly, advice and information are almost always seen as efforts to change a 
         <updated>2020-12-04T00:40:13.000Z</updated>
         <summary type="html"><![CDATA[November 2020 gwern.net newsletter with links on DL and genomics scaling, dark mode rewrite, 1 essay, and 1 opera review ('The Ring' cycle).]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Against Netflix]]></title>
-        <id>https://www.forourposterity.com/against-netflix/</id>
+        <id>5fc7abd17da32000391a671a</id>
         <link href="https://www.forourposterity.com/against-netflix/"/>
         <updated>2020-12-02T15:11:16.000Z</updated>
         <summary type="html"><![CDATA[Too many great minds waste away their time watching Netflix. Worse, we have made that culturally acceptable. For a TV-temperance movement.]]></summary>
         <author>
-            <name>For Our Posterity</name>
+            <name>Leopold Aschenbrenner</name>
         </author>
     </entry>
     <entry>
@@ -2489,12 +2281,12 @@ The examples of this that probably come to mind are old: Galileo and heliocentri
     </entry>
     <entry>
         <title type="html"><![CDATA[Canada and Mexico Should Join the Union]]></title>
-        <id>https://www.forourposterity.com/canada-and-mexico-should-join-the-union/</id>
+        <id>5fc53d777da32000391a66a8</id>
         <link href="https://www.forourposterity.com/canada-and-mexico-should-join-the-union/"/>
         <updated>2020-11-30T19:13:47.000Z</updated>
         <summary type="html"><![CDATA[Expanding America would arrest our decadent decline and sustain American hegemony. An exploration of a crazy idea.]]></summary>
         <author>
-            <name>For Our Posterity</name>
+            <name>Leopold Aschenbrenner</name>
         </author>
     </entry>
     <entry>
@@ -2537,12 +2329,12 @@ In the 20th century, philosophy of science attracted first-rate minds: scientist
     </entry>
     <entry>
         <title type="html"><![CDATA[Europe’s Political Stupor]]></title>
-        <id>https://www.forourposterity.com/europes-political-stupor/</id>
+        <id>5fbbf2f1e0b2910039be56a0</id>
         <link href="https://www.forourposterity.com/europes-political-stupor/"/>
         <updated>2020-11-23T17:56:19.000Z</updated>
         <summary type="html"><![CDATA[On the European obsession with America, the dearth of the political on the Continent, and the downsides of homogeneity.]]></summary>
         <author>
-            <name>For Our Posterity</name>
+            <name>Leopold Aschenbrenner</name>
         </author>
     </entry>
     <entry>
@@ -2567,12 +2359,12 @@ In the 20th century, philosophy of science attracted first-rate minds: scientist
     </entry>
     <entry>
         <title type="html"><![CDATA[Reflections on Having a Bad Idea]]></title>
-        <id>https://dormin.org/2020/11/22/reflections-on-having-a-bad-idea/</id>
+        <id>http://dormin.org/?p=932</id>
         <link href="https://dormin.org/2020/11/22/reflections-on-having-a-bad-idea/"/>
         <updated>2020-11-22T16:08:10.000Z</updated>
         <summary type="html"><![CDATA[A few weeks ago, a friend came to me with a bad idea. He wanted us to start a dietary supplement and nootropics company together. We would use dropshipping to offload most inventory and management&#8230; More]]></summary>
         <author>
-            <name>Dormin</name>
+            <name>Dormin111</name>
         </author>
     </entry>
     <entry>
@@ -2597,22 +2389,22 @@ In the 20th century, philosophy of science attracted first-rate minds: scientist
     </entry>
     <entry>
         <title type="html"><![CDATA[How I Write]]></title>
-        <id>https://putanumonit.com/2020/11/15/how-i-write/</id>
+        <id>http://putanumonit.com/?p=30787</id>
         <link href="https://putanumonit.com/2020/11/15/how-i-write/"/>
         <updated>2020-11-15T05:07:08.000Z</updated>
         <summary type="html"><![CDATA[Celebrating Putanumonit's 5th birthday with some writing tips I picked up along the way.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Blind, Alone, and Confused for 24 Hours Challenge]]></title>
-        <id>https://dormin.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/</id>
+        <id>http://dormin.org/?p=896</id>
         <link href="https://dormin.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/"/>
         <updated>2020-11-08T15:15:30.000Z</updated>
         <summary type="html"><![CDATA[For 24 hours I will be blind and alone in my apartment. I eventually want to try being blind for a week, but I’ll need seven days with no other obligations, and I won’t have&#8230; More]]></summary>
         <author>
-            <name>Dormin</name>
+            <name>Dormin111</name>
         </author>
     </entry>
     <entry>
@@ -2641,7 +2433,7 @@ The government has partially closed schools and universities: lower secondary sc
         <updated>2020-11-01T21:42:39.000Z</updated>
         <summary type="html"><![CDATA[October 2020 gwern.net newsletter with links on AI scaling, Euclid; further site reorganization & improvement.]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
@@ -2673,17 +2465,17 @@ I jokingly described Prasad's take as &quot;cancer therapiesnihilism&quot; on Tw
         <updated>2020-10-26T13:40:32.000Z</updated>
         <summary type="html"><![CDATA[September 2020 gwern.net newsletter with links on DRL and AI scaling, psychiatric disorders; no reviews.]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[SubOnlyStackFans]]></title>
-        <id>https://putanumonit.com/2020/10/25/subonlystackfans/</id>
+        <id>http://putanumonit.com/?p=30770</id>
         <link href="https://putanumonit.com/2020/10/25/subonlystackfans/"/>
         <updated>2020-10-25T21:11:00.000Z</updated>
         <summary type="html"><![CDATA[The internet wants to put our self-expression in neat boxes, but there's no reason to play along.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -2701,12 +2493,12 @@ Selfish, servile and self-indulgent, laz…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stagnation is the Real Risk]]></title>
-        <id>https://www.forourposterity.com/securing-posterity/</id>
+        <id>6032ddcfada7f2003971f978</id>
         <link href="https://www.forourposterity.com/securing-posterity/"/>
         <updated>2020-10-19T21:25:00.000Z</updated>
         <summary type="html"><![CDATA[Human activity and new technologies can be dangerous, threatening the very survival of humanity. Does that mean economic growth is inherently risky?]]></summary>
         <author>
-            <name>For Our Posterity</name>
+            <name>Leopold Aschenbrenner</name>
         </author>
     </entry>
     <entry>
@@ -2735,22 +2527,22 @@ Looking at things I read in my RSS I notice first that indeed I look at my RSS r
     </entry>
     <entry>
         <title type="html"><![CDATA[The Path to Reason]]></title>
-        <id>https://putanumonit.com/2020/10/08/path-to-reason/</id>
+        <id>http://putanumonit.com/?p=30726</id>
         <link href="https://putanumonit.com/2020/10/08/path-to-reason/"/>
         <updated>2020-10-09T03:15:27.000Z</updated>
         <summary type="html"><![CDATA[Rationalists did amazingly well with COVID. Will this inspire everyone else to embrace rationality? I see a few obstacles on the way.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thoughts on Meaning and Writing]]></title>
-        <id>https://dormin.org/2020/10/06/thoughts-on-meaning-and-writing/</id>
+        <id>http://dormin.org/?p=870</id>
         <link href="https://dormin.org/2020/10/06/thoughts-on-meaning-and-writing/"/>
         <updated>2020-10-06T19:14:31.000Z</updated>
         <summary type="html"><![CDATA[I was once at a dinner party and someone was telling me about her recent trip to Arizona. One of the highlights was visiting a biodome project where scientists had attempted to achieve a totally&#8230; More]]></summary>
         <author>
-            <name>Dormin</name>
+            <name>Dormin111</name>
         </author>
     </entry>
     <entry>
@@ -2764,19 +2556,6 @@ How do you decide what to replicate? This paper attempts to build a model that c
 Guzey on that deworming study, tracks which variables are reported across 5 different drafts of the pape…]]></summary>
         <author>
             <name>Fantastic Anachronism</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links (40)]]></title>
-        <id>https://nintil.com/links-40/</id>
-        <link href="https://nintil.com/links-40/"/>
-        <updated>2020-09-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Ichor Therapeutics (a sort of meta-company that incubates biotech startups) is run, and how it was built from scratch (They don't use external labs)
-A brief history of the last 50 years of aging research; mostly focused on what one might call &quot;classic&quot; aging research (That is focused around IGF-1, rapamycin, caloric restriction etc)
-Speculation on how to increase antimatter production by a factor of 10 billion. Seems doable. This would be useful chiefly for spaceships I can imagine.
-It is rare…]]></summary>
-        <author>
-            <name>Nintil</name>
         </author>
     </entry>
     <entry>
@@ -2795,22 +2574,22 @@ Because of echo cancellation…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Everything You Need to Know About Chinese People (According to the US Government in 1943)]]></title>
-        <id>https://dormin.org/2020/09/21/everything-you-need-to-know-about-chinese-people-according-to-the-us-government-in-1943/</id>
+        <id>http://dormin.org/?p=838</id>
         <link href="https://dormin.org/2020/09/21/everything-you-need-to-know-about-chinese-people-according-to-the-us-government-in-1943/"/>
         <updated>2020-09-21T14:20:55.000Z</updated>
         <summary type="html"><![CDATA[Pocket Guide to China is a 64 page primer for American soldiers stationed in China during World War II written by unknown personnel of the Special Service Division of the Army Service Forces of the&#8230; More]]></summary>
         <author>
-            <name>Dormin</name>
+            <name>Dormin111</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Against Victimhood]]></title>
-        <id>https://putanumonit.com/2020/09/12/against-victimhood/</id>
+        <id>http://putanumonit.com/?p=30674</id>
         <link href="https://putanumonit.com/2020/09/12/against-victimhood/"/>
         <updated>2020-09-12T16:41:08.000Z</updated>
         <summary type="html"><![CDATA[Victimhood is a hot product, and many are selling it. But it's not worth the price.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -2827,12 +2606,12 @@ Over the past year, I have skimmed through 2578 social science papers, spending 
     </entry>
     <entry>
         <title type="html"><![CDATA[A Deep Dive into K-pop]]></title>
-        <id>https://dormin.org/2020/09/06/a-deep-dive-into-k-pop/</id>
+        <id>http://dormin.org/?p=719</id>
         <link href="https://dormin.org/2020/09/06/a-deep-dive-into-k-pop/"/>
         <updated>2020-09-06T13:58:20.000Z</updated>
         <summary type="html"><![CDATA[Prior to last month, I knew next to nothing about K-pop (Korean popular music) besides having heard a few songs in passing and the rumors of the industry’s infamous elements, most notably a string of&#8230; More]]></summary>
         <author>
-            <name>Dormin</name>
+            <name>Dormin111</name>
         </author>
     </entry>
     <entry>
@@ -2842,29 +2621,17 @@ Over the past year, I have skimmed through 2578 social science papers, spending 
         <updated>2020-09-01T23:18:28.000Z</updated>
         <summary type="html"><![CDATA[with an essay on sidenotes; links on human competence, efficient-computing/hardware-overhangs; no reviews.]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links (39)]]></title>
-        <id>https://nintil.com/links-39/</id>
-        <link href="https://nintil.com/links-39/"/>
-        <updated>2020-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gene editing powered by retrotransposons, coming soon to a chromosome near you at some point
-In my immunosenescence post I hinted at the possibility of the nervous system playing a role in the aging of hematopoietic stem cells. Well, shortly after a brief review about exactly that came out! And the same goes for the broader topic, neuronal regulation of immunity, and rejuvenation of neural stem cells.
-What happens if you give old animals young stem cells (in the form of bone marrow transplants)? Not much. N…]]></summary>
-        <author>
-            <name>Nintil</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Working Hardly]]></title>
-        <id>https://putanumonit.com/2020/08/20/working-hardly/</id>
+        <id>http://putanumonit.com/?p=30684</id>
         <link href="https://putanumonit.com/2020/08/20/working-hardly/"/>
         <updated>2020-08-21T03:03:23.000Z</updated>
         <summary type="html"><![CDATA[Choices, anxiety, and why I haven't written anything in a month.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -2874,7 +2641,7 @@ What happens if you give old animals young stem cells (in the form of bone marro
         <updated>2020-08-20T20:09:50.000Z</updated>
         <summary type="html"><![CDATA[Links on the Uighurs, authoritarianism, negative emissions, AI overhang; 1 movie & 2 anime reviews]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
@@ -2889,12 +2656,12 @@ What happens if you give old animals young stem cells (in the form of bone marro
     </entry>
     <entry>
         <title type="html"><![CDATA[Notes on Spain]]></title>
-        <id>https://dormin.org/2020/08/09/notes-on-spain/</id>
+        <id>http://dormin.org/?p=567</id>
         <link href="https://dormin.org/2020/08/09/notes-on-spain/"/>
         <updated>2020-08-09T15:38:29.000Z</updated>
         <summary type="html"><![CDATA[Bypassing numerous international restrictions, I traveled from America to Spain for a month-long trip in July.  Most of the month was spent in and around Madrid, but I took a brief trip north to Galicia,&#8230; More]]></summary>
         <author>
-            <name>Dormin</name>
+            <name>Dormin111</name>
         </author>
     </entry>
     <entry>
@@ -2955,22 +2722,22 @@ Ten minutes later, Eve finds me, groggy from our redeye and nonplussed about nav
     </entry>
     <entry>
         <title type="html"><![CDATA[GPuTanumonit-3]]></title>
-        <id>https://putanumonit.com/2020/07/22/gputanumonit-3/</id>
+        <id>http://putanumonit.com/?p=30633</id>
         <link href="https://putanumonit.com/2020/07/22/gputanumonit-3/"/>
         <updated>2020-07-22T22:12:10.000Z</updated>
         <summary type="html"><![CDATA[A blogging collaboration with the machine that will replace me.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why I Write Under My Real Name]]></title>
-        <id>https://putanumonit.com/2020/07/20/real-name/</id>
+        <id>http://putanumonit.com/?p=30612</id>
         <link href="https://putanumonit.com/2020/07/20/real-name/"/>
         <updated>2020-07-21T03:17:48.000Z</updated>
         <summary type="html"><![CDATA[Some reasons why I use my real name online, both personal and with regard to the truth.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -2989,22 +2756,22 @@ I approach software with a deep-seated belief that computers and software system
     </entry>
     <entry>
         <title type="html"><![CDATA[How Much Would You Need to be Paid to Live on a Deserted Island for 1.5 Years and Do Nothing but Kill Seals?]]></title>
-        <id>https://dormin.org/2020/07/10/how-much-would-you-need-to-be-paid-to-live-on-a-deserted-island-for-1-5-years-and-do-nothing-but-kill-seals/</id>
+        <id>http://dormin.org/?p=545</id>
         <link href="https://dormin.org/2020/07/10/how-much-would-you-need-to-be-paid-to-live-on-a-deserted-island-for-1-5-years-and-do-nothing-but-kill-seals/"/>
         <updated>2020-07-10T14:15:24.000Z</updated>
         <summary type="html"><![CDATA[I read and reviewed Oliver Platt’s Imperial Twilight: The Opium War and the End of China’s Last Golden Age over a year ago, and I haven’t been able to get one small story from the&#8230; More]]></summary>
         <author>
-            <name>Dormin</name>
+            <name>Dormin111</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kelly Bet on Everything]]></title>
-        <id>https://putanumonit.com/2020/07/04/kelly-bet-on-everything/</id>
+        <id>http://putanumonit.com/?p=30557</id>
         <link href="https://putanumonit.com/2020/07/04/kelly-bet-on-everything/"/>
         <updated>2020-07-05T01:56:43.000Z</updated>
         <summary type="html"><![CDATA["The better you do the more you should bet on yourself" is a lesson from finance you can apply everywhere.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -3026,7 +2793,7 @@ Facebook would be suicidal to charge its users money, because its entire selling
         <updated>2020-07-02T14:34:53.000Z</updated>
         <summary type="html"><![CDATA[June 2020 gwern.net newsletter with 3 new pages/essays, and links on CRISPR, population screening, AI scaling, politics, and technological unemployment.]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
@@ -3046,12 +2813,12 @@ Measured by deviations in a benchmark economic statistic, the real natural rate 
     </entry>
     <entry>
         <title type="html"><![CDATA[Polygamy, Human Sacrifices, and Steel – Why the Aztecs Were Awesome]]></title>
-        <id>https://dormin.org/2020/06/25/polygamy-human-sacrifices-and-steel-why-the-aztecs-were-awesome/</id>
+        <id>http://dormin.org/?p=534</id>
         <link href="https://dormin.org/2020/06/25/polygamy-human-sacrifices-and-steel-why-the-aztecs-were-awesome/"/>
         <updated>2020-06-25T14:42:38.000Z</updated>
         <summary type="html"><![CDATA[The Spanish conquest of the Aztecs was terrible. It was a prolonged period of pestilence, famine, torture, rape, plunder, destruction, conquest, cultural eradication, and general misery, with a short term death toll of something like&#8230; More]]></summary>
         <author>
-            <name>Dormin</name>
+            <name>Dormin111</name>
         </author>
     </entry>
     <entry>
@@ -3069,32 +2836,32 @@ I looked at some stats from RescueTime …]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fight the Power]]></title>
-        <id>https://putanumonit.com/2020/06/18/fight-the-power/</id>
+        <id>http://putanumonit.com/?p=30514</id>
         <link href="https://putanumonit.com/2020/06/18/fight-the-power/"/>
         <updated>2020-06-18T18:10:57.000Z</updated>
         <summary type="html"><![CDATA[The collapse of authority leads to anxiety. Anxiety leads to outrage. Outrage leads to fear. Fear leads to submission. Don't submit.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[30 Day Vegan Challenge]]></title>
-        <id>https://dormin.org/2020/06/15/30-day-vegan-challenge/</id>
+        <id>http://dormin.org/?p=499</id>
         <link href="https://dormin.org/2020/06/15/30-day-vegan-challenge/"/>
         <updated>2020-06-15T17:00:05.000Z</updated>
         <summary type="html"><![CDATA[From May 15 to June 13, I was on the vegan diet. This experiment turned out to be far less interesting than expected, so I’m going to keep this short. &#160; Rules I can eat&#8230; More]]></summary>
         <author>
-            <name>Dormin</name>
+            <name>Dormin111</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Do Women Like Assholes?]]></title>
-        <id>https://putanumonit.com/2020/06/11/dating-assholes/</id>
+        <id>http://putanumonit.com/?p=30402</id>
         <link href="https://putanumonit.com/2020/06/11/dating-assholes/"/>
         <updated>2020-06-11T17:42:10.000Z</updated>
         <summary type="html"><![CDATA[Results from my research project on personality traits and mating success.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
@@ -3104,29 +2871,29 @@ I looked at some stats from RescueTime …]]></summary>
         <updated>2020-06-06T18:44:15.000Z</updated>
         <summary type="html"><![CDATA[Link compilation newsletter with anime GAN updates, links on AI scaling, discussion of GPT-3, and 1 book review.]]></summary>
         <author>
-            <name>Gwern.net Newsletter</name>
+            <name>Gwern Branwen</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fnords of the Times]]></title>
-        <id>https://putanumonit.com/2020/05/20/fnords-of-the-times/</id>
+        <id>http://putanumonit.com/?p=30415</id>
         <link href="https://putanumonit.com/2020/05/20/fnords-of-the-times/"/>
         <updated>2020-05-20T18:13:45.000Z</updated>
         <summary type="html"><![CDATA[Tesla wealth hypocrisy billionaire.
 Trump Musk Trump Musk COVID.
 Misogynist racist Silicon Valley.]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Please fill out my survey on personality and relationships]]></title>
-        <id>https://putanumonit.com/2020/05/10/please-fill-out-my-survey-on-personality-and-relationships/</id>
+        <id>http://putanumonit.com/?p=30392</id>
         <link href="https://putanumonit.com/2020/05/10/please-fill-out-my-survey-on-personality-and-relationships/"/>
         <updated>2020-05-10T18:30:49.000Z</updated>
         <summary type="html"><![CDATA[Please fill out my research survey by 5/18. The results will be published on Putanumonit soon!]]></summary>
         <author>
-            <name>Put A Number On It!</name>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
