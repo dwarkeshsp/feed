@@ -380,6 +380,15 @@
       "siteUrl": "https://scholars-stage.blogspot.com/",
       "articles": [
         {
+          "id": "https://scholars-stage.blogspot.com/2021/05/notes-from-all-over-aprilmay-2021.html",
+          "author": null,
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/05/notes-from-all-over-aprilmay-2021.html",
+          "publishedOn": "2021-05-11T23:18:00.002Z",
+          "wordCount": 881,
+          "title": "Notes From All Over - April/May 2021"
+        },
+        {
           "id": "https://scholars-stage.blogspot.com/2021/04/the-problem-of-new-right.html",
           "author": null,
           "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
@@ -2076,6 +2085,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=54969",
+          "author": "Bryan Caplan",
+          "description": "Relative to your expectations, how well did government respond to COVID?  How about regular people?  How about business? Before you answer you have to ponder your general expectations for government, regular people, and business.   In my case, I expect absolute performance to be awful for government, mediocre for regular people, and excellent for business.  Since [&#8230;]\nThe post Assessing My COVID Expectations appeared first on Econlib.",
+          "link": "https://www.econlib.org/assessing-your-covid-expectations/",
+          "publishedOn": "2021-05-11T13:27:57.000Z",
+          "wordCount": 1521,
+          "title": "Assessing My COVID Expectations"
+        },
         {
           "id": "https://www.econlib.org/?p=54957",
           "author": "Bryan Caplan",
