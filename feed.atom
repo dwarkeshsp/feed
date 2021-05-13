@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T01:07:11.583Z</updated>
+    <updated>2021-05-13T01:12:05.898Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Welcome To The Terrible World Of Prescription-Only Apps]]></title>
+        <id>https://astralcodexten.substack.com/p/welcome-to-the-terrible-world-of</id>
+        <link href="https://astralcodexten.substack.com/p/welcome-to-the-terrible-world-of"/>
+        <updated>2021-05-12T23:23:36.000Z</updated>
+        <summary type="html"><![CDATA[You can get GHB on the darknet for $20, but learning healthy sleep habits is $899 and by prescription only]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Navy's Knives Must Come Out]]></title>
+        <id>https://scholars-stage.blogspot.com/2021/05/the-navys-knives-must-come-out.html</id>
+        <link href="https://scholars-stage.blogspot.com/2021/05/the-navys-knives-must-come-out.html"/>
+        <updated>2021-05-12T18:47:00.011Z</updated>
+        <summary type="html"><![CDATA[A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.]]></summary>
+        <author>
+            <name>The Scholar's Stage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anti-Communism and Anti-Racism: A Final Word]]></title>
+        <id>https://www.econlib.org/?p=55029</id>
+        <link href="https://www.econlib.org/anti-communism-and-anti-racism-a-final-word/"/>
+        <updated>2021-05-12T13:59:12.000Z</updated>
+        <summary type="html"><![CDATA[My anonymous UT friend offers this reply to my reply to his reply to my Anti-Communism and Anti-Racism piece.  I&#8217;ll give him the last word.  This time, I&#8217;m in blockquotes, and he&#8217;s not. There are two plausible positions here. (1) The historic loyalty oaths were strict and would have greatly improved the free exchange of [&#8230;]
+The post Anti-Communism and Anti-Racism: A Final Word appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theses On The Current Moment]]></title>
+        <id>https://astralcodexten.substack.com/p/theses-on-the-current-moment</id>
+        <link href="https://astralcodexten.substack.com/p/theses-on-the-current-moment"/>
+        <updated>2021-05-12T05:43:59.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notes From All Over - April/May 2021]]></title>
         <id>https://scholars-stage.blogspot.com/2021/05/notes-from-all-over-aprilmay-2021.html</id>

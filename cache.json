@@ -193,6 +193,24 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/welcome-to-the-terrible-world-of",
+          "author": "Scott Alexander",
+          "description": "You can get GHB on the darknet for $20, but learning healthy sleep habits is $899 and by prescription only",
+          "link": "https://astralcodexten.substack.com/p/welcome-to-the-terrible-world-of",
+          "publishedOn": "2021-05-12T23:23:36.000Z",
+          "wordCount": 2634,
+          "title": "Welcome To The Terrible World Of Prescription-Only Apps"
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/theses-on-the-current-moment",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/theses-on-the-current-moment",
+          "publishedOn": "2021-05-12T05:43:59.000Z",
+          "wordCount": 2494,
+          "title": "Theses On The Current Moment"
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/the-rise-and-fall-of-online-culture",
           "author": "Scott Alexander",
           "description": "How do Internet atheism and Internet feminism help us understand the current cultural moment?",
@@ -379,6 +397,15 @@
       "feedUrl": "http://scholars-stage.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scholars-stage.blogspot.com/",
       "articles": [
+        {
+          "id": "https://scholars-stage.blogspot.com/2021/05/the-navys-knives-must-come-out.html",
+          "author": null,
+          "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
+          "link": "https://scholars-stage.blogspot.com/2021/05/the-navys-knives-must-come-out.html",
+          "publishedOn": "2021-05-12T18:47:00.011Z",
+          "wordCount": 2880,
+          "title": "The Navy's Knives Must Come Out"
+        },
         {
           "id": "https://scholars-stage.blogspot.com/2021/05/notes-from-all-over-aprilmay-2021.html",
           "author": null,
@@ -2085,6 +2112,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55029",
+          "author": "Bryan Caplan",
+          "description": "My anonymous UT friend offers this reply to my reply to his reply to my Anti-Communism and Anti-Racism piece.  I&#8217;ll give him the last word.  This time, I&#8217;m in blockquotes, and he&#8217;s not. There are two plausible positions here. (1) The historic loyalty oaths were strict and would have greatly improved the free exchange of [&#8230;]\nThe post Anti-Communism and Anti-Racism: A Final Word appeared first on Econlib.",
+          "link": "https://www.econlib.org/anti-communism-and-anti-racism-a-final-word/",
+          "publishedOn": "2021-05-12T13:59:12.000Z",
+          "wordCount": 2143,
+          "title": "Anti-Communism and Anti-Racism: A Final Word"
+        },
         {
           "id": "https://www.econlib.org/?p=54969",
           "author": "Bryan Caplan",
