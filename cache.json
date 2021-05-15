@@ -6,6 +6,15 @@
       "siteUrl": "https://applieddivinitystudies.com/atom.xml",
       "articles": [
         {
+          "id": "https://applieddivinitystudies.com/moral-progress/",
+          "author": null,
+          "description": "Since I first read Stubborn Attachments in 2018, I’ve struggled with its foundational provocations. Has growth been good? Will it continue to be in the future? What if it kills us all first? Today, I’m finally prepared to share an article aimed at answering these questions.\nThe Moral Foundations of Progress is available here as a pdf.\nThis is the culmination of my thoughts on Progress Studies as an intellectual movement, and also on the budding institutions that surrounds it. Though I’ve previously written …",
+          "link": "https://applieddivinitystudies.com/moral-progress/",
+          "publishedOn": "2021-05-14T08:00:00.000Z",
+          "wordCount": 242,
+          "title": "The Moral Foundations of Progress"
+        },
+        {
           "id": "https://applieddivinitystudies.com/prince-of-persia/",
           "author": null,
           "description": "As a rule, autobiographies are horrid.\nPeople should not be trusted with writing their own legacy. Certainly, not after they’ve aged into has-beens reminiscing on the glories of their youth. [1]\nJordan Mechner’s The Making of Prince of Persia avoids this trap by being written in real time. It is not a polished accounting, but merely his diary from the time he spent working on Prince of Persia, starting with his college graduation, and concluding 4 years later.\nIt’s also flat out the best biography I’ve ever…",
@@ -192,6 +201,33 @@
       "feedUrl": "https://astralcodexten.substack.com/feed/",
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
+        {
+          "id": "https://astralcodexten.substack.com/p/your-book-review-addiction-by-design",
+          "author": "Scott Alexander",
+          "description": "Finalist #10 of the Book Review Contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-addiction-by-design",
+          "publishedOn": "2021-05-14T21:25:15.000Z",
+          "wordCount": 5270,
+          "title": "Your Book Review: Addiction By Design"
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/hidden-open-thread-1715",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/hidden-open-thread-1715",
+          "publishedOn": "2021-05-14T21:10:28.000Z",
+          "wordCount": 117,
+          "title": "Hidden Open Thread 171.5"
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-cbt",
+          "author": "Scott Alexander",
+          "description": "Including some CBT-i apps that cost less than $899",
+          "link": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-cbt",
+          "publishedOn": "2021-05-14T03:36:17.000Z",
+          "wordCount": 1035,
+          "title": "Highlights From The Comments On CBT-i Apps"
+        },
         {
           "id": "https://astralcodexten.substack.com/p/welcome-to-the-terrible-world-of",
           "author": "Scott Alexander",
@@ -1590,6 +1626,15 @@
       "siteUrl": "https://douthat.substack.com",
       "articles": [
         {
+          "id": "https://douthat.substack.com/p/the-intelligentsia-against-religion",
+          "author": null,
+          "description": "Imagining a more anti-Christian elite culture (via Elizabeth Bruenig's mentions).",
+          "link": "https://douthat.substack.com/p/the-intelligentsia-against-religion",
+          "publishedOn": "2021-05-14T14:46:12.000Z",
+          "wordCount": 1342,
+          "title": "The Intelligentsia Against Religion"
+        },
+        {
           "id": "https://douthat.substack.com/p/the-rome-ing-of-the-right",
           "author": null,
           "description": "Do American conservative problems have Catholic solutions?",
@@ -1925,6 +1970,15 @@
       "feedUrl": "http://putanumonit.com/feed/",
       "siteUrl": "https://putanumonit.com",
       "articles": [
+        {
+          "id": "http://putanumonit.com/?p=31217",
+          "author": "Jacob Falkovich",
+          "description": "My Quillette article on sex negativity and follow-up thoughts on fuckability, why sex is bad so often, the preservation of ambiguity, and the value of blogs.",
+          "link": "https://putanumonit.com/2021/05/14/sex-positivity/",
+          "publishedOn": "2021-05-14T18:04:21.000Z",
+          "wordCount": 1804,
+          "title": "Sex Positivity Is Counter-Cultural"
+        },
         {
           "id": "http://putanumonit.com/?p=31177",
           "author": "Jacob Falkovich",

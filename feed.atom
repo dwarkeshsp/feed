@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T01:13:30.968Z</updated>
+    <updated>2021-05-15T01:10:55.222Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your Book Review: Addiction By Design]]></title>
+        <id>https://astralcodexten.substack.com/p/your-book-review-addiction-by-design</id>
+        <link href="https://astralcodexten.substack.com/p/your-book-review-addiction-by-design"/>
+        <updated>2021-05-14T21:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Finalist #10 of the Book Review Contest]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hidden Open Thread 171.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-1715</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-1715"/>
+        <updated>2021-05-14T21:10:28.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sex Positivity Is Counter-Cultural]]></title>
+        <id>http://putanumonit.com/?p=31217</id>
+        <link href="https://putanumonit.com/2021/05/14/sex-positivity/"/>
+        <updated>2021-05-14T18:04:21.000Z</updated>
+        <summary type="html"><![CDATA[My Quillette article on sex negativity and follow-up thoughts on fuckability, why sex is bad so often, the preservation of ambiguity, and the value of blogs.]]></summary>
+        <author>
+            <name>Jacob Falkovich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Intelligentsia Against Religion]]></title>
+        <id>https://douthat.substack.com/p/the-intelligentsia-against-religion</id>
+        <link href="https://douthat.substack.com/p/the-intelligentsia-against-religion"/>
+        <updated>2021-05-14T14:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Imagining a more anti-Christian elite culture (via Elizabeth Bruenig's mentions).]]></summary>
+        <author>
+            <name>Reactions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Moral Foundations of Progress]]></title>
+        <id>https://applieddivinitystudies.com/moral-progress/</id>
+        <link href="https://applieddivinitystudies.com/moral-progress/"/>
+        <updated>2021-05-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since I first read Stubborn Attachments in 2018, I’ve struggled with its foundational provocations. Has growth been good? Will it continue to be in the future? What if it kills us all first? Today, I’m finally prepared to share an article aimed at answering these questions.
+The Moral Foundations of Progress is available here as a pdf.
+This is the culmination of my thoughts on Progress Studies as an intellectual movement, and also on the budding institutions that surrounds it. Though I’ve previously written …]]></summary>
+        <author>
+            <name>Applied Divinity Studies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highlights From The Comments On CBT-i Apps]]></title>
+        <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-cbt</id>
+        <link href="https://astralcodexten.substack.com/p/highlights-from-the-comments-on-cbt"/>
+        <updated>2021-05-14T03:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Including some CBT-i apps that cost less than $899]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome To The Terrible World Of Prescription-Only Apps]]></title>
         <id>https://astralcodexten.substack.com/p/welcome-to-the-terrible-world-of</id>
