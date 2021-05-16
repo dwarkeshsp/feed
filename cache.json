@@ -6,6 +6,15 @@
       "siteUrl": "https://applieddivinitystudies.com/atom.xml",
       "articles": [
         {
+          "id": "https://applieddivinitystudies.com/longtermism-irony/",
+          "author": null,
+          "description": "See also: The Irony of “Progress Studies”\nDefined by Will MacAskill for EA Forum, Longtermist is “the view that the most important determinant of the value of our actions today is how those actions affect the very long-run future.”\nThe irony is that this only holds true in the abstract. According to an Open Philanthropy estimate and AI Expert Surveys, there’s a 50% chance of transformative Artificial Intelligence emerging by around 2050. If that happens, basically nothing we do in the meantime will matter, …",
+          "link": "https://applieddivinitystudies.com/longtermism-irony/",
+          "publishedOn": "2021-05-15T13:00:00.000Z",
+          "wordCount": 451,
+          "title": "The Irony of “Longtermism”"
+        },
+        {
           "id": "https://applieddivinitystudies.com/moral-progress/",
           "author": null,
           "description": "Since I first read Stubborn Attachments in 2018, I’ve struggled with its foundational provocations. Has growth been good? Will it continue to be in the future? What if it kills us all first? Today, I’m finally prepared to share an article aimed at answering these questions.\nThe Moral Foundations of Progress is available here as a pdf.\nThis is the culmination of my thoughts on Progress Studies as an intellectual movement, and also on the budding institutions that surrounds it. Though I’ve previously written …",
@@ -683,6 +692,15 @@
       "feedUrl": "https://fakenous.net/?feed=rss2",
       "siteUrl": "https://fakenous.net",
       "articles": [
+        {
+          "id": "https://fakenous.net/?p=2294",
+          "author": "Michael Huemer",
+          "description": "“It’s not the things we don’t know that get us into trouble. It’s all the things we know that just ain’t so.” –Unknown (often attributed to Mark Twain) File this under “Political disagreement due to objective mistakes of empirical fact.” I think most political partisans have no idea how much this happens. As a case … Continue reading The Gender Pay Gap & Empirical Facts",
+          "link": "https://fakenous.net/?p=2294",
+          "publishedOn": "2021-05-15T15:00:00.000Z",
+          "wordCount": 2314,
+          "title": "The Gender Pay Gap & Empirical Facts"
+        },
         {
           "id": "https://fakenous.net/?p=2283",
           "author": "Michael Huemer",
@@ -1439,6 +1457,15 @@
       "siteUrl": "https://graymirror.substack.com",
       "articles": [
         {
+          "id": "https://graymirror.substack.com/p/there-is-no-ai-risk",
+          "author": "Curtis Yarvin",
+          "description": "\"Intelligence does not trivially equal power.\"",
+          "link": "https://graymirror.substack.com/p/there-is-no-ai-risk",
+          "publishedOn": "2021-05-15T05:33:14.000Z",
+          "wordCount": 6449,
+          "title": "There is no AI risk"
+        },
+        {
           "id": "https://graymirror.substack.com/p/the-frivolity-of-the-pundit-right",
           "author": "Curtis Yarvin",
           "description": "\"One must ruthlessly write what one knows to be the truth, or else shut up.\"",
@@ -1794,6 +1821,15 @@
       "feedUrl": "http://www.overcomingbias.com/feed",
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
+        {
+          "id": "https://www.overcomingbias.com/?p=32835",
+          "author": "Robin Hanson",
+          "description": "For Leslie Kean’s book “UFOs: Generals, Pilots, and Government Officials Go on the Record”, the only social scientists I know who have written on UFOs, Alexaner Wendt and Raymond Duvall, wrote “a new essay … incorporating their ideas … into … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/05/when-the-tabooed-taboo.html",
+          "publishedOn": "2021-05-15T16:45:50.000Z",
+          "wordCount": 1840,
+          "title": "When The Tabooed Taboo"
+        },
         {
           "id": "https://www.overcomingbias.com/?p=32826",
           "author": "Robin Hanson",
@@ -2602,5 +2638,5 @@
       ]
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }

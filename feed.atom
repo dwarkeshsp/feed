@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T01:10:55.222Z</updated>
-    <generator>osmosfeed 1.6.0</generator>
+    <updated>2021-05-16T01:17:57.864Z</updated>
+    <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When The Tabooed Taboo]]></title>
+        <id>https://www.overcomingbias.com/?p=32835</id>
+        <link href="http://www.overcomingbias.com/2021/05/when-the-tabooed-taboo.html"/>
+        <updated>2021-05-15T16:45:50.000Z</updated>
+        <summary type="html"><![CDATA[For Leslie Kean’s book “UFOs: Generals, Pilots, and Government Officials Go on the Record”, the only social scientists I know who have written on UFOs, Alexaner Wendt and Raymond Duvall, wrote “a new essay … incorporating their ideas … into … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gender Pay Gap & Empirical Facts]]></title>
+        <id>https://fakenous.net/?p=2294</id>
+        <link href="https://fakenous.net/?p=2294"/>
+        <updated>2021-05-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“It’s not the things we don’t know that get us into trouble. It’s all the things we know that just ain’t so.” –Unknown (often attributed to Mark Twain) File this under “Political disagreement due to objective mistakes of empirical fact.” I think most political partisans have no idea how much this happens. As a case … Continue reading The Gender Pay Gap & Empirical Facts]]></summary>
+        <author>
+            <name>Michael Huemer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Irony of “Longtermism”]]></title>
+        <id>https://applieddivinitystudies.com/longtermism-irony/</id>
+        <link href="https://applieddivinitystudies.com/longtermism-irony/"/>
+        <updated>2021-05-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See also: The Irony of “Progress Studies”
+Defined by Will MacAskill for EA Forum, Longtermist is “the view that the most important determinant of the value of our actions today is how those actions affect the very long-run future.”
+The irony is that this only holds true in the abstract. According to an Open Philanthropy estimate and AI Expert Surveys, there’s a 50% chance of transformative Artificial Intelligence emerging by around 2050. If that happens, basically nothing we do in the meantime will matter, …]]></summary>
+        <author>
+            <name>Applied Divinity Studies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There is no AI risk]]></title>
+        <id>https://graymirror.substack.com/p/there-is-no-ai-risk</id>
+        <link href="https://graymirror.substack.com/p/there-is-no-ai-risk"/>
+        <updated>2021-05-15T05:33:14.000Z</updated>
+        <summary type="html"><![CDATA["Intelligence does not trivially equal power."]]></summary>
+        <author>
+            <name>Curtis Yarvin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your Book Review: Addiction By Design]]></title>
         <id>https://astralcodexten.substack.com/p/your-book-review-addiction-by-design</id>
