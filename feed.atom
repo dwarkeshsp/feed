@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T01:17:57.864Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-17T01:10:58.650Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 172]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-172</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-172"/>
+        <updated>2021-05-16T21:40:58.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Watches Discrimination Watchers?]]></title>
+        <id>https://www.overcomingbias.com/?p=32837</id>
+        <link href="http://www.overcomingbias.com/2021/05/who-watches-discrimination-watchers.html"/>
+        <updated>2021-05-16T17:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Two LA area colleges, UCLA and USC, have a famous rivalry. Imagine that local law firms took sides, preferring to hire graduates from one or the other law school. Imagine further that some USC lawyers at a UCLA-favoring firm complained … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I told my kids]]></title>
+        <id>https://www.scottaaronson.com/blog/?p=5490</id>
+        <link href="https://www.scottaaronson.com/blog/?p=5490"/>
+        <updated>2021-05-16T02:26:59.000Z</updated>
+        <summary type="html"><![CDATA[You’ll hear that it’s not as simple as the Israelis are good guys and Palestinians are bad guys, or vice versa. And that’s true. But it’s also not so complicated that there are no clearly identifiable good guys or bad guys. It’s just that they cut across the sides. The good guys are anyone, on […]]]></summary>
+        <author>
+            <name>Scott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When The Tabooed Taboo]]></title>
         <id>https://www.overcomingbias.com/?p=32835</id>

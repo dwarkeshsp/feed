@@ -211,6 +211,15 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/open-thread-172",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-172",
+          "publishedOn": "2021-05-16T21:40:58.000Z",
+          "wordCount": 190,
+          "title": "Open Thread 172"
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/your-book-review-addiction-by-design",
           "author": "Scott Alexander",
           "description": "Finalist #10 of the Book Review Contest",
@@ -1822,6 +1831,15 @@
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32837",
+          "author": "Robin Hanson",
+          "description": "Two LA area colleges, UCLA and USC, have a famous rivalry. Imagine that local law firms took sides, preferring to hire graduates from one or the other law school. Imagine further that some USC lawyers at a UCLA-favoring firm complained … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/05/who-watches-discrimination-watchers.html",
+          "publishedOn": "2021-05-16T17:30:28.000Z",
+          "wordCount": 1375,
+          "title": "Who Watches Discrimination Watchers?"
+        },
+        {
           "id": "https://www.overcomingbias.com/?p=32835",
           "author": "Robin Hanson",
           "description": "For Leslie Kean’s book “UFOs: Generals, Pilots, and Government Officials Go on the Record”, the only social scientists I know who have written on UFOs, Alexaner Wendt and Raymond Duvall, wrote “a new essay … incorporating their ideas … into … Continue reading →",
@@ -2433,6 +2451,15 @@
       "siteUrl": "https://www.scottaaronson.com/blog",
       "articles": [
         {
+          "id": "https://www.scottaaronson.com/blog/?p=5490",
+          "author": "Scott",
+          "description": "You’ll hear that it’s not as simple as the Israelis are good guys and Palestinians are bad guys, or vice versa. And that’s true. But it’s also not so complicated that there are no clearly identifiable good guys or bad guys. It’s just that they cut across the sides. The good guys are anyone, on […]",
+          "link": "https://www.scottaaronson.com/blog/?p=5490",
+          "publishedOn": "2021-05-16T02:26:59.000Z",
+          "wordCount": 13281,
+          "title": "What I told my kids"
+        },
+        {
           "id": "https://www.scottaaronson.com/blog/?p=5486",
           "author": "Scott",
           "description": "For those who read my reply to Richard Borcherds on &#8220;teapot supremacy&#8221;: seeking better data, I ordered a dozen terra cotta flowerpots, and smashed eight of them on my driveway with my 4-year-old son, dropping each one from approximately 2 meters. For each flowerpot, we counted how many pieces it broke into, seeking insight about [&#8230;]",
@@ -2638,5 +2665,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.0"
+  "cliVersion": "1.7.1"
 }
