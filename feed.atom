@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T01:10:58.650Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-18T01:14:10.175Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Knowledge, Reality, and Value Book Club]]></title>
+        <id>https://www.econlib.org/?p=55176</id>
+        <link href="https://www.econlib.org/knowledge-reality-and-value-book-club/"/>
+        <updated>2021-05-17T05:29:37.000Z</updated>
+        <summary type="html"><![CDATA[I’m launching a book club on Michael Huemer’s new introductory philosophy textbook, entitled Knowledge, Reality, and Value: A Mostly Common Sense Guide to Philosophy. I’ve already blogged a few highlights, but now that I’m done, I’m ready to declare this yet another fantastic work by my favorite philosopher. To keep the club interesting, I’ll focus almost […]
+The post <i>Knowledge, Reality, and Value</i> Book Club appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Thread 172]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-172</id>

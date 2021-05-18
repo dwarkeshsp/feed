@@ -2221,6 +2221,15 @@
       "siteUrl": "https://www.econlib.org",
       "articles": [
         {
+          "id": "https://www.econlib.org/?p=55176",
+          "author": "Bryan Caplan",
+          "description": "I’m launching a book club on Michael Huemer’s new introductory philosophy textbook, entitled Knowledge, Reality, and Value: A Mostly Common Sense Guide to Philosophy. I’ve already blogged a few highlights, but now that I’m done, I’m ready to declare this yet another fantastic work by my favorite philosopher. To keep the club interesting, I’ll focus almost […]\nThe post <i>Knowledge, Reality, and Value</i> Book Club appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-book-club/",
+          "publishedOn": "2021-05-17T05:29:37.000Z",
+          "wordCount": 477,
+          "title": "Knowledge, Reality, and Value Book Club"
+        },
+        {
           "id": "https://www.econlib.org/?p=55029",
           "author": "Bryan Caplan",
           "description": "My anonymous UT friend offers this reply to my reply to his reply to my Anti-Communism and Anti-Racism piece.  I&#8217;ll give him the last word.  This time, I&#8217;m in blockquotes, and he&#8217;s not. There are two plausible positions here. (1) The historic loyalty oaths were strict and would have greatly improved the free exchange of [&#8230;]\nThe post Anti-Communism and Anti-Racism: A Final Word appeared first on Econlib.",
@@ -2665,5 +2674,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.1"
+  "cliVersion": "1.7.2"
 }
