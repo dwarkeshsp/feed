@@ -211,6 +211,15 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-culture",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-culture",
+          "publishedOn": "2021-05-18T22:25:16.000Z",
+          "wordCount": 5267,
+          "title": "Highlights From The Comments On Culture Wars"
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/open-thread-172",
           "author": "Scott Alexander",
           "description": "...",
