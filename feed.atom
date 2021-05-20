@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T01:09:57.734Z</updated>
+    <updated>2021-05-20T01:08:11.249Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Coldness Of Karen]]></title>
+        <id>https://astralcodexten.substack.com/p/the-coldness-of-karen</id>
+        <link href="https://astralcodexten.substack.com/p/the-coldness-of-karen"/>
+        <updated>2021-05-19T19:51:37.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crusades and You]]></title>
+        <id>https://www.econlib.org/?p=55125</id>
+        <link href="https://www.econlib.org/crusades-and-you/"/>
+        <updated>2021-05-19T13:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Every five years or so, the United States has a major societal-wide crusade.  Sometimes there’s a shocking event.  Other times, there’s an ongoing evil.  Either way, all Americans are supposed to join forces and take decisive action to win the crusade.  And even if you can’t personally do anything, you’re supposed to get very angry. […]
+The post Crusades and You appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Status Trumps Argument]]></title>
+        <id>https://www.overcomingbias.com/?p=32839</id>
+        <link href="http://www.overcomingbias.com/2021/05/status-trumps-argument.html"/>
+        <updated>2021-05-19T12:10:39.000Z</updated>
+        <summary type="html"><![CDATA[Are elites nicer than other people? No, but they are better at being nice contingently, in the right situations where niceness is rewarded. And also with being mean contingently, in the situations where that is rewarded. Other people aren’t as … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Highlights From The Comments On Culture Wars]]></title>
         <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-culture</id>

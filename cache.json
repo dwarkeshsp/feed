@@ -211,6 +211,15 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/the-coldness-of-karen",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/the-coldness-of-karen",
+          "publishedOn": "2021-05-19T19:51:37.000Z",
+          "wordCount": 117,
+          "title": "The Coldness Of Karen"
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-culture",
           "author": "Scott Alexander",
           "description": "...",
@@ -1840,6 +1849,15 @@
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32839",
+          "author": "Robin Hanson",
+          "description": "Are elites nicer than other people? No, but they are better at being nice contingently, in the right situations where niceness is rewarded. And also with being mean contingently, in the situations where that is rewarded. Other people aren’t as … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/05/status-trumps-argument.html",
+          "publishedOn": "2021-05-19T12:10:39.000Z",
+          "wordCount": 819,
+          "title": "Status Trumps Argument"
+        },
+        {
           "id": "https://www.overcomingbias.com/?p=32837",
           "author": "Robin Hanson",
           "description": "Two LA area colleges, UCLA and USC, have a famous rivalry. Imagine that local law firms took sides, preferring to hire graduates from one or the other law school. Imagine further that some USC lawyers at a UCLA-favoring firm complained … Continue reading →",
@@ -2229,6 +2247,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55125",
+          "author": "Bryan Caplan",
+          "description": "Every five years or so, the United States has a major societal-wide crusade.  Sometimes there’s a shocking event.  Other times, there’s an ongoing evil.  Either way, all Americans are supposed to join forces and take decisive action to win the crusade.  And even if you can’t personally do anything, you’re supposed to get very angry. […]\nThe post Crusades and You appeared first on Econlib.",
+          "link": "https://www.econlib.org/crusades-and-you/",
+          "publishedOn": "2021-05-19T13:35:48.000Z",
+          "wordCount": 2574,
+          "title": "Crusades and You"
+        },
         {
           "id": "https://www.econlib.org/?p=55176",
           "author": "Bryan Caplan",
