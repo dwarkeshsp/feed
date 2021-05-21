@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T01:08:11.249Z</updated>
+    <updated>2021-05-21T01:11:57.885Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Links For May]]></title>
+        <id>https://astralcodexten.substack.com/p/links-for-may</id>
+        <link href="https://astralcodexten.substack.com/p/links-for-may"/>
+        <updated>2021-05-20T18:35:03.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panspermia Siblings]]></title>
+        <id>https://www.overcomingbias.com/?p=32841</id>
+        <link href="http://www.overcomingbias.com/2021/05/panspermia-siblings.html"/>
+        <updated>2021-05-20T14:30:12.000Z</updated>
+        <summary type="html"><![CDATA[The UFOs as aliens hypothesis is only as believable as the most a priori believable story for how it could be true. When I tried to find a story like that, I ended up relying heavily on the idea of … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did the Industrial Revolution decrease costs or increase quality?]]></title>
+        <id>https://rootsofprogress.org/cost-quality-and-the-efficient-frontier</id>
+        <link href="https://rootsofprogress.org/cost-quality-and-the-efficient-frontier"/>
+        <updated>2021-05-20T13:54:21.000Z</updated>
+        <summary type="html"><![CDATA[An oversimplified story of manufacturing progress during the Industrial Revolution is: “we automated manufacturing processes, and that decreased the cost of goods.” This is not wrong, but is not the full picture.
+Mechanization—and other progress in manufacturing, such as improved tools, materials, and chemical processes—not only decreases costs, but also improves quality. Making things by hand requires skill and attention: just try making your own clothing or furniture at home; on your first attempt you won…]]></summary>
+        <author>
+            <name>The Roots of Progress</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The UK’s Office of Free Speech]]></title>
+        <id>https://www.econlib.org/?p=55203</id>
+        <link href="https://www.econlib.org/the-uks-office-of-free-speech/"/>
+        <updated>2021-05-20T13:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Last January, my anonymous professor friend at the University of Texas proposed the creation of an Office of Free Speech: [E]very university should have an “Office of Free Speech” where faculty can lodge complaints when their academic freedom or free speech rights are violated, or when policies are put in place to limit the possibilities […]
+The post The UK’s Office of Free Speech appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can the Targaryens Conquer Television?]]></title>
+        <id>https://douthat.substack.com/p/can-the-targaryens-conquer-television</id>
+        <link href="https://douthat.substack.com/p/can-the-targaryens-conquer-television"/>
+        <updated>2021-05-20T13:09:16.000Z</updated>
+        <summary type="html"><![CDATA[The perils of adapting the "prehistory" of George R.R. Martin and J.R.R. Tolkien]]></summary>
+        <author>
+            <name>Reactions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hidden Open Thread 172.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-1725</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-1725"/>
+        <updated>2021-05-20T02:55:16.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Coldness Of Karen]]></title>
         <id>https://astralcodexten.substack.com/p/the-coldness-of-karen</id>

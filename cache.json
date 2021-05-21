@@ -211,6 +211,24 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/links-for-may",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/links-for-may",
+          "publishedOn": "2021-05-20T18:35:03.000Z",
+          "wordCount": 1968,
+          "title": "Links For May"
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/hidden-open-thread-1725",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/hidden-open-thread-1725",
+          "publishedOn": "2021-05-20T02:55:16.000Z",
+          "wordCount": 117,
+          "title": "Hidden Open Thread 172.5"
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/the-coldness-of-karen",
           "author": "Scott Alexander",
           "description": "...",
@@ -1680,6 +1698,15 @@
       "siteUrl": "https://douthat.substack.com",
       "articles": [
         {
+          "id": "https://douthat.substack.com/p/can-the-targaryens-conquer-television",
+          "author": null,
+          "description": "The perils of adapting the \"prehistory\" of George R.R. Martin and J.R.R. Tolkien",
+          "link": "https://douthat.substack.com/p/can-the-targaryens-conquer-television",
+          "publishedOn": "2021-05-20T13:09:16.000Z",
+          "wordCount": 1547,
+          "title": "Can the Targaryens Conquer Television?"
+        },
+        {
           "id": "https://douthat.substack.com/p/the-intelligentsia-against-religion",
           "author": null,
           "description": "Imagining a more anti-Christian elite culture (via Elizabeth Bruenig's mentions).",
@@ -1848,6 +1875,15 @@
       "feedUrl": "http://www.overcomingbias.com/feed",
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
+        {
+          "id": "https://www.overcomingbias.com/?p=32841",
+          "author": "Robin Hanson",
+          "description": "The UFOs as aliens hypothesis is only as believable as the most a priori believable story for how it could be true. When I tried to find a story like that, I ended up relying heavily on the idea of … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/05/panspermia-siblings.html",
+          "publishedOn": "2021-05-20T14:30:12.000Z",
+          "wordCount": 1162,
+          "title": "Panspermia Siblings"
+        },
         {
           "id": "https://www.overcomingbias.com/?p=32839",
           "author": "Robin Hanson",
@@ -2248,6 +2284,15 @@
       "siteUrl": "https://www.econlib.org",
       "articles": [
         {
+          "id": "https://www.econlib.org/?p=55203",
+          "author": "Bryan Caplan",
+          "description": "Last January, my anonymous professor friend at the University of Texas proposed the creation of an Office of Free Speech: [E]very university should have an “Office of Free Speech” where faculty can lodge complaints when their academic freedom or free speech rights are violated, or when policies are put in place to limit the possibilities […]\nThe post The UK’s Office of Free Speech appeared first on Econlib.",
+          "link": "https://www.econlib.org/the-uks-office-of-free-speech/",
+          "publishedOn": "2021-05-20T13:45:21.000Z",
+          "wordCount": 735,
+          "title": "The UK’s Office of Free Speech"
+        },
+        {
           "id": "https://www.econlib.org/?p=55125",
           "author": "Bryan Caplan",
           "description": "Every five years or so, the United States has a major societal-wide crusade.  Sometimes there’s a shocking event.  Other times, there’s an ongoing evil.  Either way, all Americans are supposed to join forces and take decisive action to win the crusade.  And even if you can’t personally do anything, you’re supposed to get very angry. […]\nThe post Crusades and You appeared first on Econlib.",
@@ -2601,6 +2646,15 @@
       "feedUrl": "https://rootsofprogress.org/feed.xml",
       "siteUrl": "https://rootsofprogress.org/",
       "articles": [
+        {
+          "id": "https://rootsofprogress.org/cost-quality-and-the-efficient-frontier",
+          "author": null,
+          "description": "An oversimplified story of manufacturing progress during the Industrial Revolution is: “we automated manufacturing processes, and that decreased the cost of goods.” This is not wrong, but is not the full picture.\nMechanization—and other progress in manufacturing, such as improved tools, materials, and chemical processes—not only decreases costs, but also improves quality. Making things by hand requires skill and attention: just try making your own clothing or furniture at home; on your first attempt you won…",
+          "link": "https://rootsofprogress.org/cost-quality-and-the-efficient-frontier",
+          "publishedOn": "2021-05-20T13:54:21.000Z",
+          "wordCount": 1426,
+          "title": "Did the Industrial Revolution decrease costs or increase quality?"
+        },
         {
           "id": "https://rootsofprogress.org/tickets-available-for-session-2-of-the-story-of-industrial-civilization",
           "author": null,
