@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T01:11:57.885Z</updated>
+    <updated>2021-05-22T01:11:10.070Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your Book Review: The Accidental Superpower]]></title>
+        <id>https://astralcodexten.substack.com/p/your-book-review-the-accidental-superpower</id>
+        <link href="https://astralcodexten.substack.com/p/your-book-review-the-accidental-superpower"/>
+        <updated>2021-05-21T21:40:27.000Z</updated>
+        <summary type="html"><![CDATA[Finalist #11 of the Book Review Contest]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On turning 40 today]]></title>
+        <id>https://www.scottaaronson.com/blog/?p=5510</id>
+        <link href="https://www.scottaaronson.com/blog/?p=5510"/>
+        <updated>2021-05-21T20:44:41.000Z</updated>
+        <summary type="html"><![CDATA[Holy crap. In case you’re wondering how I spent such a milestone of a day: well, I spent hours of it at an important virtual grant review meeting with the Department of Defense. Alas, when it came time for my own big presentation at that meeting—about what my students and I had done over the […]]]></summary>
+        <author>
+            <name>Scott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“If We Win, You Win”]]></title>
+        <id>https://www.overcomingbias.com/?p=32844</id>
+        <link href="http://www.overcomingbias.com/2021/05/if-we-win-you-win.html"/>
+        <updated>2021-05-21T14:50:04.000Z</updated>
+        <summary type="html"><![CDATA[One of the big wins of capitalism is that it creates strong private incentives for some kinds of social change. If someone has an idea for a change, they can get investors and employees to work with them, in hope of … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Links For May]]></title>
         <id>https://astralcodexten.substack.com/p/links-for-may</id>
