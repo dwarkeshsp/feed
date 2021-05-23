@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T01:11:10.070Z</updated>
+    <updated>2021-05-23T01:21:06.766Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Views Aren’t About Sights]]></title>
+        <id>https://www.overcomingbias.com/?p=32846</id>
+        <link href="http://www.overcomingbias.com/2021/05/views-arent-about-sights.html"/>
+        <updated>2021-05-22T19:24:29.000Z</updated>
+        <summary type="html"><![CDATA[Regarding window/patios with nice beach or city views, and days when those views are nice, in two polls respondents estimate that at any given time 1.3% and 0.8% of such places are actually occupied by people enjoying these views. Which … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calm Down About Inflation, etc.]]></title>
+        <id>https://fakenous.net/?p=2310</id>
+        <link href="https://fakenous.net/?p=2310"/>
+        <updated>2021-05-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Inflation Alarmists Because I’m a libertarian, I’m periodically exposed to a quirky part of the libertarian movement that is preoccupied with monetary policy. These people obsessively complain about inflation, e.g., quoting statistics like “since such-and-such year [a long time ago], the dollar has lost 97% of its value!” (You’re supposed to be alarmed by … Continue reading Calm Down About Inflation, etc.]]></summary>
+        <author>
+            <name>Michael Huemer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your Book Review: The Accidental Superpower]]></title>
         <id>https://astralcodexten.substack.com/p/your-book-review-the-accidental-superpower</id>
