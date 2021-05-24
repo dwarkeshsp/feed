@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T01:21:06.766Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-24T01:18:32.327Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 173]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-173</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-173"/>
+        <updated>2021-05-23T18:25:11.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Views Aren’t About Sights]]></title>
         <id>https://www.overcomingbias.com/?p=32846</id>

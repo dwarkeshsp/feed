@@ -211,6 +211,15 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/open-thread-173",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-173",
+          "publishedOn": "2021-05-23T18:25:11.000Z",
+          "wordCount": 234,
+          "title": "Open Thread 173"
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/your-book-review-the-accidental-superpower",
           "author": "Scott Alexander",
           "description": "Finalist #11 of the Book Review Contest",
@@ -2809,5 +2818,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }
