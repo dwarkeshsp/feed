@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T01:18:32.327Z</updated>
+    <updated>2021-05-25T01:14:51.327Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In which I answer more quantum computing questions]]></title>
+        <id>https://www.scottaaronson.com/blog/?p=5517</id>
+        <link href="https://www.scottaaronson.com/blog/?p=5517"/>
+        <updated>2021-05-24T21:45:46.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday, I had fun doing an open-ended Q&A at the Astral Codex Ten weekly online meetup. See here for the YouTube video. The questions were mainly about quantum computing, but ranged over various other topics as well, including education policy, the Great Stagnation, and what my biggest disagreements with Scott Alexander are. In other news, […]]]></summary>
+        <author>
+            <name>Scott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: Arabian Nights]]></title>
+        <id>https://astralcodexten.substack.com/p/book-review-arabian-nights</id>
+        <link href="https://astralcodexten.substack.com/p/book-review-arabian-nights"/>
+        <updated>2021-05-24T19:05:10.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Thread 173]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-173</id>
