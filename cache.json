@@ -211,6 +211,15 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/peer-review-request-depression",
+          "author": "Scott Alexander",
+          "description": "Give me feedback on my take on fighting depression",
+          "link": "https://astralcodexten.substack.com/p/peer-review-request-depression",
+          "publishedOn": "2021-05-25T21:26:29.000Z",
+          "wordCount": 10268,
+          "title": "Peer Review Request: Depression"
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/book-review-arabian-nights",
           "author": "Scott Alexander",
           "description": "...",
@@ -514,6 +523,15 @@
       "feedUrl": "http://scholars-stage.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scholars-stage.blogspot.com/",
       "articles": [
+        {
+          "id": "https://scholars-stage.blogspot.com/2021/05/further-notes-on-new-right.html",
+          "author": null,
+          "description": "Last month’s essay “The Problem of the New Right” caused a small stir. Formal writeups have been authored by Ross Douthat, Eric Levitz, Jordan Bloom, Lars Schonander, Peter Spilakos, and Aaron Ren. On Twitter there was even more chatter about the essay, much of it critical. I have found the critiques of my piece, especially on Twitter, to be somewhat contradictory. Some fault me for being of the",
+          "link": "https://scholars-stage.blogspot.com/2021/05/further-notes-on-new-right.html",
+          "publishedOn": "2021-05-25T03:43:00.036Z",
+          "wordCount": 7364,
+          "title": "Further Notes on the New Right"
+        },
         {
           "id": "https://scholars-stage.blogspot.com/2021/05/the-navys-knives-must-come-out.html",
           "author": null,
@@ -1157,6 +1175,15 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/",
+          "publishedOn": "2021-05-25T12:46:05.000Z",
+          "wordCount": 3067,
+          "title": "Returns to Scale in Broken Windows"
+        },
+        {
           "id": "https://fantasticanachronism.com/2021/05/03/highlights-from-the-decline-and-fall-of-the-roman-empire/",
           "author": null,
           "description": "[If you missed the review you might want to check it out before or after the highlights.]\nI highlighted approximately 106,000 words (or more than 250 pages), far too much to share in a blog post. Instead I have selected some highlights², picking out a handful of events and persons that stood out (plus an assortment of shorter passages):\n\nJulian the Apostate, the brilliant last pagan emperor whose LARPing and attempts at reform were tragically doomed.\nThe barbarian invasions of the 4th and 5th centuries, and…",
@@ -1537,6 +1564,15 @@
       "feedUrl": "https://graymirror.substack.com/feed/",
       "siteUrl": "https://graymirror.substack.com",
       "articles": [
+        {
+          "id": "https://graymirror.substack.com/p/the-inflation-economy",
+          "author": "Curtis Yarvin",
+          "description": "\"Money is a store of value, not a yardstick of pleasure.\"",
+          "link": "https://graymirror.substack.com/p/the-inflation-economy",
+          "publishedOn": "2021-05-25T08:00:38.000Z",
+          "wordCount": 6236,
+          "title": "The inflation economy"
+        },
         {
           "id": "https://graymirror.substack.com/p/there-is-no-ai-risk",
           "author": "Curtis Yarvin",
@@ -2338,6 +2374,15 @@
       "siteUrl": "https://www.econlib.org",
       "articles": [
         {
+          "id": "https://www.econlib.org/?p=55228",
+          "author": "Bryan Caplan",
+          "description": "I just rewatched Election for the first time in twenty years, and it was even better than I remembered.  And this time around, I had better conceptual tools to understand it.  Most notably, the movie features three election speeches that elegantly exemplify Social Desirability Bias – and its absence. First, the front-runner, Tracy Flick, delivers a […]\nThe post Social Desirability Bias in Three Speeches appeared first on Econlib.",
+          "link": "https://www.econlib.org/social-desirability-bias-in-three-speeches/",
+          "publishedOn": "2021-05-25T13:35:12.000Z",
+          "wordCount": 1271,
+          "title": "Social Desirability Bias in Three Speeches"
+        },
+        {
           "id": "https://www.econlib.org/?p=55203",
           "author": "Bryan Caplan",
           "description": "Last January, my anonymous professor friend at the University of Texas proposed the creation of an Office of Free Speech: [E]very university should have an “Office of Free Speech” where faculty can lodge complaints when their academic freedom or free speech rights are violated, or when policies are put in place to limit the possibilities […]\nThe post The UK’s Office of Free Speech appeared first on Econlib.",
@@ -2718,6 +2763,15 @@
       "feedUrl": "https://rootsofprogress.org/feed.xml",
       "siteUrl": "https://rootsofprogress.org/",
       "articles": [
+        {
+          "id": "https://rootsofprogress.org/tickets-available-for-session-3-of-the-story-of-industrial-civilization",
+          "author": null,
+          "description": "Tickets are now available for session 3 of my salon series with Interintellect, “The Story of Industrial Civilization”.",
+          "link": "https://rootsofprogress.org/tickets-available-for-session-3-of-the-story-of-industrial-civilization",
+          "publishedOn": "2021-05-25T09:08:03.000Z",
+          "wordCount": 226,
+          "title": "Tickets available for Session 3 of The Story of Industrial Civilization"
+        },
         {
           "id": "https://rootsofprogress.org/cost-quality-and-the-efficient-frontier",
           "author": null,

@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T01:14:51.327Z</updated>
+    <updated>2021-05-26T01:32:20.330Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peer Review Request: Depression]]></title>
+        <id>https://astralcodexten.substack.com/p/peer-review-request-depression</id>
+        <link href="https://astralcodexten.substack.com/p/peer-review-request-depression"/>
+        <updated>2021-05-25T21:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Give me feedback on my take on fighting depression]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Desirability Bias in Three Speeches]]></title>
+        <id>https://www.econlib.org/?p=55228</id>
+        <link href="https://www.econlib.org/social-desirability-bias-in-three-speeches/"/>
+        <updated>2021-05-25T13:35:12.000Z</updated>
+        <summary type="html"><![CDATA[I just rewatched Election for the first time in twenty years, and it was even better than I remembered.  And this time around, I had better conceptual tools to understand it.  Most notably, the movie features three election speeches that elegantly exemplify Social Desirability Bias – and its absence. First, the front-runner, Tracy Flick, delivers a […]
+The post Social Desirability Bias in Three Speeches appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Returns to Scale in Broken Windows]]></title>
+        <id>https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/</id>
+        <link href="https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/"/>
+        <updated>2021-05-25T12:46:05.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Fantastic Anachronism</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tickets available for Session 3 of The Story of Industrial Civilization]]></title>
+        <id>https://rootsofprogress.org/tickets-available-for-session-3-of-the-story-of-industrial-civilization</id>
+        <link href="https://rootsofprogress.org/tickets-available-for-session-3-of-the-story-of-industrial-civilization"/>
+        <updated>2021-05-25T09:08:03.000Z</updated>
+        <summary type="html"><![CDATA[Tickets are now available for session 3 of my salon series with Interintellect, “The Story of Industrial Civilization”.]]></summary>
+        <author>
+            <name>The Roots of Progress</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The inflation economy]]></title>
+        <id>https://graymirror.substack.com/p/the-inflation-economy</id>
+        <link href="https://graymirror.substack.com/p/the-inflation-economy"/>
+        <updated>2021-05-25T08:00:38.000Z</updated>
+        <summary type="html"><![CDATA["Money is a store of value, not a yardstick of pleasure."]]></summary>
+        <author>
+            <name>Curtis Yarvin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Further Notes on the New Right]]></title>
+        <id>https://scholars-stage.blogspot.com/2021/05/further-notes-on-new-right.html</id>
+        <link href="https://scholars-stage.blogspot.com/2021/05/further-notes-on-new-right.html"/>
+        <updated>2021-05-25T03:43:00.036Z</updated>
+        <summary type="html"><![CDATA[Last month’s essay “The Problem of the New Right” caused a small stir. Formal writeups have been authored by Ross Douthat, Eric Levitz, Jordan Bloom, Lars Schonander, Peter Spilakos, and Aaron Ren. On Twitter there was even more chatter about the essay, much of it critical. I have found the critiques of my piece, especially on Twitter, to be somewhat contradictory. Some fault me for being of the]]></summary>
+        <author>
+            <name>The Scholar's Stage</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In which I answer more quantum computing questions]]></title>
         <id>https://www.scottaaronson.com/blog/?p=5517</id>
