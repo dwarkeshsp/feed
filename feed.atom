@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T01:32:20.330Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-27T01:44:14.102Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Biological Universe]]></title>
+        <id>https://www.overcomingbias.com/?p=32848</id>
+        <link href="http://www.overcomingbias.com/2021/05/the-biological-universe.html"/>
+        <updated>2021-05-27T01:15:20.000Z</updated>
+        <summary type="html"><![CDATA[In his new book The Biological Universe: Life in the Milky Way and Beyond, evolutionary biologist Wallace Arthur predicts the life we will find in the galaxy and universe: Life forms are to be found across the Milky Way and … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections On Greed Being Made Of Smaller Parts]]></title>
+        <id>https://astralcodexten.substack.com/p/reflections-on-greed-being-made-of</id>
+        <link href="https://astralcodexten.substack.com/p/reflections-on-greed-being-made-of"/>
+        <updated>2021-05-27T00:26:02.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Magic in Modernity]]></title>
+        <id>https://scholars-stage.blogspot.com/2021/05/the-magic-in-modernity.html</id>
+        <link href="https://scholars-stage.blogspot.com/2021/05/the-magic-in-modernity.html"/>
+        <updated>2021-05-26T14:23:00.013Z</updated>
+        <summary type="html"><![CDATA[It is something of a commonplace that the mix of capitalist exchange and technological advance we call ‘modernity’ has stripped the world of its luster. Once we dwelt in fairy glens and dwarven vales, greeting Helios as he made his way across the sky, wishing well the naiads as they bubbled on their way. We do so no longer. Science has stripped nature of its wonder; all sorts of “isms” and “]]></summary>
+        <author>
+            <name>The Scholar's Stage</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peer Review Request: Depression]]></title>
         <id>https://astralcodexten.substack.com/p/peer-review-request-depression</id>

@@ -211,6 +211,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/reflections-on-greed-being-made-of",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/reflections-on-greed-being-made-of",
+          "publishedOn": "2021-05-27T00:26:02.000Z",
+          "wordCount": null,
+          "title": "Reflections On Greed Being Made Of Smaller Parts",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/25c5a50a-b6a0-477d-8251-27bbe11a83c1_634x423.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/peer-review-request-depression",
           "author": "Scott Alexander",
           "description": "Give me feedback on my take on fighting depression",
@@ -523,6 +538,15 @@
       "feedUrl": "http://scholars-stage.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scholars-stage.blogspot.com/",
       "articles": [
+        {
+          "id": "https://scholars-stage.blogspot.com/2021/05/the-magic-in-modernity.html",
+          "author": null,
+          "description": "It is something of a commonplace that the mix of capitalist exchange and technological advance we call ‘modernity’ has stripped the world of its luster. Once we dwelt in fairy glens and dwarven vales, greeting Helios as he made his way across the sky, wishing well the naiads as they bubbled on their way. We do so no longer. Science has stripped nature of its wonder; all sorts of “isms” and “",
+          "link": "https://scholars-stage.blogspot.com/2021/05/the-magic-in-modernity.html",
+          "publishedOn": "2021-05-26T14:23:00.013Z",
+          "wordCount": 1751,
+          "title": "The Magic in Modernity"
+        },
         {
           "id": "https://scholars-stage.blogspot.com/2021/05/further-notes-on-new-right.html",
           "author": null,
@@ -1948,6 +1972,15 @@
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32848",
+          "author": "Robin Hanson",
+          "description": "In his new book The Biological Universe: Life in the Milky Way and Beyond, evolutionary biologist Wallace Arthur predicts the life we will find in the galaxy and universe: Life forms are to be found across the Milky Way and … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/05/the-biological-universe.html",
+          "publishedOn": "2021-05-27T01:15:20.000Z",
+          "wordCount": 1418,
+          "title": "The Biological Universe"
+        },
+        {
           "id": "https://www.overcomingbias.com/?p=32846",
           "author": "Robin Hanson",
           "description": "Regarding window/patios with nice beach or city views, and days when those views are nice, in two polls respondents estimate that at any given time 1.3% and 0.8% of such places are actually occupied by people enjoying these views. Which … Continue reading →",
@@ -2890,5 +2923,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }
