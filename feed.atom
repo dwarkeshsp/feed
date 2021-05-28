@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T01:44:14.102Z</updated>
+    <updated>2021-05-28T01:53:20.813Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roemer’s Socialism]]></title>
+        <id>https://www.overcomingbias.com/?p=32851</id>
+        <link href="http://www.overcomingbias.com/2021/05/roemers-socialism.html"/>
+        <updated>2021-05-28T00:12:58.000Z</updated>
+        <summary type="html"><![CDATA[Several times before I have posted on trying to figure out what just people mean when they propose “socialism”, and which variations seem how attractive. I just tried this exercise again, this time reading respected Yale economist and political scientist … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID Suicides: Much More Than You Wanted To Know]]></title>
+        <id>https://astralcodexten.substack.com/p/covid-suicides-much-more-than-you</id>
+        <link href="https://astralcodexten.substack.com/p/covid-suicides-much-more-than-you"/>
+        <updated>2021-05-27T18:43:06.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bad Religion vs. Labor Econ]]></title>
+        <id>https://www.econlib.org/?p=55240</id>
+        <link href="https://www.econlib.org/labor-demand-in-bad-religion/"/>
+        <updated>2021-05-27T15:44:42.000Z</updated>
+        <summary type="html"><![CDATA[For my 50th birthday, the noble Jason Brennan gave me Do What You Want: The Story of Bad Religion, signed by the whole band.  I love their music.  I listen to it all the time.  Greg Graffin, the lead singer, clearly has excellent knowledge of natural science.  Yet Bad Religion’s lyrics are sadly infused with […]
+The post Bad Religion vs. Labor Econ appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 173.5]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-1735</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-1735"/>
+        <updated>2021-05-27T06:29:14.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Biological Universe]]></title>
         <id>https://www.overcomingbias.com/?p=32848</id>

@@ -211,6 +211,36 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/covid-suicides-much-more-than-you",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/covid-suicides-much-more-than-you",
+          "publishedOn": "2021-05-27T18:43:06.000Z",
+          "wordCount": null,
+          "title": "COVID Suicides: Much More Than You Wanted To Know",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f8983e56-2153-4d84-ab0f-3995765ccb0d_919x792.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/open-thread-1735",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-1735",
+          "publishedOn": "2021-05-27T06:29:14.000Z",
+          "wordCount": null,
+          "title": "Open Thread 173.5",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/173c9485-05c3-48e1-8c9c-c941e17dafe0_612x583.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/reflections-on-greed-being-made-of",
           "author": "Scott Alexander",
           "description": "...",
@@ -1972,6 +2002,15 @@
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32851",
+          "author": "Robin Hanson",
+          "description": "Several times before I have posted on trying to figure out what just people mean when they propose “socialism”, and which variations seem how attractive. I just tried this exercise again, this time reading respected Yale economist and political scientist … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/05/roemers-socialism.html",
+          "publishedOn": "2021-05-28T00:12:58.000Z",
+          "wordCount": 1205,
+          "title": "Roemer’s Socialism"
+        },
+        {
           "id": "https://www.overcomingbias.com/?p=32848",
           "author": "Robin Hanson",
           "description": "In his new book The Biological Universe: Life in the Milky Way and Beyond, evolutionary biologist Wallace Arthur predicts the life we will find in the galaxy and universe: Life forms are to be found across the Milky Way and … Continue reading →",
@@ -2406,6 +2445,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55240",
+          "author": "Bryan Caplan",
+          "description": "For my 50th birthday, the noble Jason Brennan gave me Do What You Want: The Story of Bad Religion, signed by the whole band.  I love their music.  I listen to it all the time.  Greg Graffin, the lead singer, clearly has excellent knowledge of natural science.  Yet Bad Religion’s lyrics are sadly infused with […]\nThe post Bad Religion vs. Labor Econ appeared first on Econlib.",
+          "link": "https://www.econlib.org/labor-demand-in-bad-religion/",
+          "publishedOn": "2021-05-27T15:44:42.000Z",
+          "wordCount": 944,
+          "title": "Bad Religion vs. Labor Econ"
+        },
         {
           "id": "https://www.econlib.org/?p=55228",
           "author": "Bryan Caplan",
