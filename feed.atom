@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T01:53:20.813Z</updated>
+    <updated>2021-05-29T02:09:21.977Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Knowledge, Reality, and Value Book Club Starts Monday]]></title>
+        <id>https://www.econlib.org/?p=55289</id>
+        <link href="https://www.econlib.org/knowledge-reality-and-value-book-club-starts-monday/"/>
+        <updated>2021-05-28T18:45:52.000Z</updated>
+        <summary type="html"><![CDATA[My Book Club on Mike Huemer‘s new intro philosophy textbook launches Monday.  And I’m pleased to announce the Huemer himself will be joining the discussion. After I write the first post, you can direct your comments to either of us.  I’ll be responding later in the week.  Huemer will respond separately. While the book is […]
+The post <i>Knowledge, Reality, and Value</i> Book Club Starts Monday appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Book Review: Humankind]]></title>
+        <id>https://astralcodexten.substack.com/p/your-book-review-humankind</id>
+        <link href="https://astralcodexten.substack.com/p/your-book-review-humankind"/>
+        <updated>2021-05-28T18:37:45.000Z</updated>
+        <summary type="html"><![CDATA[Finalist #12 of the Book Review Contest]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Influential Intellectuals Revisited]]></title>
+        <id>https://douthat.substack.com/p/influential-intellectuals-revisited</id>
+        <link href="https://douthat.substack.com/p/influential-intellectuals-revisited"/>
+        <updated>2021-05-28T14:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Important thinkers of the early 21st century, the bonus round.]]></summary>
+        <author>
+            <name>Reactions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The self-licking napalm ice cream cone]]></title>
+        <id>https://graymirror.substack.com/p/the-self-licking-napalm-ice-cream</id>
+        <link href="https://graymirror.substack.com/p/the-self-licking-napalm-ice-cream"/>
+        <updated>2021-05-28T03:48:38.000Z</updated>
+        <summary type="html"><![CDATA["Is science having a stroke?"]]></summary>
+        <author>
+            <name>Curtis Yarvin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roemer’s Socialism]]></title>
         <id>https://www.overcomingbias.com/?p=32851</id>
