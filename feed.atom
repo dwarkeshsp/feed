@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T02:09:21.977Z</updated>
+    <updated>2021-05-30T02:24:04.122Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Costs of Suppressing Speech]]></title>
+        <id>https://fakenous.net/?p=2326</id>
+        <link href="https://fakenous.net/?p=2326"/>
+        <updated>2021-05-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. An Unusual Kind of Speech Suppression Someone invited me to write a paper about free speech. Most of what I have to say on the subject is old news: I basically agree with John Stuart Mill, and I don’t understand why everyone else doesn’t agree. Principles of free speech used to be part of … Continue reading The Costs of Suppressing Speech]]></summary>
+        <author>
+            <name>Michael Huemer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biologists Taboo Artificial Life]]></title>
+        <id>https://www.overcomingbias.com/?p=32850</id>
+        <link href="http://www.overcomingbias.com/2021/05/the-artificial-life-taboo-in-biology.html"/>
+        <updated>2021-05-29T14:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Recently I’ve reviewed three books by academic biologists on the future of life in the universe. All three books have gained high profile and prestigious reviews in major media and academia. (Which is how I heard of them.) And all … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Knowledge, Reality, and Value Book Club Starts Monday]]></title>
         <id>https://www.econlib.org/?p=55289</id>
