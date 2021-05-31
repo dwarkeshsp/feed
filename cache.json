@@ -211,6 +211,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/open-thread-174",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-174",
+          "publishedOn": "2021-05-30T16:30:29.000Z",
+          "wordCount": null,
+          "title": "Open Thread 174",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3962665c-a4a6-4bee-b97c-4036d8667cac_496x341.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/your-book-review-humankind",
           "author": "Scott Alexander",
           "description": "Finalist #12 of the Book Review Contest",
@@ -2313,6 +2328,15 @@
       "siteUrl": "https://putanumonit.com",
       "articles": [
         {
+          "id": "http://putanumonit.com/?p=31248",
+          "author": "Jacob Falkovich",
+          "description": "All the dating stories from my previous life that somehow managed not to crush my optimism about romance.",
+          "link": "https://putanumonit.com/2021/05/30/easily-top-20/",
+          "publishedOn": "2021-05-30T18:20:40.000Z",
+          "wordCount": 4403,
+          "title": "Easily Top 20%"
+        },
+        {
           "id": "http://putanumonit.com/?p=31217",
           "author": "Jacob Falkovich",
           "description": "My Quillette article on sex negativity and follow-up thoughts on fuckability, why sex is bad so often, the preservation of ambiguity, and the value of blogs.",
@@ -2916,6 +2940,15 @@
       "feedUrl": "https://rootsofprogress.org/feed.xml",
       "siteUrl": "https://rootsofprogress.org/",
       "articles": [
+        {
+          "id": "https://rootsofprogress.org/nuclear-physics",
+          "author": null,
+          "description": "You probably recall from high school chemistry that atoms are made up of a nucleus containing protons and neutrons, surrounded by electrons. But how many of each?",
+          "link": "https://rootsofprogress.org/nuclear-physics",
+          "publishedOn": "2021-05-30T10:36:46.000Z",
+          "wordCount": 4327,
+          "title": "I walk the (beta-stability) line"
+        },
         {
           "id": "https://rootsofprogress.org/tickets-available-for-session-3-of-the-story-of-industrial-civilization",
           "author": null,

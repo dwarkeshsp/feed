@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T02:24:04.122Z</updated>
+    <updated>2021-05-31T02:35:05.668Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Easily Top 20%]]></title>
+        <id>http://putanumonit.com/?p=31248</id>
+        <link href="https://putanumonit.com/2021/05/30/easily-top-20/"/>
+        <updated>2021-05-30T18:20:40.000Z</updated>
+        <summary type="html"><![CDATA[All the dating stories from my previous life that somehow managed not to crush my optimism about romance.]]></summary>
+        <author>
+            <name>Jacob Falkovich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 174]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-174</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-174"/>
+        <updated>2021-05-30T16:30:29.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I walk the (beta-stability) line]]></title>
+        <id>https://rootsofprogress.org/nuclear-physics</id>
+        <link href="https://rootsofprogress.org/nuclear-physics"/>
+        <updated>2021-05-30T10:36:46.000Z</updated>
+        <summary type="html"><![CDATA[You probably recall from high school chemistry that atoms are made up of a nucleus containing protons and neutrons, surrounded by electrons. But how many of each?]]></summary>
+        <author>
+            <name>The Roots of Progress</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Costs of Suppressing Speech]]></title>
         <id>https://fakenous.net/?p=2326</id>
