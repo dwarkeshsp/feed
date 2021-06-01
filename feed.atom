@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T02:35:05.668Z</updated>
+    <updated>2021-06-01T03:02:28.643Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Do Treatments For Accelerated Aging Tell Us About Normal Aging?]]></title>
+        <id>https://astralcodexten.substack.com/p/what-do-treatments-for-accelerated</id>
+        <link href="https://astralcodexten.substack.com/p/what-do-treatments-for-accelerated"/>
+        <updated>2021-06-01T01:53:32.000Z</updated>
+        <summary type="html"><![CDATA[We can prevent young people from being old, but preventing old people from being old sounds also sounds useful.]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge, Reality, and Value Book Club, Part 1]]></title>
+        <id>https://www.econlib.org/?p=55290</id>
+        <link href="https://www.econlib.org/knowledge-reality-and-value-book-club-part-1/"/>
+        <updated>2021-05-31T15:44:19.000Z</updated>
+        <summary type="html"><![CDATA[In the Preface for his new Knowledge, Reality, and Value, Mike Huemer engages in some humorous megalomania.  In response to the question, “Why read this book?,” Huemer states: The author. I’m smart, I know a lot, and I’m not confused – which means you can probably learn a lot from this book. You probably won’t learn […]
+The post <i>Knowledge, Reality, and Value</i> Book Club, Part 1 appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Taught The Iliad to Chinese Teenagers]]></title>
+        <id>https://scholars-stage.blogspot.com/2021/05/how-i-taught-iliad-to-chinese-teenagers.html</id>
+        <link href="https://scholars-stage.blogspot.com/2021/05/how-i-taught-iliad-to-chinese-teenagers.html"/>
+        <updated>2021-05-31T02:54:00.035Z</updated>
+        <summary type="html"><![CDATA[INTRODUCTION
+Several years ago I had the chance to lead two seminars with a group of high-performing Chinese high school seniors. Each seminar had between 20-35 kids; each of these students
+ was a graduating senior enrolled in the international department of a 
+prestigious high school in Beijing. The purpose of these seminars was 
+twofold. First, they were designed to provide these students with]]></summary>
+        <author>
+            <name>The Scholar's Stage</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Easily Top 20%]]></title>
         <id>http://putanumonit.com/?p=31248</id>

@@ -211,6 +211,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/what-do-treatments-for-accelerated",
+          "author": "Scott Alexander",
+          "description": "We can prevent young people from being old, but preventing old people from being old sounds also sounds useful.",
+          "link": "https://astralcodexten.substack.com/p/what-do-treatments-for-accelerated",
+          "publishedOn": "2021-06-01T01:53:32.000Z",
+          "wordCount": null,
+          "title": "What Do Treatments For Accelerated Aging Tell Us About Normal Aging?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/19911f4c-d6cc-45f4-9735-98f1ab38e23a_736x490.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/open-thread-174",
           "author": "Scott Alexander",
           "description": "...",
@@ -598,6 +613,15 @@
       "feedUrl": "http://scholars-stage.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scholars-stage.blogspot.com/",
       "articles": [
+        {
+          "id": "https://scholars-stage.blogspot.com/2021/05/how-i-taught-iliad-to-chinese-teenagers.html",
+          "author": null,
+          "description": "INTRODUCTION\nSeveral years ago I had the chance to lead two seminars with a group of high-performing Chinese high school seniors. Each seminar had between 20-35 kids; each of these students\n was a graduating senior enrolled in the international department of a \nprestigious high school in Beijing. The purpose of these seminars was \ntwofold. First, they were designed to provide these students with",
+          "link": "https://scholars-stage.blogspot.com/2021/05/how-i-taught-iliad-to-chinese-teenagers.html",
+          "publishedOn": "2021-05-31T02:54:00.035Z",
+          "wordCount": 12356,
+          "title": "How I Taught The Iliad to Chinese Teenagers"
+        },
         {
           "id": "https://scholars-stage.blogspot.com/2021/05/the-magic-in-modernity.html",
           "author": null,
@@ -2532,6 +2556,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55290",
+          "author": "Bryan Caplan",
+          "description": "In the Preface for his new Knowledge, Reality, and Value, Mike Huemer engages in some humorous megalomania.  In response to the question, “Why read this book?,” Huemer states: The author. I’m smart, I know a lot, and I’m not confused – which means you can probably learn a lot from this book. You probably won’t learn […]\nThe post <i>Knowledge, Reality, and Value</i> Book Club, Part 1 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-book-club-part-1/",
+          "publishedOn": "2021-05-31T15:44:19.000Z",
+          "wordCount": 3430,
+          "title": "Knowledge, Reality, and Value Book Club, Part 1"
+        },
         {
           "id": "https://www.econlib.org/?p=55289",
           "author": "Bryan Caplan",
