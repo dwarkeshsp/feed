@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T03:02:28.643Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T03:02:17.515Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three updates]]></title>
+        <id>https://www.scottaaronson.com/blog/?p=5536</id>
+        <link href="https://www.scottaaronson.com/blog/?p=5536"/>
+        <updated>2021-06-01T20:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Hooray, I’m today’s “Featured ACM Member”! Which basically means, yet another interview with me about quantum computing, with questions including what’s most surprised me about the development of QC, and what students should do to get into the field. I’m proud to announce that An Automated Approach to the Collatz Conjecture, a paper by Emre […]]]></summary>
+        <author>
+            <name>Scott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moral Costs Of Chicken Vs. Beef]]></title>
+        <id>https://astralcodexten.substack.com/p/moral-costs-of-chicken-vs-beef</id>
+        <link href="https://astralcodexten.substack.com/p/moral-costs-of-chicken-vs-beef"/>
+        <updated>2021-06-01T19:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Also: does offsetting still work if you skip the step where you pay the offsets?]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Wants Curated Democracy?]]></title>
+        <id>https://www.overcomingbias.com/?p=32855</id>
+        <link href="http://www.overcomingbias.com/2021/06/who-wants-curated-democracy.html"/>
+        <updated>2021-06-01T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most democratic systems are pretty simple. To a first approximation, anyone can run for office, any adult citizen can vote, and voters can use all their usual ways to associate and talk to evaluate and coordinate on who to vote … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mattlakeman.org]]></title>
+        <id>http://dormin.org/?p=1005</id>
+        <link href="https://dormin.org/2021/06/01/mattlakeman-org/"/>
+        <updated>2021-06-01T16:38:40.000Z</updated>
+        <summary type="html"><![CDATA[It’s been almost seven months since my last post. I needed a break from blogging, and I wanted to spend more time on fiction writing, but now I’m ready to get back into it again.… More]]></summary>
+        <author>
+            <name>Matt Lakeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miguel Perez: A “Bad Student” Makes Good]]></title>
+        <id>https://www.econlib.org/?p=55278</id>
+        <link href="https://www.econlib.org/miguel-perez-a-bad-student-makes-good/"/>
+        <updated>2021-06-01T14:40:04.000Z</updated>
+        <summary type="html"><![CDATA[Miguel Perez sent me this email, entitled “the curious case of my education.”  Reprinted with his permission. Hi, I am sharing my case with you, because I feel it epitomizes some of your points against current education. I was born in Spain, in 1988, went to public school and it was a disaster. I was […]
+The post Miguel Perez: A “Bad Student” Makes Good appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Do Treatments For Accelerated Aging Tell Us About Normal Aging?]]></title>
         <id>https://astralcodexten.substack.com/p/what-do-treatments-for-accelerated</id>

@@ -211,6 +211,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/moral-costs-of-chicken-vs-beef",
+          "author": "Scott Alexander",
+          "description": "Also: does offsetting still work if you skip the step where you pay the offsets?",
+          "link": "https://astralcodexten.substack.com/p/moral-costs-of-chicken-vs-beef",
+          "publishedOn": "2021-06-01T19:08:12.000Z",
+          "wordCount": null,
+          "title": "Moral Costs Of Chicken Vs. Beef",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9de1c2ae-546c-47f3-ab10-e41ceddf65ab_480x330.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/what-do-treatments-for-accelerated",
           "author": "Scott Alexander",
           "description": "We can prevent young people from being old, but preventing old people from being old sounds also sounds useful.",
@@ -1488,6 +1503,15 @@
       "siteUrl": "https://dormin.org",
       "articles": [
         {
+          "id": "http://dormin.org/?p=1005",
+          "author": "Matt Lakeman",
+          "description": "It’s been almost seven months since my last post. I needed a break from blogging, and I wanted to spend more time on fiction writing, but now I’m ready to get back into it again.… More",
+          "link": "https://dormin.org/2021/06/01/mattlakeman-org/",
+          "publishedOn": "2021-06-01T16:38:40.000Z",
+          "wordCount": 708,
+          "title": "Mattlakeman.org"
+        },
+        {
           "id": "http://dormin.org/?p=994",
           "author": "Dormin111",
           "description": "There&#8217;s not too much to say on this one, so I&#8217;ll keep it short. My goal was to do nothing for 24 hours. Like everyone in the modern world, I’m hopelessly addicted to little dopamine&#8230; More",
@@ -2095,6 +2119,15 @@
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32855",
+          "author": "Robin Hanson",
+          "description": "Most democratic systems are pretty simple. To a first approximation, anyone can run for office, any adult citizen can vote, and voters can use all their usual ways to associate and talk to evaluate and coordinate on who to vote … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/who-wants-curated-democracy.html",
+          "publishedOn": "2021-06-01T19:00:00.000Z",
+          "wordCount": 876,
+          "title": "Who Wants Curated Democracy?"
+        },
+        {
           "id": "https://www.overcomingbias.com/?p=32850",
           "author": "Robin Hanson",
           "description": "Recently I’ve reviewed three books by academic biologists on the future of life in the universe. All three books have gained high profile and prestigious reviews in major media and academia. (Which is how I heard of them.) And all … Continue reading →",
@@ -2557,6 +2590,15 @@
       "siteUrl": "https://www.econlib.org",
       "articles": [
         {
+          "id": "https://www.econlib.org/?p=55278",
+          "author": "Bryan Caplan",
+          "description": "Miguel Perez sent me this email, entitled “the curious case of my education.”  Reprinted with his permission. Hi, I am sharing my case with you, because I feel it epitomizes some of your points against current education. I was born in Spain, in 1988, went to public school and it was a disaster. I was […]\nThe post Miguel Perez: A “Bad Student” Makes Good appeared first on Econlib.",
+          "link": "https://www.econlib.org/miguel-perez-a-bad-student-makes-good/",
+          "publishedOn": "2021-06-01T14:40:04.000Z",
+          "wordCount": 1301,
+          "title": "Miguel Perez: A “Bad Student” Makes Good"
+        },
+        {
           "id": "https://www.econlib.org/?p=55290",
           "author": "Bryan Caplan",
           "description": "In the Preface for his new Knowledge, Reality, and Value, Mike Huemer engages in some humorous megalomania.  In response to the question, “Why read this book?,” Huemer states: The author. I’m smart, I know a lot, and I’m not confused – which means you can probably learn a lot from this book. You probably won’t learn […]\nThe post <i>Knowledge, Reality, and Value</i> Book Club, Part 1 appeared first on Econlib.",
@@ -2850,6 +2892,15 @@
       "siteUrl": "https://www.scottaaronson.com/blog",
       "articles": [
         {
+          "id": "https://www.scottaaronson.com/blog/?p=5536",
+          "author": "Scott",
+          "description": "Hooray, I’m today’s “Featured ACM Member”! Which basically means, yet another interview with me about quantum computing, with questions including what’s most surprised me about the development of QC, and what students should do to get into the field. I’m proud to announce that An Automated Approach to the Collatz Conjecture, a paper by Emre […]",
+          "link": "https://www.scottaaronson.com/blog/?p=5536",
+          "publishedOn": "2021-06-01T20:00:21.000Z",
+          "wordCount": 1046,
+          "title": "Three updates"
+        },
+        {
           "id": "https://www.scottaaronson.com/blog/?p=5517",
           "author": "Scott",
           "description": "Yesterday, I had fun doing an open-ended Q&A at the Astral Codex Ten weekly online meetup. See here for the YouTube video. The questions were mainly about quantum computing, but ranged over various other topics as well, including education policy, the Great Stagnation, and what my biggest disagreements with Scott Alexander are. In other news, […]",
@@ -3109,5 +3160,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
