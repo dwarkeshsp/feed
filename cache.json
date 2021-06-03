@@ -211,6 +211,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/you-have-a-terrible-track-record",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/you-have-a-terrible-track-record",
+          "publishedOn": "2021-06-03T02:27:15.000Z",
+          "wordCount": null,
+          "title": "You Have A Terrible Track Record In Guessing My Motives",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8d7b8cb9-74fa-42fc-86a4-ad8a88a0ecf1_262x192.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/moral-costs-of-chicken-vs-beef",
           "author": "Scott Alexander",
           "description": "Also: does offsetting still work if you skip the step where you pay the offsets?",
@@ -1030,6 +1045,15 @@
       "siteUrl": "https://nintil.com",
       "articles": [
         {
+          "id": "https://nintil.com/links-48/",
+          "author": null,
+          "description": "Policy entrepreneurship at the White House\nMach 12 airplanes \nMach 17 airplanes\nA... unique interview? with Marc Andreessen?\nRecent interview with Peter Thiel\nGene therapy for elevated LDL cholesterol\nI wrote a while back that \"everything sleeps\". Scientists looked at a new organism that has no brain (but has neurons), the hydra. It also sleeps.\nCan you tell fake from true paper abstracts? (Via Scott Alexander)\nWhy is the Moscow metro so nice given that Soviet buildings are more on the brutalist end (also via Scott)\nCurtis Yarvin on AI risk skepticism (Coincidentally, also my argument: diminishing returns to intelligence + inherent unpredictability of the world; though afaik I've never written about this.)\nReservoir computing\nAda Nguyen on not overthinking\nUFO skepticism\nFrom a social scie…",
+          "link": "https://nintil.com/links-48/",
+          "publishedOn": "2021-06-02T00:00:00.000Z",
+          "wordCount": 398,
+          "title": "Links (48)"
+        },
+        {
           "id": "https://nintil.com/how-to-solve-aging/",
           "author": null,
           "description": "Answers to this question can be found online in the forms of shorter and longer term roadmaps. One could infer an answer from SENS or get a list of ideas from Celine Halioua's recent take on the matter (On what the field needs rather than how to deal with the problem itself). This is just my view.\nAn important question for anyone wanting to answer &quot;How to solve aging&quot; is &quot;If aging is solved, have we then made a given individual, in normal conditions, immortal?&quot; Or &quot;Have we thus made…",
@@ -1705,6 +1729,21 @@
       "feedUrl": "https://graymirror.substack.com/feed/",
       "siteUrl": "https://graymirror.substack.com",
       "articles": [
+        {
+          "id": "https://graymirror.substack.com/p/rise-of-the-neutral-company",
+          "author": "Curtis Yarvin",
+          "description": "\"Politics is the exercise of collective power against human opposition.\"",
+          "link": "https://graymirror.substack.com/p/rise-of-the-neutral-company",
+          "publishedOn": "2021-06-02T22:06:01.000Z",
+          "wordCount": null,
+          "title": "Rise of the neutral company",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F286b61b5-9b22-4a49-9650-694d6f36a10b_310x310.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
         {
           "id": "https://graymirror.substack.com/p/the-self-licking-napalm-ice-cream",
           "author": "Curtis Yarvin",
@@ -2589,6 +2628,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55326",
+          "author": "Bryan Caplan",
+          "description": "Two months ago, I voiced one big criticism of Richard Hanania’s excellent piece on the curiously ubiquitous institutional influence of the left: Hanania still fails to explain the sheer uniformity of left-wing cultural dominance.  Competition normally delivers more diversity than we’re getting.  And for that, I stand by my Explanation #5, which I flesh out greater […]\nThe post Deregulate Discrimination appeared first on Econlib.",
+          "link": "https://www.econlib.org/deregulate-discrimination/",
+          "publishedOn": "2021-06-02T15:37:55.000Z",
+          "wordCount": 1503,
+          "title": "Deregulate Discrimination"
+        },
         {
           "id": "https://www.econlib.org/?p=55278",
           "author": "Bryan Caplan",

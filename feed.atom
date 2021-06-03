@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T03:02:17.515Z</updated>
+    <updated>2021-06-03T02:37:42.570Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You Have A Terrible Track Record In Guessing My Motives]]></title>
+        <id>https://astralcodexten.substack.com/p/you-have-a-terrible-track-record</id>
+        <link href="https://astralcodexten.substack.com/p/you-have-a-terrible-track-record"/>
+        <updated>2021-06-03T02:27:15.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rise of the neutral company]]></title>
+        <id>https://graymirror.substack.com/p/rise-of-the-neutral-company</id>
+        <link href="https://graymirror.substack.com/p/rise-of-the-neutral-company"/>
+        <updated>2021-06-02T22:06:01.000Z</updated>
+        <summary type="html"><![CDATA["Politics is the exercise of collective power against human opposition."]]></summary>
+        <author>
+            <name>Curtis Yarvin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deregulate Discrimination]]></title>
+        <id>https://www.econlib.org/?p=55326</id>
+        <link href="https://www.econlib.org/deregulate-discrimination/"/>
+        <updated>2021-06-02T15:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Two months ago, I voiced one big criticism of Richard Hanania’s excellent piece on the curiously ubiquitous institutional influence of the left: Hanania still fails to explain the sheer uniformity of left-wing cultural dominance.  Competition normally delivers more diversity than we’re getting.  And for that, I stand by my Explanation #5, which I flesh out greater […]
+The post Deregulate Discrimination appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links (48)]]></title>
+        <id>https://nintil.com/links-48/</id>
+        <link href="https://nintil.com/links-48/"/>
+        <updated>2021-06-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Policy entrepreneurship at the White House
+Mach 12 airplanes 
+Mach 17 airplanes
+A... unique interview? with Marc Andreessen?
+Recent interview with Peter Thiel
+Gene therapy for elevated LDL cholesterol
+I wrote a while back that "everything sleeps". Scientists looked at a new organism that has no brain (but has neurons), the hydra. It also sleeps.
+Can you tell fake from true paper abstracts? (Via Scott Alexander)
+Why is the Moscow metro so nice given that Soviet buildings are more on the brutalist end (also via Scott)
+Curtis Yarvin on AI risk skepticism (Coincidentally, also my argument: diminishing returns to intelligence + inherent unpredictability of the world; though afaik I've never written about this.)
+Reservoir computing
+Ada Nguyen on not overthinking
+UFO skepticism
+From a social scie…]]></summary>
+        <author>
+            <name>Nintil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three updates]]></title>
         <id>https://www.scottaaronson.com/blog/?p=5536</id>
