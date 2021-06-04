@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T02:37:42.570Z</updated>
+    <updated>2021-06-04T02:01:22.781Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your Book Review: The Collapse Of Complex Societies]]></title>
+        <id>https://astralcodexten.substack.com/p/your-book-review-the-collapse-of</id>
+        <link href="https://astralcodexten.substack.com/p/your-book-review-the-collapse-of"/>
+        <updated>2021-06-03T19:20:19.000Z</updated>
+        <summary type="html"><![CDATA[Finalist #13 in the Book Review Contest]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 2021 newsletter]]></title>
+        <id>https://gwern.substack.com/p/april-2021-newsletter</id>
+        <link href="https://gwern.substack.com/p/april-2021-newsletter"/>
+        <updated>2021-06-03T15:45:24.000Z</updated>
+        <summary type="html"><![CDATA[with links on AI scaling, particular new East Asian record-breaking work & deep reinforcement learning.]]></summary>
+        <author>
+            <name>Gwern Branwen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge, Reality, and Value Book Club Schedule Update]]></title>
+        <id>https://www.econlib.org/?p=55356</id>
+        <link href="https://www.econlib.org/knowledge-reality-and-value-book-club-schedule-update/"/>
+        <updated>2021-06-03T15:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Capla-Con, my annual festival of nerdity, is in Austin this year, June 12-13, and I’m humbled by how many friends are making the trek.  By the power of Steve Kuhn, we’ll be gathering at Dreamland, noon-midnight both days.  All EconLog readers welcome! As a result, I’m tweaking the Book Club schedule for Huemer’s Knowledge, Reality, and […]
+The post <i>Knowledge, Reality, and Value</i> Book Club Schedule Update appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge, Reality, and Value: Huemer’s Response, Part 1]]></title>
+        <id>https://www.econlib.org/?p=55355</id>
+        <link href="https://www.econlib.org/knowledge-reality-and-value-huemers-response-part-1/"/>
+        <updated>2021-06-03T15:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Here’s Mike Huemer’s first set of responses to me and you. About Bryan’s Comments Thanks to Bryan for his fair and helpful comments on part 1. There isn’t much that we disagree about. But here are some thoughts about Bryan’s comments. 1. Philosophical progress: It’s fair to say that philosophy makes slower and less impressive […]
+The post <i>Knowledge, Reality, and Value</i>: Huemer’s Response, Part 1 appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 174.5]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-1745</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-1745"/>
+        <updated>2021-06-03T02:47:47.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You Have A Terrible Track Record In Guessing My Motives]]></title>
         <id>https://astralcodexten.substack.com/p/you-have-a-terrible-track-record</id>

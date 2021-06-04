@@ -211,6 +211,36 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/your-book-review-the-collapse-of",
+          "author": "Scott Alexander",
+          "description": "Finalist #13 in the Book Review Contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-the-collapse-of",
+          "publishedOn": "2021-06-03T19:20:19.000Z",
+          "wordCount": null,
+          "title": "Your Book Review: The Collapse Of Complex Societies",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6265a9ea-3f93-4ee4-b465-85e49419c5c4_730x485.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/open-thread-1745",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-1745",
+          "publishedOn": "2021-06-03T02:47:47.000Z",
+          "wordCount": null,
+          "title": "Open Thread 174.5",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/16878835-f446-4e52-815e-d23f2a2812e0_612x583.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/you-have-a-terrible-track-record",
           "author": "Scott Alexander",
           "description": "...",
@@ -2629,6 +2659,24 @@
       "siteUrl": "https://www.econlib.org",
       "articles": [
         {
+          "id": "https://www.econlib.org/?p=55356",
+          "author": "Bryan Caplan",
+          "description": "Capla-Con, my annual festival of nerdity, is in Austin this year, June 12-13, and I’m humbled by how many friends are making the trek.  By the power of Steve Kuhn, we’ll be gathering at Dreamland, noon-midnight both days.  All EconLog readers welcome! As a result, I’m tweaking the Book Club schedule for Huemer’s Knowledge, Reality, and […]\nThe post <i>Knowledge, Reality, and Value</i> Book Club Schedule Update appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-book-club-schedule-update/",
+          "publishedOn": "2021-06-03T15:29:42.000Z",
+          "wordCount": 424,
+          "title": "Knowledge, Reality, and Value Book Club Schedule Update"
+        },
+        {
+          "id": "https://www.econlib.org/?p=55355",
+          "author": "Bryan Caplan",
+          "description": "Here’s Mike Huemer’s first set of responses to me and you. About Bryan’s Comments Thanks to Bryan for his fair and helpful comments on part 1. There isn’t much that we disagree about. But here are some thoughts about Bryan’s comments. 1. Philosophical progress: It’s fair to say that philosophy makes slower and less impressive […]\nThe post <i>Knowledge, Reality, and Value</i>: Huemer’s Response, Part 1 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-huemers-response-part-1/",
+          "publishedOn": "2021-06-03T15:09:11.000Z",
+          "wordCount": 3495,
+          "title": "Knowledge, Reality, and Value: Huemer’s Response, Part 1"
+        },
+        {
           "id": "https://www.econlib.org/?p=55326",
           "author": "Bryan Caplan",
           "description": "Two months ago, I voiced one big criticism of Richard Hanania’s excellent piece on the curiously ubiquitous institutional influence of the left: Hanania still fails to explain the sheer uniformity of left-wing cultural dominance.  Competition normally delivers more diversity than we’re getting.  And for that, I stand by my Explanation #5, which I flesh out greater […]\nThe post Deregulate Discrimination appeared first on Econlib.",
@@ -2824,6 +2872,21 @@
       "feedUrl": "https://gwern.substack.com/feed/",
       "siteUrl": "https://gwern.substack.com",
       "articles": [
+        {
+          "id": "https://gwern.substack.com/p/april-2021-newsletter",
+          "author": "Gwern Branwen",
+          "description": "with links on AI scaling, particular new East Asian record-breaking work & deep reinforcement learning.",
+          "link": "https://gwern.substack.com/p/april-2021-newsletter",
+          "publishedOn": "2021-06-03T15:45:24.000Z",
+          "wordCount": null,
+          "title": "April 2021 newsletter",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/33773d07-4631-4a6b-91c2-44a2b1082385_1164x702.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
         {
           "id": "https://gwern.substack.com/p/march-2021-gwernnet-newsletter",
           "author": "Gwern Branwen",
