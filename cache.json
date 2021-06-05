@@ -6,6 +6,15 @@
       "siteUrl": "https://applieddivinitystudies.com/atom.xml",
       "articles": [
         {
+          "id": "https://applieddivinitystudies.com/60b-writeup/",
+          "author": null,
+          "description": "<p><em>Launch post and writeup for <a href=\"http://applieddivinitystudies.com/60bchickens\">60B Chickens</a> describing the inputs into and r",
+          "link": "https://applieddivinitystudies.com/60b-writeup/",
+          "publishedOn": "2021-06-04T16:00:00.000Z",
+          "wordCount": 994,
+          "title": "60,000,000,000 Chickens"
+        },
+        {
           "id": "https://applieddivinitystudies.com/longtermism-irony/",
           "author": null,
           "description": "See also: The Irony of “Progress Studies”\nDefined by Will MacAskill for EA Forum, Longtermist is “the view that the most important determinant of the value of our actions today is how those actions affect the very long-run future.”\nThe irony is that this only holds true in the abstract. According to an Open Philanthropy estimate and AI Expert Surveys, there’s a 50% chance of transformative Artificial Intelligence emerging by around 2050. If that happens, basically nothing we do in the meantime will matter, …",
@@ -210,6 +219,21 @@
       "feedUrl": "https://astralcodexten.substack.com/feed/",
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
+        {
+          "id": "https://astralcodexten.substack.com/p/your-book-review-wheres-my-flying",
+          "author": "Scott Alexander",
+          "description": "Finalist #14 in the Book Review Contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-wheres-my-flying",
+          "publishedOn": "2021-06-04T19:39:40.000Z",
+          "wordCount": null,
+          "title": "Your Book Review: Where's My Flying Car?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3754d8a0-8e22-4336-9819-e4a7d8df541e_291x177.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
         {
           "id": "https://astralcodexten.substack.com/p/your-book-review-the-collapse-of",
           "author": "Scott Alexander",
@@ -2187,6 +2211,15 @@
       "feedUrl": "http://www.overcomingbias.com/feed",
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
+        {
+          "id": "https://www.overcomingbias.com/?p=32856",
+          "author": "Robin Hanson",
+          "description": "Status seems pretty central to the UFO phenomena. For example, reports have been filed on well over 100K encounters worldwide so far, but most of the books & movies on the topic focus on the same few cases. These cases … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/ufos-and-status.html",
+          "publishedOn": "2021-06-04T20:30:35.000Z",
+          "wordCount": 1144,
+          "title": "UFOs and Status"
+        },
         {
           "id": "https://www.overcomingbias.com/?p=32855",
           "author": "Robin Hanson",

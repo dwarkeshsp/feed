@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T02:01:22.781Z</updated>
+    <updated>2021-06-05T01:44:59.255Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UFOs and Status]]></title>
+        <id>https://www.overcomingbias.com/?p=32856</id>
+        <link href="http://www.overcomingbias.com/2021/06/ufos-and-status.html"/>
+        <updated>2021-06-04T20:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Status seems pretty central to the UFO phenomena. For example, reports have been filed on well over 100K encounters worldwide so far, but most of the books & movies on the topic focus on the same few cases. These cases … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Book Review: Where's My Flying Car?]]></title>
+        <id>https://astralcodexten.substack.com/p/your-book-review-wheres-my-flying</id>
+        <link href="https://astralcodexten.substack.com/p/your-book-review-wheres-my-flying"/>
+        <updated>2021-06-04T19:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Finalist #14 in the Book Review Contest]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[60,000,000,000 Chickens]]></title>
+        <id>https://applieddivinitystudies.com/60b-writeup/</id>
+        <link href="https://applieddivinitystudies.com/60b-writeup/"/>
+        <updated>2021-06-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><em>Launch post and writeup for <a href="http://applieddivinitystudies.com/60bchickens">60B Chickens</a> describing the inputs into and r]]></summary>
+        <author>
+            <name>Applied Divinity Studies</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your Book Review: The Collapse Of Complex Societies]]></title>
         <id>https://astralcodexten.substack.com/p/your-book-review-the-collapse-of</id>
