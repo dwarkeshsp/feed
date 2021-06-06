@@ -975,6 +975,15 @@
       "siteUrl": "https://fakenous.net",
       "articles": [
         {
+          "id": "https://fakenous.net/?p=2359",
+          "author": "Michael Huemer",
+          "description": "Over on Econlog, Bryan Caplan started a book club discussion on my recent book, Knowledge, Reality, and Value: https://www.econlib.org/knowledge-reality-and-value-book-club-part-1/. Following are my responses to Bryan’s comments and also to some comments from the comment thread on his blog. (The responses below presuppose knowledge of what Bryan wrote at the page linked above.) About Bryan’s Comments … Continue reading Book Discussion: Knowledge, Reality, & Value",
+          "link": "https://fakenous.net/?p=2359",
+          "publishedOn": "2021-06-05T15:00:00.000Z",
+          "wordCount": 3207,
+          "title": "Book Discussion: Knowledge, Reality, & Value"
+        },
+        {
           "id": "https://fakenous.net/?p=2326",
           "author": "Michael Huemer",
           "description": "1. An Unusual Kind of Speech Suppression Someone invited me to write a paper about free speech. Most of what I have to say on the subject is old news: I basically agree with John Stuart Mill, and I don’t understand why everyone else doesn’t agree. Principles of free speech used to be part of … Continue reading The Costs of Suppressing Speech",
