@@ -220,6 +220,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/open-thread-175",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-175",
+          "publishedOn": "2021-06-06T21:46:17.000Z",
+          "wordCount": null,
+          "title": "Open Thread 175",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9dd82193-bc11-4a4d-828f-1745bedf30a2_496x341.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/your-book-review-wheres-my-flying",
           "author": "Scott Alexander",
           "description": "Finalist #14 in the Book Review Contest",
