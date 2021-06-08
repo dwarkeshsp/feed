@@ -220,6 +220,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the",
+          "publishedOn": "2021-06-07T17:32:58.000Z",
+          "wordCount": null,
+          "title": "Instead Of Pledging To Change The World, Pledge To Change Prediction Markets",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1f3330f5-1e46-4f7e-8d32-6ad475055490_800x533.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/open-thread-175",
           "author": "Scott Alexander",
           "description": "...",
@@ -2236,6 +2251,15 @@
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32859",
+          "author": "Robin Hanson",
+          "description": "Since before I was born, elites have maintained a severe taboo against taking seriously the hypothesis that UFOs are aliens. As I’ve discussed, elite-aspiring UFO researchers have themselves embraced this taboo. They seem to figure that if we look carefully … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/skirting-ufo-taboos.html",
+          "publishedOn": "2021-06-07T13:10:15.000Z",
+          "wordCount": 1239,
+          "title": "Skirting UFO Taboos"
+        },
+        {
           "id": "https://www.overcomingbias.com/?p=32856",
           "author": "Robin Hanson",
           "description": "Status seems pretty central to the UFO phenomena. For example, reports have been filed on well over 100K encounters worldwide so far, but most of the books & movies on the topic focus on the same few cases. These cases … Continue reading →",
@@ -2715,6 +2739,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55343",
+          "author": "Bryan Caplan",
+          "description": "Here are my reactions to Part 1 of the book club for Mike Huemer’s new book: Kevin DC: Thoughts/comments directed primarily towards Bryan: Compared to other academic disciplines, philosophers really do spend a lot of time rehashing 2000-year-old debates. I suspect this is at least in part due to the fact that of all the […]\nThe post <i>Knowledge, Reality, and Value Book Club Replies</i>, Part 1 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-book-club-replies-part-1/",
+          "publishedOn": "2021-06-07T14:16:28.000Z",
+          "wordCount": 1770,
+          "title": "Knowledge, Reality, and Value Book Club Replies, Part 1"
+        },
         {
           "id": "https://www.econlib.org/?p=55356",
           "author": "Bryan Caplan",
