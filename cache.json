@@ -220,6 +220,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/i-will-not-eat-the-bugs",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/i-will-not-eat-the-bugs",
+          "publishedOn": "2021-06-09T00:18:06.000Z",
+          "wordCount": null,
+          "title": "I Will Not Eat The Bugs",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/98a924cb-702f-475a-8f57-e9c47f1f53b8_1128x585.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the",
           "author": "Scott Alexander",
           "description": "...",
@@ -2251,6 +2266,15 @@
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32861",
+          "author": "Robin Hanson",
+          "description": "A careful analysis of UFOs should consider lots of data, and consider it in much detail. I oft hear skeptics seek shortcuts, such as by declaring all testimony invalid, or insisting that only some long conjunction of encounter features could be … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/on-ufo-as-aliens-priors.html",
+          "publishedOn": "2021-06-09T00:30:25.000Z",
+          "wordCount": 1446,
+          "title": "On UFOs-As-Aliens Priors"
+        },
+        {
           "id": "https://www.overcomingbias.com/?p=32859",
           "author": "Robin Hanson",
           "description": "Since before I was born, elites have maintained a severe taboo against taking seriously the hypothesis that UFOs are aliens. As I’ve discussed, elite-aspiring UFO researchers have themselves embraced this taboo. They seem to figure that if we look carefully … Continue reading →",
@@ -2740,6 +2764,15 @@
       "siteUrl": "https://www.econlib.org",
       "articles": [
         {
+          "id": "https://www.econlib.org/?p=55409",
+          "author": "Bryan Caplan",
+          "description": "The Book Club on Mike Huemer’s Knowledge, Reality, and Value continues.  Today, I cover Part 2 of the book.  To repeat, though I’m a huge fan of the book, I’m focusing almost entirely on disagreements. 1. One of Huemer’s preferred responses to the classic Brain-in-a-Vat (BIV) scenario is that – especially compared to the Real World […]\nThe post <i>Knowledge, Reality, and Value</i> Book Club, Part 2 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-book-club-part-2/",
+          "publishedOn": "2021-06-08T20:46:07.000Z",
+          "wordCount": 929,
+          "title": "Knowledge, Reality, and Value Book Club, Part 2"
+        },
+        {
           "id": "https://www.econlib.org/?p=55343",
           "author": "Bryan Caplan",
           "description": "Here are my reactions to Part 1 of the book club for Mike Huemer’s new book: Kevin DC: Thoughts/comments directed primarily towards Bryan: Compared to other academic disciplines, philosophers really do spend a lot of time rehashing 2000-year-old debates. I suspect this is at least in part due to the fact that of all the […]\nThe post <i>Knowledge, Reality, and Value Book Club Replies</i>, Part 1 appeared first on Econlib.",
@@ -3092,6 +3125,15 @@
       "feedUrl": "http://scottaaronson.com/blog/?feed=rss2",
       "siteUrl": "https://www.scottaaronson.com/blog",
       "articles": [
+        {
+          "id": "https://www.scottaaronson.com/blog/?p=5539",
+          "author": "Scott",
+          "description": "I now have a feature article up at Quanta magazine, entitled “What Makes Quantum Computing So Hard To Explain?” I.e., why do journalists, investors, etc. so consistently get central points wrong, even after the subject has been in public consciousness for more than 25 years? Perhaps unsurprisingly, I found it hard to discuss that meta-level […]",
+          "link": "https://www.scottaaronson.com/blog/?p=5539",
+          "publishedOn": "2021-06-08T20:29:24.000Z",
+          "wordCount": 626,
+          "title": "More quantum computing popularization!"
+        },
         {
           "id": "https://www.scottaaronson.com/blog/?p=5536",
           "author": "Scott",
