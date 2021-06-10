@@ -220,6 +220,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs",
+          "publishedOn": "2021-06-09T19:09:32.000Z",
+          "wordCount": null,
+          "title": "Drug Users Use A Lot Of Drugs",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a1bc8403-47ad-41ae-af02-19e4fca7e206_2000x1334.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/i-will-not-eat-the-bugs",
           "author": "Scott Alexander",
           "description": "...",
@@ -740,8 +755,31 @@
     {
       "title": "The Scholar's Stage",
       "feedUrl": "http://scholars-stage.blogspot.com/feeds/posts/default",
-      "siteUrl": "https://scholars-stage.blogspot.com/",
+      "siteUrl": "https://scholars-stage.org",
       "articles": [
+        {
+          "id": "https://scholars-stage.org/?p=2165",
+          "author": "T. Greer",
+          "description": "You are looking at the new-and-improved Scholar’s Stage. It has many features the old blogspot lacked. Some of these are available only to my Patreon supporters; others are available to everybody. [...]",
+          "link": "https://scholars-stage.org/welcome-to-the-new-scholars-stage/",
+          "publishedOn": "2021-06-09T13:30:00.000Z",
+          "wordCount": 1775,
+          "title": "Welcome to the New Scholar’s Stage"
+        },
+        {
+          "id": "https://scholars-stage.org/?p=2114",
+          "author": "T. Greer",
+          "description": "In today’s episode I discuss Captain Wayne Hughes (USN) book Fleet Tactics and Naval Operations with Lieutenant Colonel Nathaniel Lauterbach. We explore why Marine Corps officers need to think more like sailors. We discuss why  many so called “principles of war” and tactical maxims invented by its soldiers do not make sense in the world of the sailor, why naval warfare is inherently a process of attrition, why the offense has the stronger hand in naval conflict, and how these tactical dynamics might lead to strategic instability in a competition with China.",
+          "link": "https://scholars-stage.org/podcast-episode-1-fleet-tactics-with-lt-col-nate-lauterbach/",
+          "publishedOn": "2021-06-05T18:00:29.000Z",
+          "wordCount": 845,
+          "title": "Podcast Episode 1: Fleet Tactics with Lt. Col. Nate Lauterbach",
+          "enclosure": {
+            "url": "https://scholars-stage.org/wp-content/uploads/2021/06/fleettactics_final-1.mp3",
+            "length": "50978365",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://scholars-stage.blogspot.com/2021/05/how-i-taught-iliad-to-chinese-teenagers.html",
           "author": null,
@@ -749,6 +787,15 @@
           "link": "https://scholars-stage.blogspot.com/2021/05/how-i-taught-iliad-to-chinese-teenagers.html",
           "publishedOn": "2021-05-31T02:54:00.035Z",
           "wordCount": 12356,
+          "title": "How I Taught The Iliad to Chinese Teenagers"
+        },
+        {
+          "id": "https://scholars-stage.org/how-i-taught-the-iliad-to-chinese-teenagers/",
+          "author": "T. Greer",
+          "description": "Several years ago I had the chance to lead two seminars with a group of high-performing Chinese high school seniors. Each seminar had between 20-35 kids; each of these students was a graduating senior enrolled in the international department of a prestigious high school in Beijing. The purpose of these seminars was twofold.",
+          "link": "https://scholars-stage.org/how-i-taught-the-iliad-to-chinese-teenagers/",
+          "publishedOn": "2021-05-30T19:54:00.000Z",
+          "wordCount": 12178,
           "title": "How I Taught The Iliad to Chinese Teenagers"
         },
         {
@@ -761,12 +808,30 @@
           "title": "The Magic in Modernity"
         },
         {
+          "id": "https://scholars-stage.org/the-magic-in-modernity/",
+          "author": "T. Greer",
+          "description": "It is something of a commonplace that the mix of capitalist exchange and technological advance we call ‘modernity’ has stripped the world of its luster. Once we dwelt in fairy glens and dwarven vales, greeting Helios as he made his way across the sky",
+          "link": "https://scholars-stage.org/the-magic-in-modernity/",
+          "publishedOn": "2021-05-26T07:23:00.000Z",
+          "wordCount": 2563,
+          "title": "The Magic in Modernity"
+        },
+        {
           "id": "https://scholars-stage.blogspot.com/2021/05/further-notes-on-new-right.html",
           "author": null,
           "description": "Last month’s essay “The Problem of the New Right” caused a small stir. Formal writeups have been authored by Ross Douthat, Eric Levitz, Jordan Bloom, Lars Schonander, Peter Spilakos, and Aaron Ren. On Twitter there was even more chatter about the essay, much of it critical. I have found the critiques of my piece, especially on Twitter, to be somewhat contradictory. Some fault me for being of the",
           "link": "https://scholars-stage.blogspot.com/2021/05/further-notes-on-new-right.html",
           "publishedOn": "2021-05-25T03:43:00.036Z",
           "wordCount": 7364,
+          "title": "Further Notes on the New Right"
+        },
+        {
+          "id": "https://scholars-stage.org/further-notes-on-the-new-right/",
+          "author": "T. Greer",
+          "description": "Last month’s essay “The Problem of the New Right” caused a small stir. Formal writeups have been authored by Ross Douthat, Eric Levitz, Jordan Bloom, Lars Schonander, Peter Spilakos, and Aaron Ren. On Twitter there was even more chatter about the essay, much of it critical. I have found the critiques of my piece [...]",
+          "link": "https://scholars-stage.org/further-notes-on-the-new-right/",
+          "publishedOn": "2021-05-24T20:43:00.000Z",
+          "wordCount": 10858,
           "title": "Further Notes on the New Right"
         },
         {
@@ -779,6 +844,15 @@
           "title": "The Navy's Knives Must Come Out"
         },
         {
+          "id": "https://scholars-stage.org/the-navys-knives-must-come-out/",
+          "author": "T. Greer",
+          "description": "A few weeks ago Blake Herzinger kicked up a bit of a storm when he published an essay titled “Give the U.S. Navy the Army’s Money” in Foreign Policy.  Herzinger's argument is not complicated [...]",
+          "link": "https://scholars-stage.org/the-navys-knives-must-come-out/",
+          "publishedOn": "2021-05-12T11:47:00.000Z",
+          "wordCount": 3055,
+          "title": "The Navy’s Knives Must Come Out"
+        },
+        {
           "id": "https://scholars-stage.blogspot.com/2021/05/notes-from-all-over-aprilmay-2021.html",
           "author": null,
           "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
@@ -788,12 +862,30 @@
           "title": "Notes From All Over - April/May 2021"
         },
         {
+          "id": "https://scholars-stage.org/notes-from-all-over-april-may-2021/",
+          "author": "T. Greer",
+          "description": "My newest “Notes From All Over“—a collection of the best essays, news items, blog posts, podcast episodes, and scientific articles that I read this month, and recommend you read as well—is now posted to Patreon. This is a recurring monthly feature in the future, though as its publication a week into May suggests, I was […]",
+          "link": "https://scholars-stage.org/notes-from-all-over-april-may-2021/",
+          "publishedOn": "2021-05-11T16:18:00.000Z",
+          "wordCount": 612,
+          "title": "Notes From All Over – April/May 2021"
+        },
+        {
           "id": "https://scholars-stage.blogspot.com/2021/04/the-problem-of-new-right.html",
           "author": null,
           "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
           "link": "https://scholars-stage.blogspot.com/2021/04/the-problem-of-new-right.html",
           "publishedOn": "2021-04-24T22:18:00.037Z",
           "wordCount": 12664,
+          "title": "The Problem of the New Right"
+        },
+        {
+          "id": "https://scholars-stage.org/the-problem-of-the-new-right/",
+          "author": "T. Greer",
+          "description": "In the world of conservative thought, the intellectual energy lies with the New Right. The New Right can be found in the society of Washington wonks, Silicon Valley dissidents, New York writers, and all manner of GOP politicos.[1] Many served in the Trump administration at one level or another; all are interested in taking the […]",
+          "link": "https://scholars-stage.org/the-problem-of-the-new-right/",
+          "publishedOn": "2021-04-24T15:18:00.000Z",
+          "wordCount": 12507,
           "title": "The Problem of the New Right"
         },
         {
@@ -806,12 +898,30 @@
           "title": "For God and Progress: Notes On Training the Medical Mind"
         },
         {
+          "id": "https://scholars-stage.org/for-god-and-progress-notes-on-training-the-medical-mind/",
+          "author": "T. Greer",
+          "description": "William Osler, teaching at the bedside. Understanding changing perceptions of “great works”— what books are included in a canon at a given moment in history, why certain works make the cut while others fall to the wayside, and tracking down the individuals responsible for these decisions—is a hobby of mine. I have written about it […]",
+          "link": "https://scholars-stage.org/for-god-and-progress-notes-on-training-the-medical-mind/",
+          "publishedOn": "2021-04-12T08:10:00.000Z",
+          "wordCount": 6516,
+          "title": "For God and Progress: Notes On Training the Medical Mind"
+        },
+        {
           "id": "https://scholars-stage.blogspot.com/2021/04/welcome-to-decade-of-concern.html",
           "author": null,
           "description": "A blog about  history, strategy, geopolitics, and the intersections of governance, ecology, demographics, and culture.",
           "link": "https://scholars-stage.blogspot.com/2021/04/welcome-to-decade-of-concern.html",
           "publishedOn": "2021-04-01T09:16:00.013Z",
           "wordCount": 10658,
+          "title": "Welcome to the Decade of Concern"
+        },
+        {
+          "id": "https://scholars-stage.org/welcome-to-the-decade-of-concern/",
+          "author": "T. Greer",
+          "description": "We’re looking at that big bow wave and wondering how the heck we’re going to pay for it, and probably thanking our stars we won’t be here to have to answer the question. — Brian McKeon, Deputy Under-Secretary of Defense for Policy [2016]    The most dangerous concern is [the use] of military force against […]",
+          "link": "https://scholars-stage.org/welcome-to-the-decade-of-concern/",
+          "publishedOn": "2021-04-01T02:16:00.000Z",
+          "wordCount": 10435,
           "title": "Welcome to the Decade of Concern"
         },
         {
@@ -2763,6 +2873,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55281",
+          "author": "Bryan Caplan",
+          "description": "Reader Joe Munson sent me this thoughtful message.  Reprinted with his permission. Dear Bryan, It occurred to me the other day that many high schools and even colleges will basically waive certain subjects for you if you have even moderate learning disabilities (or can get a psychologist to say you do). Foreign languages, gym, even […]\nThe post Learning Disability Accommodation and Signaling appeared first on Econlib.",
+          "link": "https://www.econlib.org/learning-disability-accommodation-and-signaling/",
+          "publishedOn": "2021-06-09T15:48:57.000Z",
+          "wordCount": 725,
+          "title": "Learning Disability Accommodation and Signaling"
+        },
         {
           "id": "https://www.econlib.org/?p=55409",
           "author": "Bryan Caplan",
