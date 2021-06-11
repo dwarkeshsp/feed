@@ -220,6 +220,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/your-book-review-down-and-out-in",
+          "author": "Scott Alexander",
+          "description": "Finalist #15 in the Book Review Contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-down-and-out-in",
+          "publishedOn": "2021-06-10T20:11:42.000Z",
+          "wordCount": null,
+          "title": "Your Book Review: Down And Out In Paris And London",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd824994c-1e24-4efd-a015-c86e9472c0ac_1014x1428.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs",
           "author": "Scott Alexander",
           "description": "...",
@@ -2183,6 +2198,21 @@
       "siteUrl": "https://douthat.substack.com",
       "articles": [
         {
+          "id": "https://douthat.substack.com/p/decadence-and-andreessens-dilemma",
+          "author": null,
+          "description": "If we need to embrace a culture of building, does it matter if we do it in reality?",
+          "link": "https://douthat.substack.com/p/decadence-and-andreessens-dilemma",
+          "publishedOn": "2021-06-10T14:30:45.000Z",
+          "wordCount": null,
+          "title": "Decadence and Andreessen's Dilemma",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bfcf0ec-23ec-4244-b098-ca1892fb6f3e_1280x720.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://douthat.substack.com/p/influential-intellectuals-revisited",
           "author": null,
           "description": "Important thinkers of the early 21st century, the bonus round.",
@@ -3244,6 +3274,15 @@
       "feedUrl": "http://scottaaronson.com/blog/?feed=rss2",
       "siteUrl": "https://www.scottaaronson.com/blog",
       "articles": [
+        {
+          "id": "https://www.scottaaronson.com/blog/?p=5542",
+          "author": "Scott",
+          "description": "The other night Dana and I watched “The Internet’s Own Boy,” the 2014 documentary about the life and work of Aaron Swartz, which I’d somehow missed when it came out. Swartz, for anyone who doesn’t remember, was the child prodigy who helped create RSS and Reddit, who then became a campaigner for an open Internet, […]",
+          "link": "https://www.scottaaronson.com/blog/?p=5542",
+          "publishedOn": "2021-06-10T17:38:24.000Z",
+          "wordCount": 5441,
+          "title": "On Guilt"
+        },
         {
           "id": "https://www.scottaaronson.com/blog/?p=5539",
           "author": "Scott",
