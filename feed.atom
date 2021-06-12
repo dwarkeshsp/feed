@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T01:01:42.122Z</updated>
+    <updated>2021-06-12T00:56:48.526Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Fedcoin experiment]]></title>
+        <id>https://graymirror.substack.com/p/the-fedcoin-experiment</id>
+        <link href="https://graymirror.substack.com/p/the-fedcoin-experiment"/>
+        <updated>2021-06-12T00:45:28.000Z</updated>
+        <summary type="html"><![CDATA["If there still are cows."]]></summary>
+        <author>
+            <name>Curtis Yarvin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Book Review: How Children Fail]]></title>
+        <id>https://astralcodexten.substack.com/p/your-book-review-how-children-fail</id>
+        <link href="https://astralcodexten.substack.com/p/your-book-review-how-children-fail"/>
+        <updated>2021-06-11T23:19:21.000Z</updated>
+        <summary type="html"><![CDATA[Finalist #16 in the Book Review Contest]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 175.5]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-1755</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-1755"/>
+        <updated>2021-06-11T22:14:25.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 2021 Gwern.net Newsletter]]></title>
+        <id>https://gwern.substack.com/p/may-2021-gwernnet-newsletter</id>
+        <link href="https://gwern.substack.com/p/may-2021-gwernnet-newsletter"/>
+        <updated>2021-06-11T14:16:22.000Z</updated>
+        <summary type="html"><![CDATA[links on AI hardware, diffusion models, optogenetics, brain scanning.]]></summary>
+        <author>
+            <name>Gwern Branwen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your Book Review: Down And Out In Paris And London]]></title>
         <id>https://astralcodexten.substack.com/p/your-book-review-down-and-out-in</id>

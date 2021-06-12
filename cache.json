@@ -220,6 +220,36 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/your-book-review-how-children-fail",
+          "author": "Scott Alexander",
+          "description": "Finalist #16 in the Book Review Contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-how-children-fail",
+          "publishedOn": "2021-06-11T23:19:21.000Z",
+          "wordCount": null,
+          "title": "Your Book Review: How Children Fail",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6b1035f3-55b2-4552-aa2f-946ff465e3a0_500x333.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/open-thread-1755",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-1755",
+          "publishedOn": "2021-06-11T22:14:25.000Z",
+          "wordCount": null,
+          "title": "Open Thread 175.5",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/67b4afea-2f85-47d8-b32f-61238c69498e_612x583.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/your-book-review-down-and-out-in",
           "author": "Scott Alexander",
           "description": "Finalist #15 in the Book Review Contest",
@@ -1963,6 +1993,21 @@
       "siteUrl": "https://graymirror.substack.com",
       "articles": [
         {
+          "id": "https://graymirror.substack.com/p/the-fedcoin-experiment",
+          "author": "Curtis Yarvin",
+          "description": "\"If there still are cows.\"",
+          "link": "https://graymirror.substack.com/p/the-fedcoin-experiment",
+          "publishedOn": "2021-06-12T00:45:28.000Z",
+          "wordCount": null,
+          "title": "The Fedcoin experiment",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F286b61b5-9b22-4a49-9650-694d6f36a10b_310x310.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://graymirror.substack.com/p/rise-of-the-neutral-company",
           "author": "Curtis Yarvin",
           "description": "\"Politics is the exercise of collective power against human opposition.\"",
@@ -3144,6 +3189,21 @@
       "feedUrl": "https://gwern.substack.com/feed/",
       "siteUrl": "https://gwern.substack.com",
       "articles": [
+        {
+          "id": "https://gwern.substack.com/p/may-2021-gwernnet-newsletter",
+          "author": "Gwern Branwen",
+          "description": "links on AI hardware, diffusion models, optogenetics, brain scanning.",
+          "link": "https://gwern.substack.com/p/may-2021-gwernnet-newsletter",
+          "publishedOn": "2021-06-11T14:16:22.000Z",
+          "wordCount": null,
+          "title": "May 2021 Gwern.net Newsletter",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5860611c-2de0-45a7-99a0-dc1b248b0199_1280x1280.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
         {
           "id": "https://gwern.substack.com/p/april-2021-newsletter",
           "author": "Gwern Branwen",
