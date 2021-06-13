@@ -1175,6 +1175,15 @@
       "siteUrl": "https://fakenous.net",
       "articles": [
         {
+          "id": "https://fakenous.net/?p=2365",
+          "author": "Michael Huemer",
+          "description": "TL;DR: There are probably aliens elsewhere in the universe. But the UFO’s we’ve heard about lately are not them. Instead, what we’re seeing is ordinary phenomena, treated irresponsibly and incompetently by the news media. 1. Is there life elsewhere in the universe? The Drake Equation is supposed to help us estimate the number of civilizations … Continue reading There Are Aliens, but Probably Not Here",
+          "link": "https://fakenous.net/?p=2365",
+          "publishedOn": "2021-06-12T15:00:00.000Z",
+          "wordCount": 3515,
+          "title": "There Are Aliens, but Probably Not Here"
+        },
+        {
           "id": "https://fakenous.net/?p=2359",
           "author": "Michael Huemer",
           "description": "Over on Econlog, Bryan Caplan started a book club discussion on my recent book, Knowledge, Reality, and Value: https://www.econlib.org/knowledge-reality-and-value-book-club-part-1/. Following are my responses to Bryan’s comments and also to some comments from the comment thread on his blog. (The responses below presuppose knowledge of what Bryan wrote at the page linked above.) About Bryan’s Comments … Continue reading Book Discussion: Knowledge, Reality, & Value",
@@ -2450,6 +2459,24 @@
       "feedUrl": "http://www.overcomingbias.com/feed",
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
+        {
+          "id": "https://www.overcomingbias.com/?p=32866",
+          "author": "Robin Hanson",
+          "description": "I’ve been teaching for over two decades, but haven’t yet posted much on my theoretical view of school. Talking recently to an entering education Ph.D. student has inspired me to fill that gap. The obvious usual purpose for school is … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/how-school-goes-wrong.html",
+          "publishedOn": "2021-06-13T00:00:34.000Z",
+          "wordCount": 1464,
+          "title": "How School Goes Wrong"
+        },
+        {
+          "id": "https://www.overcomingbias.com/?p=32863",
+          "author": "Robin Hanson",
+          "description": "When presented with descriptions of how most citizens of Nazi Germany didn’t resist or oppose the regime much, most people claim they would have done different. Which of course is pretty unlikely for most of them. But there’s an obvious … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/protecting-hypocritical-idealism.html",
+          "publishedOn": "2021-06-12T15:20:30.000Z",
+          "wordCount": 595,
+          "title": "Protecting Hypocritical Idealism"
+        },
         {
           "id": "https://www.overcomingbias.com/?p=32861",
           "author": "Robin Hanson",

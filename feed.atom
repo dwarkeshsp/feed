@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T00:56:48.526Z</updated>
+    <updated>2021-06-13T01:03:22.678Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How School Goes Wrong]]></title>
+        <id>https://www.overcomingbias.com/?p=32866</id>
+        <link href="http://www.overcomingbias.com/2021/06/how-school-goes-wrong.html"/>
+        <updated>2021-06-13T00:00:34.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been teaching for over two decades, but haven’t yet posted much on my theoretical view of school. Talking recently to an entering education Ph.D. student has inspired me to fill that gap. The obvious usual purpose for school is … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protecting Hypocritical Idealism]]></title>
+        <id>https://www.overcomingbias.com/?p=32863</id>
+        <link href="http://www.overcomingbias.com/2021/06/protecting-hypocritical-idealism.html"/>
+        <updated>2021-06-12T15:20:30.000Z</updated>
+        <summary type="html"><![CDATA[When presented with descriptions of how most citizens of Nazi Germany didn’t resist or oppose the regime much, most people claim they would have done different. Which of course is pretty unlikely for most of them. But there’s an obvious … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There Are Aliens, but Probably Not Here]]></title>
+        <id>https://fakenous.net/?p=2365</id>
+        <link href="https://fakenous.net/?p=2365"/>
+        <updated>2021-06-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: There are probably aliens elsewhere in the universe. But the UFO’s we’ve heard about lately are not them. Instead, what we’re seeing is ordinary phenomena, treated irresponsibly and incompetently by the news media. 1. Is there life elsewhere in the universe? The Drake Equation is supposed to help us estimate the number of civilizations … Continue reading There Are Aliens, but Probably Not Here]]></summary>
+        <author>
+            <name>Michael Huemer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Fedcoin experiment]]></title>
         <id>https://graymirror.substack.com/p/the-fedcoin-experiment</id>
