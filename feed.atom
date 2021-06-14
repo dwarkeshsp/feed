@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T01:03:22.678Z</updated>
+    <updated>2021-06-14T00:59:50.388Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 176]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-176</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-176"/>
+        <updated>2021-06-13T07:30:02.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How School Goes Wrong]]></title>
         <id>https://www.overcomingbias.com/?p=32866</id>

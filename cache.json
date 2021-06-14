@@ -220,6 +220,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/open-thread-176",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-176",
+          "publishedOn": "2021-06-13T07:30:02.000Z",
+          "wordCount": null,
+          "title": "Open Thread 176",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7589c5da-9d55-4dc2-94f4-b3362f054eb6_496x341.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/your-book-review-how-children-fail",
           "author": "Scott Alexander",
           "description": "Finalist #16 in the Book Review Contest",
