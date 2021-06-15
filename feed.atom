@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T00:59:50.388Z</updated>
+    <updated>2021-06-15T01:05:00.486Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Contra Smith On Jewish Selective Immigration]]></title>
+        <id>https://astralcodexten.substack.com/p/contra-smith-on-jewish-selective</id>
+        <link href="https://astralcodexten.substack.com/p/contra-smith-on-jewish-selective"/>
+        <updated>2021-06-14T22:36:56.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge, Reality, and Value: Huemer’s Response, Part 2]]></title>
+        <id>https://www.econlib.org/?p=55477</id>
+        <link href="https://www.econlib.org/knowledge-reality-and-value-huemers-response-part-2/"/>
+        <updated>2021-06-14T22:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Here’s Mike Huemer’s second set of responses to me and you. About Bryan’s Comments Thanks again to Bryan, and the readers who commented on his post, for their thoughts about Part 2. This is all cool and interesting. I’ll just comment on a few questions and points of disagreement. 1. Real World Hypothesis (RWH) vs. […]
+The post <i>Knowledge, Reality, and Value</i>: Huemer’s Response, Part 2 appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would UFO Aliens Be Our Gods?]]></title>
+        <id>https://www.overcomingbias.com/?p=32868</id>
+        <link href="http://www.overcomingbias.com/2021/06/would-ufo-aliens-be-our-gods.html"/>
+        <updated>2021-06-14T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[In ancient societies, leaders and elites gained legitimacy in the minds of the masses via impressive displays of clothes, music, furniture, food, buildings, parades, etc., which made more plausible their claims to actually be a higher class of creatures. Religions … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Pension Apocalypse]]></title>
+        <id>https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/</id>
+        <link href="https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/"/>
+        <updated>2021-06-14T12:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Demographic Inevitability]]></summary>
+        <author>
+            <name>Fantastic Anachronism</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Thread 176]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-176</id>

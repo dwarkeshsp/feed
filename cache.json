@@ -220,6 +220,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/contra-smith-on-jewish-selective",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/contra-smith-on-jewish-selective",
+          "publishedOn": "2021-06-14T22:36:56.000Z",
+          "wordCount": null,
+          "title": "Contra Smith On Jewish Selective Immigration",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/745b2968-a512-4b5b-910e-005eaecc73a0_1145x963.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/open-thread-176",
           "author": "Scott Alexander",
           "description": "...",
@@ -1618,6 +1633,15 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/",
+          "author": null,
+          "description": "Demographic Inevitability",
+          "link": "https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/",
+          "publishedOn": "2021-06-14T12:57:02.000Z",
+          "wordCount": 3582,
+          "title": "On the Pension Apocalypse"
+        },
+        {
           "id": "https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/",
           "author": null,
           "description": "<div type=\"html\"/>",
@@ -2475,6 +2499,15 @@
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32868",
+          "author": "Robin Hanson",
+          "description": "In ancient societies, leaders and elites gained legitimacy in the minds of the masses via impressive displays of clothes, music, furniture, food, buildings, parades, etc., which made more plausible their claims to actually be a higher class of creatures. Religions … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/would-ufo-aliens-be-our-gods.html",
+          "publishedOn": "2021-06-14T19:00:03.000Z",
+          "wordCount": 1484,
+          "title": "Would UFO Aliens Be Our Gods?"
+        },
+        {
           "id": "https://www.overcomingbias.com/?p=32866",
           "author": "Robin Hanson",
           "description": "I’ve been teaching for over two decades, but haven’t yet posted much on my theoretical view of school. Talking recently to an entering education Ph.D. student has inspired me to fill that gap. The obvious usual purpose for school is … Continue reading →",
@@ -2990,6 +3023,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55477",
+          "author": "Bryan Caplan",
+          "description": "Here’s Mike Huemer’s second set of responses to me and you. About Bryan’s Comments Thanks again to Bryan, and the readers who commented on his post, for their thoughts about Part 2. This is all cool and interesting. I’ll just comment on a few questions and points of disagreement. 1. Real World Hypothesis (RWH) vs. […]\nThe post <i>Knowledge, Reality, and Value</i>: Huemer’s Response, Part 2 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-huemers-response-part-2/",
+          "publishedOn": "2021-06-14T22:17:49.000Z",
+          "wordCount": 2754,
+          "title": "Knowledge, Reality, and Value: Huemer’s Response, Part 2"
+        },
         {
           "id": "https://www.econlib.org/?p=55281",
           "author": "Bryan Caplan",
