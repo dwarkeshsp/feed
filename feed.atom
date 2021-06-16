@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T01:05:00.486Z</updated>
+    <updated>2021-06-16T01:01:26.577Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Apologies of Repeal]]></title>
+        <id>https://www.econlib.org/?p=55292</id>
+        <link href="https://www.econlib.org/the-apologies-of-repeal/"/>
+        <updated>2021-06-15T15:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Whenever government repeals a bad policy, my first reaction is amazement. Then gratitude. Swiftly followed by indignation, because no matter how bad the repealed policy was, the government almost never apologizes. Homely example: The FAA used to ban the use of any electronic device during takeoff and landing.  When the rule finally went away, I […]
+The post The Apologies of Repeal appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Cerebralab On Nutt/Carhart-Harris On Serotonin]]></title>
+        <id>https://astralcodexten.substack.com/p/on-cerebralab-on-nuttcarhart-harris</id>
+        <link href="https://astralcodexten.substack.com/p/on-cerebralab-on-nuttcarhart-harris"/>
+        <updated>2021-06-15T14:53:21.000Z</updated>
+        <summary type="html"><![CDATA[P(A|B) = [P(A)*P(B|A)]/P(B), all the rest is commentary.]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contra Smith On Jewish Selective Immigration]]></title>
         <id>https://astralcodexten.substack.com/p/contra-smith-on-jewish-selective</id>
