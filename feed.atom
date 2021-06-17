@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T01:01:26.577Z</updated>
+    <updated>2021-06-17T00:59:25.113Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peer Review: Lockdown Effectiveness]]></title>
+        <id>https://astralcodexten.substack.com/p/peer-review-lockdown-effectiveness</id>
+        <link href="https://astralcodexten.substack.com/p/peer-review-lockdown-effectiveness"/>
+        <updated>2021-06-16T19:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Apparently you're paying me to be my proofreaders]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 176.5]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-1765</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-1765"/>
+        <updated>2021-06-16T19:19:28.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Historians, Slaves of Fashion?]]></title>
+        <id>https://scholars-stage.org/?p=2246</id>
+        <link href="https://scholars-stage.org/historians-the-slaves-of-fashion/"/>
+        <updated>2021-06-16T17:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Gullotta's Age of Jackson podcast is one of the few I listen to regularly.  In 2021 I don't have a lot of spare bandwidth to keep track of developments in my favorite field of American history, but I do listen to his interviews with new authors in the field to stay somewhat up to date. Listening to a book talk is not the same thing as reading a book, of course, but it is better than slowly having years of labor slip away from memory with disuse.]]></summary>
+        <author>
+            <name>T. Greer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alien Bet]]></title>
+        <id>https://www.econlib.org/?p=55422</id>
+        <link href="https://www.econlib.org/alien-bet/"/>
+        <updated>2021-06-16T15:16:31.000Z</updated>
+        <summary type="html"><![CDATA[Robin Hanson and I disagree about alien visitation.  While he doubts that aliens are visiting Earth right now, I’m virtually sure that they aren’t.  As a result, we’ve made a bet.  The terms: 1. Robin pre-pays me $10. 2. If I become convinced that aliens have visited the Earth during our lifetimes, I pay Robin […]
+The post Alien Bet appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Apologies of Repeal]]></title>
         <id>https://www.econlib.org/?p=55292</id>

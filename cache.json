@@ -220,6 +220,36 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/peer-review-lockdown-effectiveness",
+          "author": "Scott Alexander",
+          "description": "Apparently you're paying me to be my proofreaders",
+          "link": "https://astralcodexten.substack.com/p/peer-review-lockdown-effectiveness",
+          "publishedOn": "2021-06-16T19:30:57.000Z",
+          "wordCount": null,
+          "title": "Peer Review: Lockdown Effectiveness",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5ee525b4-edcf-489f-be83-6bbeba46233d_919x792.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/open-thread-1765",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-1765",
+          "publishedOn": "2021-06-16T19:19:28.000Z",
+          "wordCount": null,
+          "title": "Open Thread 176.5",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/63304c5e-c081-4beb-9a15-2ee51dc5b413_612x583.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/on-cerebralab-on-nuttcarhart-harris",
           "author": "Scott Alexander",
           "description": "P(A|B) = [P(A)*P(B|A)]/P(B), all the rest is commentary.",
@@ -847,6 +877,15 @@
       "feedUrl": "http://scholars-stage.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scholars-stage.org",
       "articles": [
+        {
+          "id": "https://scholars-stage.org/?p=2246",
+          "author": "T. Greer",
+          "description": "Daniel Gullotta's Age of Jackson podcast is one of the few I listen to regularly.  In 2021 I don't have a lot of spare bandwidth to keep track of developments in my favorite field of American history, but I do listen to his interviews with new authors in the field to stay somewhat up to date. Listening to a book talk is not the same thing as reading a book, of course, but it is better than slowly having years of labor slip away from memory with disuse.",
+          "link": "https://scholars-stage.org/historians-the-slaves-of-fashion/",
+          "publishedOn": "2021-06-16T17:53:00.000Z",
+          "wordCount": 4898,
+          "title": "Historians, Slaves of Fashion?"
+        },
         {
           "id": "https://scholars-stage.org/?p=2165",
           "author": "T. Greer",
@@ -3038,6 +3077,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55422",
+          "author": "Bryan Caplan",
+          "description": "Robin Hanson and I disagree about alien visitation.  While he doubts that aliens are visiting Earth right now, I’m virtually sure that they aren’t.  As a result, we’ve made a bet.  The terms: 1. Robin pre-pays me $10. 2. If I become convinced that aliens have visited the Earth during our lifetimes, I pay Robin […]\nThe post Alien Bet appeared first on Econlib.",
+          "link": "https://www.econlib.org/alien-bet/",
+          "publishedOn": "2021-06-16T15:16:31.000Z",
+          "wordCount": 702,
+          "title": "Alien Bet"
+        },
         {
           "id": "https://www.econlib.org/?p=55292",
           "author": "Bryan Caplan",
