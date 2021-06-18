@@ -220,6 +220,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/your-book-review-plagues-and-peoples",
+          "author": "Scott Alexander",
+          "description": "Finalist #17 in the Book Review Contest",
+          "link": "https://astralcodexten.substack.com/p/your-book-review-plagues-and-peoples",
+          "publishedOn": "2021-06-17T20:58:34.000Z",
+          "wordCount": null,
+          "title": "Your Book Review: Plagues And Peoples",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ce4b7b71-7a65-4c3d-b6c3-1bc131cc8bb4_2405x1495.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/peer-review-lockdown-effectiveness",
           "author": "Scott Alexander",
           "description": "Apparently you're paying me to be my proofreaders",
@@ -2553,6 +2568,15 @@
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32870",
+          "author": "Robin Hanson",
+          "description": "Recently I’ve said that it seems obvious that our descendants will soon be artificial, as will be any advanced aliens we meet. And I’ve complained of futurists and astrobiologists who ignore this possibility. But I’ve realized that even though I … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/artificial-not-self-made.html",
+          "publishedOn": "2021-06-17T17:20:18.000Z",
+          "wordCount": 1147,
+          "title": "“Artificial” = Not-Self-Made?"
+        },
+        {
           "id": "https://www.overcomingbias.com/?p=32868",
           "author": "Robin Hanson",
           "description": "In ancient societies, leaders and elites gained legitimacy in the minds of the masses via impressive displays of clothes, music, furniture, food, buildings, parades, etc., which made more plausible their claims to actually be a higher class of creatures. Religions … Continue reading →",
@@ -3078,6 +3102,33 @@
       "siteUrl": "https://www.econlib.org",
       "articles": [
         {
+          "id": "https://www.econlib.org/?p=55504",
+          "author": "Bryan Caplan",
+          "description": "My interview on Open Borders aired last night on the PBS NewsHour.  Check it out!\nThe post <i>Open Borders</i> on PBS appeared first on Econlib.",
+          "link": "https://www.econlib.org/open-borders-on-pbs/?utm_source=rss&utm_medium=rss&utm_campaign=open-borders-on-pbs",
+          "publishedOn": "2021-06-17T15:57:43.000Z",
+          "wordCount": 525,
+          "title": "Open Borders on PBS"
+        },
+        {
+          "id": "https://www.econlib.org/?p=55424",
+          "author": "Bryan Caplan",
+          "description": "All of the last set of comments were directed at Huemer, but I’ll add a few comments of my own. Anon: 1.To my mind, part of the problem with questions like “Is there a God?” is not that they are meaningless or that they have no answer. Rather, it’s that they are unanswerable. Are questions […]\nThe post <i>Knowledge, Reality, and Value Book Club Replies</i>, Part 2 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-book-club-replies-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=knowledge-reality-and-value-book-club-replies-part-2",
+          "publishedOn": "2021-06-17T15:38:30.000Z",
+          "wordCount": 798,
+          "title": "Knowledge, Reality, and Value Book Club Replies, Part 2"
+        },
+        {
+          "id": "https://www.econlib.org/?p=55422",
+          "author": "Bryan Caplan",
+          "description": "Robin Hanson and I disagree about alien visitation.  While he doubts that aliens are visiting Earth right now, I’m virtually sure that they aren’t.  As a result, we’ve made a bet.  The terms: 1. Robin pre-pays me $10. 2. If I become convinced that aliens have visited the Earth during our lifetimes, I pay Robin […]\nThe post Alien Bet appeared first on Econlib.",
+          "link": "https://www.econlib.org/alien-bet/?utm_source=rss&utm_medium=rss&utm_campaign=alien-bet",
+          "publishedOn": "2021-06-16T15:16:31.000Z",
+          "wordCount": 917,
+          "title": "Alien Bet"
+        },
+        {
           "id": "https://www.econlib.org/?p=55422",
           "author": "Bryan Caplan",
           "description": "Robin Hanson and I disagree about alien visitation.  While he doubts that aliens are visiting Earth right now, I’m virtually sure that they aren’t.  As a result, we’ve made a bet.  The terms: 1. Robin pre-pays me $10. 2. If I become convinced that aliens have visited the Earth during our lifetimes, I pay Robin […]\nThe post Alien Bet appeared first on Econlib.",
@@ -3085,6 +3136,15 @@
           "publishedOn": "2021-06-16T15:16:31.000Z",
           "wordCount": 702,
           "title": "Alien Bet"
+        },
+        {
+          "id": "https://www.econlib.org/?p=55292",
+          "author": "Bryan Caplan",
+          "description": "Whenever government repeals a bad policy, my first reaction is amazement. Then gratitude. Swiftly followed by indignation, because no matter how bad the repealed policy was, the government almost never apologizes. Homely example: The FAA used to ban the use of any electronic device during takeoff and landing.  When the rule finally went away, I […]\nThe post The Apologies of Repeal appeared first on Econlib.",
+          "link": "https://www.econlib.org/the-apologies-of-repeal/?utm_source=rss&utm_medium=rss&utm_campaign=the-apologies-of-repeal",
+          "publishedOn": "2021-06-15T15:47:48.000Z",
+          "wordCount": 2098,
+          "title": "The Apologies of Repeal"
         },
         {
           "id": "https://www.econlib.org/?p=55292",
@@ -3099,10 +3159,28 @@
           "id": "https://www.econlib.org/?p=55477",
           "author": "Bryan Caplan",
           "description": "Here’s Mike Huemer’s second set of responses to me and you. About Bryan’s Comments Thanks again to Bryan, and the readers who commented on his post, for their thoughts about Part 2. This is all cool and interesting. I’ll just comment on a few questions and points of disagreement. 1. Real World Hypothesis (RWH) vs. […]\nThe post <i>Knowledge, Reality, and Value</i>: Huemer’s Response, Part 2 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-huemers-response-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=knowledge-reality-and-value-huemers-response-part-2",
+          "publishedOn": "2021-06-14T22:17:49.000Z",
+          "wordCount": 4807,
+          "title": "Knowledge, Reality, and Value: Huemer’s Response, Part 2"
+        },
+        {
+          "id": "https://www.econlib.org/?p=55477",
+          "author": "Bryan Caplan",
+          "description": "Here’s Mike Huemer’s second set of responses to me and you. About Bryan’s Comments Thanks again to Bryan, and the readers who commented on his post, for their thoughts about Part 2. This is all cool and interesting. I’ll just comment on a few questions and points of disagreement. 1. Real World Hypothesis (RWH) vs. […]\nThe post <i>Knowledge, Reality, and Value</i>: Huemer’s Response, Part 2 appeared first on Econlib.",
           "link": "https://www.econlib.org/knowledge-reality-and-value-huemers-response-part-2/",
           "publishedOn": "2021-06-14T22:17:49.000Z",
           "wordCount": 2754,
           "title": "Knowledge, Reality, and Value: Huemer’s Response, Part 2"
+        },
+        {
+          "id": "https://www.econlib.org/?p=55281",
+          "author": "Bryan Caplan",
+          "description": "Reader Joe Munson sent me this thoughtful message.  Reprinted with his permission. Dear Bryan, It occurred to me the other day that many high schools and even colleges will basically waive certain subjects for you if you have even moderate learning disabilities (or can get a psychologist to say you do). Foreign languages, gym, even […]\nThe post Learning Disability Accommodation and Signaling appeared first on Econlib.",
+          "link": "https://www.econlib.org/learning-disability-accommodation-and-signaling/?utm_source=rss&utm_medium=rss&utm_campaign=learning-disability-accommodation-and-signaling",
+          "publishedOn": "2021-06-09T15:48:57.000Z",
+          "wordCount": 3569,
+          "title": "Learning Disability Accommodation and Signaling"
         },
         {
           "id": "https://www.econlib.org/?p=55281",
@@ -3117,10 +3195,28 @@
           "id": "https://www.econlib.org/?p=55409",
           "author": "Bryan Caplan",
           "description": "The Book Club on Mike Huemer’s Knowledge, Reality, and Value continues.  Today, I cover Part 2 of the book.  To repeat, though I’m a huge fan of the book, I’m focusing almost entirely on disagreements. 1. One of Huemer’s preferred responses to the classic Brain-in-a-Vat (BIV) scenario is that – especially compared to the Real World […]\nThe post <i>Knowledge, Reality, and Value</i> Book Club, Part 2 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-book-club-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=knowledge-reality-and-value-book-club-part-2",
+          "publishedOn": "2021-06-08T20:46:07.000Z",
+          "wordCount": 3389,
+          "title": "Knowledge, Reality, and Value Book Club, Part 2"
+        },
+        {
+          "id": "https://www.econlib.org/?p=55409",
+          "author": "Bryan Caplan",
+          "description": "The Book Club on Mike Huemer’s Knowledge, Reality, and Value continues.  Today, I cover Part 2 of the book.  To repeat, though I’m a huge fan of the book, I’m focusing almost entirely on disagreements. 1. One of Huemer’s preferred responses to the classic Brain-in-a-Vat (BIV) scenario is that – especially compared to the Real World […]\nThe post <i>Knowledge, Reality, and Value</i> Book Club, Part 2 appeared first on Econlib.",
           "link": "https://www.econlib.org/knowledge-reality-and-value-book-club-part-2/",
           "publishedOn": "2021-06-08T20:46:07.000Z",
           "wordCount": 929,
           "title": "Knowledge, Reality, and Value Book Club, Part 2"
+        },
+        {
+          "id": "https://www.econlib.org/?p=55343",
+          "author": "Bryan Caplan",
+          "description": "Here are my reactions to Part 1 of the book club for Mike Huemer’s new book: Kevin DC: Thoughts/comments directed primarily towards Bryan: Compared to other academic disciplines, philosophers really do spend a lot of time rehashing 2000-year-old debates. I suspect this is at least in part due to the fact that of all the […]\nThe post <i>Knowledge, Reality, and Value Book Club Replies</i>, Part 1 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-book-club-replies-part-1/?utm_source=rss&utm_medium=rss&utm_campaign=knowledge-reality-and-value-book-club-replies-part-1",
+          "publishedOn": "2021-06-07T14:16:28.000Z",
+          "wordCount": 1957,
+          "title": "Knowledge, Reality, and Value Book Club Replies, Part 1"
         },
         {
           "id": "https://www.econlib.org/?p=55343",
@@ -3135,10 +3231,28 @@
           "id": "https://www.econlib.org/?p=55356",
           "author": "Bryan Caplan",
           "description": "Capla-Con, my annual festival of nerdity, is in Austin this year, June 12-13, and I’m humbled by how many friends are making the trek.  By the power of Steve Kuhn, we’ll be gathering at Dreamland, noon-midnight both days.  All EconLog readers welcome! As a result, I’m tweaking the Book Club schedule for Huemer’s Knowledge, Reality, and […]\nThe post <i>Knowledge, Reality, and Value</i> Book Club Schedule Update appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-book-club-schedule-update/?utm_source=rss&utm_medium=rss&utm_campaign=knowledge-reality-and-value-book-club-schedule-update",
+          "publishedOn": "2021-06-03T15:29:42.000Z",
+          "wordCount": 427,
+          "title": "Knowledge, Reality, and Value Book Club Schedule Update"
+        },
+        {
+          "id": "https://www.econlib.org/?p=55356",
+          "author": "Bryan Caplan",
+          "description": "Capla-Con, my annual festival of nerdity, is in Austin this year, June 12-13, and I’m humbled by how many friends are making the trek.  By the power of Steve Kuhn, we’ll be gathering at Dreamland, noon-midnight both days.  All EconLog readers welcome! As a result, I’m tweaking the Book Club schedule for Huemer’s Knowledge, Reality, and […]\nThe post <i>Knowledge, Reality, and Value</i> Book Club Schedule Update appeared first on Econlib.",
           "link": "https://www.econlib.org/knowledge-reality-and-value-book-club-schedule-update/",
           "publishedOn": "2021-06-03T15:29:42.000Z",
           "wordCount": 424,
           "title": "Knowledge, Reality, and Value Book Club Schedule Update"
+        },
+        {
+          "id": "https://www.econlib.org/?p=55355",
+          "author": "Bryan Caplan",
+          "description": "Here’s Mike Huemer’s first set of responses to me and you. About Bryan’s Comments Thanks to Bryan for his fair and helpful comments on part 1. There isn’t much that we disagree about. But here are some thoughts about Bryan’s comments. 1. Philosophical progress: It’s fair to say that philosophy makes slower and less impressive […]\nThe post <i>Knowledge, Reality, and Value</i>: Huemer’s Response, Part 1 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-huemers-response-part-1/?utm_source=rss&utm_medium=rss&utm_campaign=knowledge-reality-and-value-huemers-response-part-1",
+          "publishedOn": "2021-06-03T15:09:11.000Z",
+          "wordCount": 4428,
+          "title": "Knowledge, Reality, and Value: Huemer’s Response, Part 1"
         },
         {
           "id": "https://www.econlib.org/?p=55355",
