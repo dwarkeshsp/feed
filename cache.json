@@ -6,6 +6,15 @@
       "siteUrl": "https://applieddivinitystudies.com/atom.xml",
       "articles": [
         {
+          "id": "https://applieddivinitystudies.com/contra-smith-i-guess/",
+          "author": null,
+          "description": "<p>It’s taken 5 months, but Noah Smith is finally done with his <a href=\"https://noahpinion.substack.com/p/answering-the-techno-pessimists-c",
+          "link": "https://applieddivinitystudies.com/contra-smith-i-guess/",
+          "publishedOn": "2021-06-17T00:00:00.000Z",
+          "wordCount": 940,
+          "title": "Contra Smith, I Guess"
+        },
+        {
           "id": "https://applieddivinitystudies.com/60b-writeup/",
           "author": null,
           "description": "<p><em>Launch post and writeup for <a href=\"http://applieddivinitystudies.com/60bchickens\">60B Chickens</a> describing the inputs into and r",
@@ -219,6 +228,21 @@
       "feedUrl": "https://astralcodexten.substack.com/feed/",
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
+        {
+          "id": "https://astralcodexten.substack.com/p/vote-in-the-book-review-contest",
+          "author": "Scott Alexander",
+          "description": "...if you've read all the finalists",
+          "link": "https://astralcodexten.substack.com/p/vote-in-the-book-review-contest",
+          "publishedOn": "2021-06-18T20:12:32.000Z",
+          "wordCount": null,
+          "title": "Vote In The Book Review Contest!",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/711a7b93-402d-48f8-a42b-8d1cd3aaeb39_2560x1587.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
         {
           "id": "https://astralcodexten.substack.com/p/your-book-review-plagues-and-peoples",
           "author": "Scott Alexander",
@@ -892,6 +916,15 @@
       "feedUrl": "http://scholars-stage.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scholars-stage.org",
       "articles": [
+        {
+          "id": "https://scholars-stage.org/?p=2318",
+          "author": "T. Greer",
+          "description": "The closing days of the First World War gave birth to modern combat. Previous to these developments, advances in firepower made titans of the trenchworks. For four years the trenches were assaulted: for four years storms of steel mowed all offensives down. But as the war reached its end tactics were developed to storm through the gauntlet. Stephen Biddle has called these tactics, and what evolved out of them, “the modern system of battle.” The closing developments of the 1918 made offensives possible again—but the playing field remained tilted towards the defender.",
+          "link": "https://scholars-stage.org/fear-the-logic-of-the-first-strike/",
+          "publishedOn": "2021-06-18T18:50:35.000Z",
+          "wordCount": 2543,
+          "title": "Fear the First Strike"
+        },
         {
           "id": "https://scholars-stage.org/?p=2246",
           "author": "T. Greer",
@@ -2360,6 +2393,21 @@
       "siteUrl": "https://douthat.substack.com",
       "articles": [
         {
+          "id": "https://douthat.substack.com/p/mom-genes-and-fathers-day",
+          "author": null,
+          "description": "How fathers help make mothers, and why making fathers is a harder task",
+          "link": "https://douthat.substack.com/p/mom-genes-and-fathers-day",
+          "publishedOn": "2021-06-18T15:15:24.000Z",
+          "wordCount": null,
+          "title": "Mom Genes and Father's Day",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffea97721-9d9a-4df4-8476-2421050cd07a_331x499.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://douthat.substack.com/p/decadence-and-andreessens-dilemma",
           "author": null,
           "description": "If we need to embrace a culture of building, does it matter if we do it in reality?",
@@ -2567,6 +2615,15 @@
       "feedUrl": "http://www.overcomingbias.com/feed",
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
+        {
+          "id": "https://www.overcomingbias.com/?p=32872",
+          "author": "Robin Hanson",
+          "description": "Sometimes I’d like a particular person to comment on a particular thing I say. And maybe these particular people sometimes find themselves in similar situations. Could we make a deal here, wherein I reply to them in trade for them … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/comment-requested.html",
+          "publishedOn": "2021-06-18T16:25:21.000Z",
+          "wordCount": 744,
+          "title": "Comment Requested"
+        },
         {
           "id": "https://www.overcomingbias.com/?p=32870",
           "author": "Robin Hanson",

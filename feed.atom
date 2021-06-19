@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T01:02:43.935Z</updated>
+    <updated>2021-06-19T01:01:41.161Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vote In The Book Review Contest!]]></title>
+        <id>https://astralcodexten.substack.com/p/vote-in-the-book-review-contest</id>
+        <link href="https://astralcodexten.substack.com/p/vote-in-the-book-review-contest"/>
+        <updated>2021-06-18T20:12:32.000Z</updated>
+        <summary type="html"><![CDATA[...if you've read all the finalists]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fear the First Strike]]></title>
+        <id>https://scholars-stage.org/?p=2318</id>
+        <link href="https://scholars-stage.org/fear-the-logic-of-the-first-strike/"/>
+        <updated>2021-06-18T18:50:35.000Z</updated>
+        <summary type="html"><![CDATA[The closing days of the First World War gave birth to modern combat. Previous to these developments, advances in firepower made titans of the trenchworks. For four years the trenches were assaulted: for four years storms of steel mowed all offensives down. But as the war reached its end tactics were developed to storm through the gauntlet. Stephen Biddle has called these tactics, and what evolved out of them, “the modern system of battle.” The closing developments of the 1918 made offensives possible again—but the playing field remained tilted towards the defender.]]></summary>
+        <author>
+            <name>T. Greer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment Requested]]></title>
+        <id>https://www.overcomingbias.com/?p=32872</id>
+        <link href="http://www.overcomingbias.com/2021/06/comment-requested.html"/>
+        <updated>2021-06-18T16:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes I’d like a particular person to comment on a particular thing I say. And maybe these particular people sometimes find themselves in similar situations. Could we make a deal here, wherein I reply to them in trade for them … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mom Genes and Father's Day]]></title>
+        <id>https://douthat.substack.com/p/mom-genes-and-fathers-day</id>
+        <link href="https://douthat.substack.com/p/mom-genes-and-fathers-day"/>
+        <updated>2021-06-18T15:15:24.000Z</updated>
+        <summary type="html"><![CDATA[How fathers help make mothers, and why making fathers is a harder task]]></summary>
+        <author>
+            <name>Reactions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your Book Review: Plagues And Peoples]]></title>
         <id>https://astralcodexten.substack.com/p/your-book-review-plagues-and-peoples</id>
@@ -46,6 +86,16 @@ The post <i>Open Borders</i> on PBS appeared first on Econlib.]]></summary>
 The post <i>Knowledge, Reality, and Value Book Club Replies</i>, Part 2 appeared first on Econlib.]]></summary>
         <author>
             <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contra Smith, I Guess]]></title>
+        <id>https://applieddivinitystudies.com/contra-smith-i-guess/</id>
+        <link href="https://applieddivinitystudies.com/contra-smith-i-guess/"/>
+        <updated>2021-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>It’s taken 5 months, but Noah Smith is finally done with his <a href="https://noahpinion.substack.com/p/answering-the-techno-pessimists-c]]></summary>
+        <author>
+            <name>Applied Divinity Studies</name>
         </author>
     </entry>
     <entry>
