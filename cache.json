@@ -1307,6 +1307,15 @@
       "siteUrl": "https://fakenous.net",
       "articles": [
         {
+          "id": "https://fakenous.net/?p=2341",
+          "author": "Michael Huemer",
+          "description": "I heard from Joe Biden that voter ID laws are like “Jim Crow on steroids”. Wow. Requiring people to show ID cards when voting is much worse than legally mandated racial segregation? Why is it so bad? What I’ve heard is that it’s racist, because it’s harder for black people to get ID’s. It seems … Continue reading Stop the Nonsense About Voter ID",
+          "link": "https://fakenous.net/?p=2341",
+          "publishedOn": "2021-06-19T15:00:00.000Z",
+          "wordCount": 2482,
+          "title": "Stop the Nonsense About Voter ID"
+        },
+        {
           "id": "https://fakenous.net/?p=2365",
           "author": "Michael Huemer",
           "description": "TL;DR: There are probably aliens elsewhere in the universe. But the UFO’s we’ve heard about lately are not them. Instead, what we’re seeing is ordinary phenomena, treated irresponsibly and incompetently by the news media. 1. Is there life elsewhere in the universe? The Drake Equation is supposed to help us estimate the number of civilizations … Continue reading There Are Aliens, but Probably Not Here",
@@ -2953,6 +2962,15 @@
       "feedUrl": "http://putanumonit.com/feed/",
       "siteUrl": "https://putanumonit.com",
       "articles": [
+        {
+          "id": "http://putanumonit.com/?p=31279",
+          "author": "Jacob Falkovich",
+          "description": "Interview with anonymous about emotions, billionaires, submission, Plato, and why individual identity is a mistake.",
+          "link": "https://putanumonit.com/2021/06/17/the-anxious-philosopher-king/",
+          "publishedOn": "2021-06-17T20:19:32.000Z",
+          "wordCount": 4322,
+          "title": "The Anxious Philosopher King"
+        },
         {
           "id": "http://putanumonit.com/?p=31248",
           "author": "Jacob Falkovich",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T01:01:41.161Z</updated>
+    <updated>2021-06-20T01:04:04.633Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop the Nonsense About Voter ID]]></title>
+        <id>https://fakenous.net/?p=2341</id>
+        <link href="https://fakenous.net/?p=2341"/>
+        <updated>2021-06-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I heard from Joe Biden that voter ID laws are like “Jim Crow on steroids”. Wow. Requiring people to show ID cards when voting is much worse than legally mandated racial segregation? Why is it so bad? What I’ve heard is that it’s racist, because it’s harder for black people to get ID’s. It seems … Continue reading Stop the Nonsense About Voter ID]]></summary>
+        <author>
+            <name>Michael Huemer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vote In The Book Review Contest!]]></title>
         <id>https://astralcodexten.substack.com/p/vote-in-the-book-review-contest</id>
@@ -54,6 +64,16 @@
         <summary type="html"><![CDATA[Finalist #17 in the Book Review Contest]]></summary>
         <author>
             <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anxious Philosopher King]]></title>
+        <id>http://putanumonit.com/?p=31279</id>
+        <link href="https://putanumonit.com/2021/06/17/the-anxious-philosopher-king/"/>
+        <updated>2021-06-17T20:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Interview with anonymous about emotions, billionaires, submission, Plato, and why individual identity is a mistake.]]></summary>
+        <author>
+            <name>Jacob Falkovich</name>
         </author>
     </entry>
     <entry>
