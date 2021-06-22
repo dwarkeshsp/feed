@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T01:05:58.410Z</updated>
+    <updated>2021-06-22T00:58:40.147Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Give Tyler His Due]]></title>
+        <id>https://www.overcomingbias.com/?p=32875</id>
+        <link href="http://www.overcomingbias.com/2021/06/give-tyler-his-due.html"/>
+        <updated>2021-06-21T19:40:58.000Z</updated>
+        <summary type="html"><![CDATA[In this post I complained that three pundits took UFOs “seriously” mainly by talking “only about the fact that other people seem to be taking UFOs as aliens seriously.” Tyler Cowen pointed out to me, correctly, that I haven’t given him … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge, Reality, and Value Book Club, Part 3]]></title>
+        <id>https://www.econlib.org/?p=55425</id>
+        <link href="https://www.econlib.org/knowledge-reality-and-value-book-club-part-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=knowledge-reality-and-value-book-club-part-3"/>
+        <updated>2021-06-21T15:39:30.000Z</updated>
+        <summary type="html"><![CDATA[The Knowledge, Reality, and Value Book Club continues.  Today, we go over Part 3: Metaphysics.  Huemer’s in blockquotes, I’m not.  Once again, I’m focusing on my disagreements to keep the discussion lively. 1. The Argument from Design. Back in the 19th century, I guess a lot of people had mechanical pocket watches, and if you looked inside, […]
+The post <i>Knowledge, Reality, and Value</i> Book Club, Part 3 appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 177]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-177</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-177"/>
+        <updated>2021-06-21T03:59:29.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop the Nonsense About Voter ID]]></title>
         <id>https://fakenous.net/?p=2341</id>
