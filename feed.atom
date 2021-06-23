@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T00:58:40.147Z</updated>
+    <updated>2021-06-23T00:54:22.040Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Self-Help vs. Power-Hunger]]></title>
+        <id>https://www.econlib.org/?p=55476</id>
+        <link href="https://www.econlib.org/self-help-vs-power-hunger/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=self-help-vs-power-hunger"/>
+        <updated>2021-06-22T15:29:09.000Z</updated>
+        <summary type="html"><![CDATA[I was recently on an NPR panel on “Capitalism” with a pair of self-identified socialists – Kristen Ghodsee and Vivek Chibber.  The hosts asked us a wide range of questions, including several of the form: “What would you say to a person with problem X?”  For example, they played a statement from someone who really […]
+The post Self-Help vs. Power-Hunger appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mantic Monday 6/21/21]]></title>
+        <id>https://astralcodexten.substack.com/p/mantic-monday-62121</id>
+        <link href="https://astralcodexten.substack.com/p/mantic-monday-62121"/>
+        <updated>2021-06-22T01:19:56.000Z</updated>
+        <summary type="html"><![CDATA[Puerto Rican senators; Polymarket accessibility; pinning people down on inflation]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Give Tyler His Due]]></title>
         <id>https://www.overcomingbias.com/?p=32875</id>

@@ -229,6 +229,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/mantic-monday-62121",
+          "author": "Scott Alexander",
+          "description": "Puerto Rican senators; Polymarket accessibility; pinning people down on inflation",
+          "link": "https://astralcodexten.substack.com/p/mantic-monday-62121",
+          "publishedOn": "2021-06-22T01:19:56.000Z",
+          "wordCount": null,
+          "title": "Mantic Monday 6/21/21",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0e55c989-fbe5-4d17-bbd7-76b6bf1faee9_981x721.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/open-thread-177",
           "author": "Scott Alexander",
           "description": "...",
@@ -3200,6 +3215,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55476",
+          "author": "Bryan Caplan",
+          "description": "I was recently on an NPR panel on “Capitalism” with a pair of self-identified socialists – Kristen Ghodsee and Vivek Chibber.  The hosts asked us a wide range of questions, including several of the form: “What would you say to a person with problem X?”  For example, they played a statement from someone who really […]\nThe post Self-Help vs. Power-Hunger appeared first on Econlib.",
+          "link": "https://www.econlib.org/self-help-vs-power-hunger/?utm_source=rss&utm_medium=rss&utm_campaign=self-help-vs-power-hunger",
+          "publishedOn": "2021-06-22T15:29:09.000Z",
+          "wordCount": 1285,
+          "title": "Self-Help vs. Power-Hunger"
+        },
         {
           "id": "https://www.econlib.org/?p=55425",
           "author": "Bryan Caplan",
