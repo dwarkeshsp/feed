@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T00:54:22.040Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T00:49:29.378Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Benjamin Yeoh Interviews Me (Podcast)]]></title>
+        <id>60d371702cd588003e8f395a</id>
+        <link href="https://www.forourposterity.com/podcast-with-ben-yeoh/"/>
+        <updated>2021-06-23T22:58:01.000Z</updated>
+        <summary type="html"><![CDATA[A good introduction to my general worldview. Covering existential risk, economic growth, declining fertility rates, and much more.]]></summary>
+        <author>
+            <name>Leopold Aschenbrenner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On banning ideas]]></title>
+        <id>https://graymirror.substack.com/p/on-banning-ideas</id>
+        <link href="https://graymirror.substack.com/p/on-banning-ideas"/>
+        <updated>2021-06-23T19:02:08.000Z</updated>
+        <summary type="html"><![CDATA["Big things are easier than small things."]]></summary>
+        <author>
+            <name>Curtis Yarvin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STOC’2021 and BosonSampling]]></title>
+        <id>https://www.scottaaronson.com/blog/?p=5549</id>
+        <link href="https://www.scottaaronson.com/blog/?p=5549"/>
+        <updated>2021-06-23T16:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Happy birthday to Alan Turing! This week I’m participating virtually in STOC’2021, which today had a celebration of the 50th anniversary of NP-completeness (featuring Steve Cook, Richard Karp, Leonid Levin, Christos Papadimitriou, and Avi Wigderson), and which tomorrow will have a day’s worth of quantum computing content, including a tutorial on MIP*=RE, two quantum sessions, […]]]></summary>
+        <author>
+            <name>Scott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report UFOs as Physical Likelihood Ratios]]></title>
+        <id>https://www.overcomingbias.com/?p=32877</id>
+        <link href="http://www.overcomingbias.com/2021/06/report-ufos-as-physical-likelihood-ratios.html"/>
+        <updated>2021-06-23T15:50:07.000Z</updated>
+        <summary type="html"><![CDATA[It is probably too late to influence the upcoming US government UFO report, and even if it isn’t I’m probably not high enough status to do so, but if I had any influence I have one main recommendation to its … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backlash vs. Resistance: The Case of Wokism]]></title>
+        <id>https://www.econlib.org/?p=55300</id>
+        <link href="https://www.econlib.org/backlash-vs-resistance-the-case-of-wokism/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=backlash-vs-resistance-the-case-of-wokism"/>
+        <updated>2021-06-23T15:21:51.000Z</updated>
+        <summary type="html"><![CDATA[During the last two years, I’ve personally met quite a few people who loathe the woke movement.  They complain about it incessantly and see its wicked influence everywhere.  If the woke are for it, they’re reflexively against it. If the woke movement did not exist, all of these people would obviously be doing something else.  […]
+The post Backlash vs. Resistance: The Case of Wokism appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mother of Easttown]]></title>
+        <id>https://douthat.substack.com/p/the-mother-of-easttown</id>
+        <link href="https://douthat.substack.com/p/the-mother-of-easttown"/>
+        <updated>2021-06-23T13:34:48.000Z</updated>
+        <summary type="html"><![CDATA["Mare of Easttown" as a portrait of matriarchy and male failure.]]></summary>
+        <author>
+            <name>Ross Douthat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As breathing and consciousness return]]></title>
+        <id>https://graymirror.substack.com/p/as-breathing-and-consciousness-return</id>
+        <link href="https://graymirror.substack.com/p/as-breathing-and-consciousness-return"/>
+        <updated>2021-06-23T13:22:07.000Z</updated>
+        <summary type="html"><![CDATA["The big things are useful, but hard. The small things are easy, but useless."]]></summary>
+        <author>
+            <name>Curtis Yarvin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links For June]]></title>
+        <id>https://astralcodexten.substack.com/p/links-for-june</id>
+        <link href="https://astralcodexten.substack.com/p/links-for-june"/>
+        <updated>2021-06-23T04:30:12.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Self-Help vs. Power-Hunger]]></title>
         <id>https://www.econlib.org/?p=55476</id>

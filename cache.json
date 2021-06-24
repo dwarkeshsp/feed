@@ -229,6 +229,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/links-for-june",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/links-for-june",
+          "publishedOn": "2021-06-23T04:30:12.000Z",
+          "wordCount": null,
+          "title": "Links For June",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/17dad892-f100-48be-94c4-c55164486eda_800x533.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/mantic-monday-62121",
           "author": "Scott Alexander",
           "description": "Puerto Rican senators; Polymarket accessibility; pinning people down on inflation",
@@ -2182,6 +2197,36 @@
       "siteUrl": "https://graymirror.substack.com",
       "articles": [
         {
+          "id": "https://graymirror.substack.com/p/on-banning-ideas",
+          "author": "Curtis Yarvin",
+          "description": "\"Big things are easier than small things.\"",
+          "link": "https://graymirror.substack.com/p/on-banning-ideas",
+          "publishedOn": "2021-06-23T19:02:08.000Z",
+          "wordCount": null,
+          "title": "On banning ideas",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F286b61b5-9b22-4a49-9650-694d6f36a10b_310x310.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://graymirror.substack.com/p/as-breathing-and-consciousness-return",
+          "author": "Curtis Yarvin",
+          "description": "\"The big things are useful, but hard. The small things are easy, but useless.\"",
+          "link": "https://graymirror.substack.com/p/as-breathing-and-consciousness-return",
+          "publishedOn": "2021-06-23T13:22:07.000Z",
+          "wordCount": null,
+          "title": "As breathing and consciousness return",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F286b61b5-9b22-4a49-9650-694d6f36a10b_310x310.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://graymirror.substack.com/p/the-fedcoin-experiment",
           "author": "Curtis Yarvin",
           "description": "\"If there still are cows.\"",
@@ -2432,6 +2477,21 @@
       "siteUrl": "https://douthat.substack.com",
       "articles": [
         {
+          "id": "https://douthat.substack.com/p/the-mother-of-easttown",
+          "author": "Ross Douthat",
+          "description": "\"Mare of Easttown\" as a portrait of matriarchy and male failure.",
+          "link": "https://douthat.substack.com/p/the-mother-of-easttown",
+          "publishedOn": "2021-06-23T13:34:48.000Z",
+          "wordCount": null,
+          "title": "The Mother of Easttown",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f38edd1-bd9b-4283-9d07-95396f4aa32f_2560x1920.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://douthat.substack.com/p/mom-genes-and-fathers-day",
           "author": null,
           "description": "How fathers help make mothers, and why making fathers is a harder task",
@@ -2654,6 +2714,15 @@
       "feedUrl": "http://www.overcomingbias.com/feed",
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
+        {
+          "id": "https://www.overcomingbias.com/?p=32877",
+          "author": "Robin Hanson",
+          "description": "It is probably too late to influence the upcoming US government UFO report, and even if it isn’t I’m probably not high enough status to do so, but if I had any influence I have one main recommendation to its … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/report-ufos-as-physical-likelihood-ratios.html",
+          "publishedOn": "2021-06-23T15:50:07.000Z",
+          "wordCount": 1194,
+          "title": "Report UFOs as Physical Likelihood Ratios"
+        },
         {
           "id": "https://www.overcomingbias.com/?p=32875",
           "author": "Robin Hanson",
@@ -2922,6 +2991,15 @@
       "feedUrl": "https://www.forourposterity.com/rss/",
       "siteUrl": "https://www.forourposterity.com/",
       "articles": [
+        {
+          "id": "60d371702cd588003e8f395a",
+          "author": "Leopold Aschenbrenner",
+          "description": "A good introduction to my general worldview. Covering existential risk, economic growth, declining fertility rates, and much more.",
+          "link": "https://www.forourposterity.com/podcast-with-ben-yeoh/",
+          "publishedOn": "2021-06-23T22:58:01.000Z",
+          "wordCount": 459,
+          "title": "Benjamin Yeoh Interviews Me (Podcast)"
+        },
         {
           "id": "6032dc2fada7f2003971f96b",
           "author": "Stephen Malina",
@@ -3215,6 +3293,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55300",
+          "author": "Bryan Caplan",
+          "description": "During the last two years, I’ve personally met quite a few people who loathe the woke movement.  They complain about it incessantly and see its wicked influence everywhere.  If the woke are for it, they’re reflexively against it. If the woke movement did not exist, all of these people would obviously be doing something else.  […]\nThe post Backlash vs. Resistance: The Case of Wokism appeared first on Econlib.",
+          "link": "https://www.econlib.org/backlash-vs-resistance-the-case-of-wokism/?utm_source=rss&utm_medium=rss&utm_campaign=backlash-vs-resistance-the-case-of-wokism",
+          "publishedOn": "2021-06-23T15:21:51.000Z",
+          "wordCount": 944,
+          "title": "Backlash vs. Resistance: The Case of Wokism"
+        },
         {
           "id": "https://www.econlib.org/?p=55476",
           "author": "Bryan Caplan",
@@ -3737,6 +3824,15 @@
       "siteUrl": "https://www.scottaaronson.com/blog",
       "articles": [
         {
+          "id": "https://www.scottaaronson.com/blog/?p=5549",
+          "author": "Scott",
+          "description": "Happy birthday to Alan Turing! This week I’m participating virtually in STOC’2021, which today had a celebration of the 50th anniversary of NP-completeness (featuring Steve Cook, Richard Karp, Leonid Levin, Christos Papadimitriou, and Avi Wigderson), and which tomorrow will have a day’s worth of quantum computing content, including a tutorial on MIP*=RE, two quantum sessions, […]",
+          "link": "https://www.scottaaronson.com/blog/?p=5549",
+          "publishedOn": "2021-06-23T16:44:51.000Z",
+          "wordCount": 1437,
+          "title": "STOC’2021 and BosonSampling"
+        },
+        {
           "id": "https://www.scottaaronson.com/blog/?p=5542",
           "author": "Scott",
           "description": "The other night Dana and I watched “The Internet’s Own Boy,” the 2014 documentary about the life and work of Aaron Swartz, which I’d somehow missed when it came out. Swartz, for anyone who doesn’t remember, was the child prodigy who helped create RSS and Reddit, who then became a campaigner for an open Internet, […]",
@@ -4023,5 +4119,5 @@
       ]
     }
   ],
-  "cliVersion": "1.10.2"
+  "cliVersion": "1.11.0"
 }
