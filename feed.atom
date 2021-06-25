@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T00:49:29.378Z</updated>
+    <updated>2021-06-25T01:07:04.805Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Perpendicular Lives]]></title>
+        <id>https://astralcodexten.substack.com/p/perpendicular-lives</id>
+        <link href="https://astralcodexten.substack.com/p/perpendicular-lives"/>
+        <updated>2021-06-24T19:23:06.000Z</updated>
+        <summary type="html"><![CDATA[Biographies of five interesting people with nothing in common]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Profound Understanding of Human Nature]]></title>
+        <id>https://www.econlib.org/?p=55408</id>
+        <link href="https://www.econlib.org/my-profound-understanding-of-human-nature/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=my-profound-understanding-of-human-nature"/>
+        <updated>2021-06-24T15:34:53.000Z</updated>
+        <summary type="html"><![CDATA[During my recent interview with Andrew Sullivan, he repeatedly accused me of being totally oblivious to the realities of human nature.  In his view, I hew to an absurdly economistic view of what people are really like.  In reality, people care about culture, identity, and community at least as much as they care about material […]
+The post My Profound Understanding of Human Nature appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Benjamin Yeoh Interviews Me (Podcast)]]></title>
         <id>60d371702cd588003e8f395a</id>

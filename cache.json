@@ -229,6 +229,21 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/perpendicular-lives",
+          "author": "Scott Alexander",
+          "description": "Biographies of five interesting people with nothing in common",
+          "link": "https://astralcodexten.substack.com/p/perpendicular-lives",
+          "publishedOn": "2021-06-24T19:23:06.000Z",
+          "wordCount": null,
+          "title": "Perpendicular Lives",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7175953e-2718-4753-a824-5068ce7ac830_747x673.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/links-for-june",
           "author": "Scott Alexander",
           "description": "...",
@@ -3293,6 +3308,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55408",
+          "author": "Bryan Caplan",
+          "description": "During my recent interview with Andrew Sullivan, he repeatedly accused me of being totally oblivious to the realities of human nature.  In his view, I hew to an absurdly economistic view of what people are really like.  In reality, people care about culture, identity, and community at least as much as they care about material […]\nThe post My Profound Understanding of Human Nature appeared first on Econlib.",
+          "link": "https://www.econlib.org/my-profound-understanding-of-human-nature/?utm_source=rss&utm_medium=rss&utm_campaign=my-profound-understanding-of-human-nature",
+          "publishedOn": "2021-06-24T15:34:53.000Z",
+          "wordCount": 2100,
+          "title": "My Profound Understanding of Human Nature"
+        },
         {
           "id": "https://www.econlib.org/?p=55300",
           "author": "Bryan Caplan",
