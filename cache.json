@@ -229,6 +229,36 @@
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
         {
+          "id": "https://astralcodexten.substack.com/p/open-thread-1775",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-1775",
+          "publishedOn": "2021-06-25T23:24:15.000Z",
+          "wordCount": null,
+          "title": "Open Thread 177.5",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/45f4088b-a0da-436e-8008-7c434ac3c9c3_612x583.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/acx-reader-research-survey-call-for",
+          "author": "Scott Alexander",
+          "description": "Too stingy to pay for MTurk? We can help!",
+          "link": "https://astralcodexten.substack.com/p/acx-reader-research-survey-call-for",
+          "publishedOn": "2021-06-25T23:21:32.000Z",
+          "wordCount": null,
+          "title": "ACX Reader Research Survey: Call For Submissions",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5f085f4e-cc0c-4ee0-a828-65eba1bc1488_2250x1500.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/perpendicular-lives",
           "author": "Scott Alexander",
           "description": "Biographies of five interesting people with nothing in common",
@@ -2729,6 +2759,15 @@
       "feedUrl": "http://www.overcomingbias.com/feed",
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
+        {
+          "id": "https://www.overcomingbias.com/?p=32879",
+          "author": "Robin Hanson",
+          "description": "(This post is more of an essay, intended to be especially widely accessible.) Long ago, my physics teachers taught me to arrogantly dismiss the “paranormal”, like ghosts or telepathy. Or UFOs. Yes, we once saw meteorites as paranormal, but not … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/ufos-what-the-hell.html",
+          "publishedOn": "2021-06-25T02:00:30.000Z",
+          "wordCount": 1471,
+          "title": "UFOs – What The Hell?"
+        },
         {
           "id": "https://www.overcomingbias.com/?p=32877",
           "author": "Robin Hanson",

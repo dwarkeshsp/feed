@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T01:07:04.805Z</updated>
+    <updated>2021-06-26T00:58:59.076Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 177.5]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-1775</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-1775"/>
+        <updated>2021-06-25T23:24:15.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACX Reader Research Survey: Call For Submissions]]></title>
+        <id>https://astralcodexten.substack.com/p/acx-reader-research-survey-call-for</id>
+        <link href="https://astralcodexten.substack.com/p/acx-reader-research-survey-call-for"/>
+        <updated>2021-06-25T23:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Too stingy to pay for MTurk? We can help!]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UFOs – What The Hell?]]></title>
+        <id>https://www.overcomingbias.com/?p=32879</id>
+        <link href="http://www.overcomingbias.com/2021/06/ufos-what-the-hell.html"/>
+        <updated>2021-06-25T02:00:30.000Z</updated>
+        <summary type="html"><![CDATA[(This post is more of an essay, intended to be especially widely accessible.) Long ago, my physics teachers taught me to arrogantly dismiss the “paranormal”, like ghosts or telepathy. Or UFOs. Yes, we once saw meteorites as paranormal, but not … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perpendicular Lives]]></title>
         <id>https://astralcodexten.substack.com/p/perpendicular-lives</id>
