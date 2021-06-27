@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T00:58:59.076Z</updated>
+    <updated>2021-06-27T01:08:48.062Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Theism & Fine Tuning: Huemer vs. Caplan]]></title>
+        <id>https://fakenous.net/?p=2413</id>
+        <link href="https://fakenous.net/?p=2413"/>
+        <updated>2021-06-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here, Bryan Caplan comments on Part III of my book, Knowledge, Reality, and Value: https://www.econlib.org/knowledge-reality-and-value-book-club-part-3/. The comments largely concern theism and the Fine Tuning Argument (which are discussed in my Part III, which is on metaphysics). Background 2-minute summary of the Fine Tuning Argument: The universe has certain parameters, like the mass of a proton, … Continue reading Theism & Fine Tuning: Huemer vs. Caplan]]></summary>
+        <author>
+            <name>Michael Huemer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Thread 177.5]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-1775</id>
