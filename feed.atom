@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T01:08:48.062Z</updated>
+    <updated>2021-06-28T01:02:57.679Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We Moderns Are Status-Drunk]]></title>
+        <id>https://www.overcomingbias.com/?p=32881</id>
+        <link href="http://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html"/>
+        <updated>2021-06-27T14:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Twelve years ago I posted on how our era is a rare unique “dreamtime” of fast growth, wide cultural integration, and delusional beliefs. But I think I missed a big reason why we have the delusions we do: as we … Continue reading →]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Theism & Fine Tuning: Huemer vs. Caplan]]></title>
         <id>https://fakenous.net/?p=2413</id>
