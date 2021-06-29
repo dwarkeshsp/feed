@@ -6,6 +6,15 @@
       "siteUrl": "https://applieddivinitystudies.com/atom.xml",
       "articles": [
         {
+          "id": "https://applieddivinitystudies.com/kanye/",
+          "author": null,
+          "description": "<p>While critics were busy calling him lost and confused, Kanye was writing <em>Ye</em>, <a href=\"https://en.wikipedia.org/wiki/Ye_(album)\">",
+          "link": "https://applieddivinitystudies.com/kanye/",
+          "publishedOn": "2021-06-28T00:00:00.000Z",
+          "wordCount": 710,
+          "title": "The Hypostatic Union of Kanye West"
+        },
+        {
           "id": "https://applieddivinitystudies.com/contra-smith-i-guess/",
           "author": null,
           "description": "<p>It’s taken 5 months, but Noah Smith is finally done with his <a href=\"https://noahpinion.substack.com/p/answering-the-techno-pessimists-c",
@@ -228,6 +237,36 @@
       "feedUrl": "https://astralcodexten.substack.com/feed/",
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
+        {
+          "id": "https://astralcodexten.substack.com/p/book-review-how-asia-works",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/book-review-how-asia-works",
+          "publishedOn": "2021-06-28T21:30:41.000Z",
+          "wordCount": null,
+          "title": "Book Review: How Asia Works",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/11ce83c5-e924-4891-8de9-f93af468534a_733x413.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/open-thread-178",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-178",
+          "publishedOn": "2021-06-28T03:41:04.000Z",
+          "wordCount": null,
+          "title": "Open Thread 178",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6c04b173-0dff-4268-a43f-d04eabbde5e7_496x341.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
         {
           "id": "https://astralcodexten.substack.com/p/open-thread-1775",
           "author": "Scott Alexander",
@@ -1556,6 +1595,15 @@
       "feedUrl": "https://nintil.com/rss.xml",
       "siteUrl": "https://nintil.com",
       "articles": [
+        {
+          "id": "https://nintil.com/wildfires-california/",
+          "author": null,
+          "description": "California has a habit of going up in flames on a yearly basis, leaving Cyberpunk-worthy scenes as a result. Why does this happen and where is it going is the topic of this post.\nHow many acres burn every year? Is it getting worse?\nThere is broad consensus in the scientific community that wildfire behavior is changing across the American West in general, and in California in particular. Figure 2.3 highlights trends in wildfire activity in California since 1990. All indicators shown—wildfire occurrence, total area burned, and average fire size—display an upward trend in the last several decades across the state (The Costs of Wildfire in California)\nFrom the chart below, it seems clear that there is an increasing trend in burned yearly acreage.  Taking for example the worst 5 years in the pe…",
+          "link": "https://nintil.com/wildfires-california/",
+          "publishedOn": "2021-06-28T00:00:00.000Z",
+          "wordCount": 10576,
+          "title": "Wildfires in California (I)"
+        },
         {
           "id": "https://nintil.com/links-48/",
           "author": null,
@@ -3366,6 +3414,15 @@
       "siteUrl": "https://www.econlib.org",
       "articles": [
         {
+          "id": "https://www.econlib.org/?p=55635",
+          "author": "Bryan Caplan",
+          "description": "Bryan’s Comments “BC” indicates Bryan’s comments; “MH” is me (from the book). 1. Argument from Design MH:     Even if you’d never seen a watch before, you would immediately know that this thing had to have been designed by someone. It’s too intricately ordered to have just happened. BC:      The reason why we infer a watch-maker […]\nThe post <i>Knowledge, Reality, and Value</i>: Huemer’s Response, Part 3 appeared first on Econlib.",
+          "link": "https://www.econlib.org/knowledge-reality-and-value-huemers-response-part-3/?utm_source=rss&utm_medium=rss&utm_campaign=knowledge-reality-and-value-huemers-response-part-3",
+          "publishedOn": "2021-06-28T14:35:47.000Z",
+          "wordCount": 3722,
+          "title": "Knowledge, Reality, and Value: Huemer’s Response, Part 3"
+        },
+        {
           "id": "https://www.econlib.org/?p=55408",
           "author": "Bryan Caplan",
           "description": "During my recent interview with Andrew Sullivan, he repeatedly accused me of being totally oblivious to the realities of human nature.  In his view, I hew to an absurdly economistic view of what people are really like.  In reality, people care about culture, identity, and community at least as much as they care about material […]\nThe post My Profound Understanding of Human Nature appeared first on Econlib.",
@@ -4064,6 +4121,15 @@
       "feedUrl": "https://rootsofprogress.org/feed.xml",
       "siteUrl": "https://rootsofprogress.org/",
       "articles": [
+        {
+          "id": "https://rootsofprogress.org/tickets-available-for-session-4-of-the-story-of-industrial-civilization",
+          "author": null,
+          "description": "Tickets are now available for session 4 of my salon series with Interintellect, “The Story of Industrial Civilization”.",
+          "link": "https://rootsofprogress.org/tickets-available-for-session-4-of-the-story-of-industrial-civilization",
+          "publishedOn": "2021-06-28T14:25:55.000Z",
+          "wordCount": 211,
+          "title": "Tickets available for Session 4 of The Story of Industrial Civilization"
+        },
         {
           "id": "https://rootsofprogress.org/nuclear-physics",
           "author": null,

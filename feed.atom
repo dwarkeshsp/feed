@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T01:02:57.679Z</updated>
+    <updated>2021-06-29T00:58:47.715Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Book Review: How Asia Works]]></title>
+        <id>https://astralcodexten.substack.com/p/book-review-how-asia-works</id>
+        <link href="https://astralcodexten.substack.com/p/book-review-how-asia-works"/>
+        <updated>2021-06-28T21:30:41.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge, Reality, and Value: Huemer’s Response, Part 3]]></title>
+        <id>https://www.econlib.org/?p=55635</id>
+        <link href="https://www.econlib.org/knowledge-reality-and-value-huemers-response-part-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=knowledge-reality-and-value-huemers-response-part-3"/>
+        <updated>2021-06-28T14:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Bryan’s Comments “BC” indicates Bryan’s comments; “MH” is me (from the book). 1. Argument from Design MH:     Even if you’d never seen a watch before, you would immediately know that this thing had to have been designed by someone. It’s too intricately ordered to have just happened. BC:      The reason why we infer a watch-maker […]
+The post <i>Knowledge, Reality, and Value</i>: Huemer’s Response, Part 3 appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tickets available for Session 4 of The Story of Industrial Civilization]]></title>
+        <id>https://rootsofprogress.org/tickets-available-for-session-4-of-the-story-of-industrial-civilization</id>
+        <link href="https://rootsofprogress.org/tickets-available-for-session-4-of-the-story-of-industrial-civilization"/>
+        <updated>2021-06-28T14:25:55.000Z</updated>
+        <summary type="html"><![CDATA[Tickets are now available for session 4 of my salon series with Interintellect, “The Story of Industrial Civilization”.]]></summary>
+        <author>
+            <name>The Roots of Progress</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 178]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-178</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-178"/>
+        <updated>2021-06-28T03:41:04.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hypostatic Union of Kanye West]]></title>
+        <id>https://applieddivinitystudies.com/kanye/</id>
+        <link href="https://applieddivinitystudies.com/kanye/"/>
+        <updated>2021-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>While critics were busy calling him lost and confused, Kanye was writing <em>Ye</em>, <a href="https://en.wikipedia.org/wiki/Ye_(album)">]]></summary>
+        <author>
+            <name>Applied Divinity Studies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildfires in California (I)]]></title>
+        <id>https://nintil.com/wildfires-california/</id>
+        <link href="https://nintil.com/wildfires-california/"/>
+        <updated>2021-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[California has a habit of going up in flames on a yearly basis, leaving Cyberpunk-worthy scenes as a result. Why does this happen and where is it going is the topic of this post.
+How many acres burn every year? Is it getting worse?
+There is broad consensus in the scientific community that wildfire behavior is changing across the American West in general, and in California in particular. Figure 2.3 highlights trends in wildfire activity in California since 1990. All indicators shown—wildfire occurrence, total area burned, and average fire size—display an upward trend in the last several decades across the state (The Costs of Wildfire in California)
+From the chart below, it seems clear that there is an increasing trend in burned yearly acreage.  Taking for example the worst 5 years in the pe…]]></summary>
+        <author>
+            <name>Nintil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We Moderns Are Status-Drunk]]></title>
         <id>https://www.overcomingbias.com/?p=32881</id>
