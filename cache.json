@@ -2817,6 +2817,15 @@
       "siteUrl": "http://www.overcomingbias.com",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/?p=32884",
+          "author": "Robin Hanson",
+          "description": "Agents for actors, musicians, and artists get 10-20% of their payments in order to advise, promote and negotiate on their behalf. Sports agents get 4-10%, while speaker agents get 20-30%. Headhunters get 18-25% of first year salary. The idea is … Continue reading →",
+          "link": "http://www.overcomingbias.com/2021/06/replace-govt-as-career-agent.html",
+          "publishedOn": "2021-06-29T20:17:40.000Z",
+          "wordCount": 1079,
+          "title": "Replace Govt As Career Agent"
+        },
+        {
           "id": "https://www.overcomingbias.com/?p=32881",
           "author": "Robin Hanson",
           "description": "Twelve years ago I posted on how our era is a rare unique “dreamtime” of fast growth, wide cultural integration, and delusional beliefs. But I think I missed a big reason why we have the delusions we do: as we … Continue reading →",
@@ -3413,6 +3422,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55637",
+          "author": "Bryan Caplan",
+          "description": "I was just on an NPR panel on Capitalism, squaring off against socialists Kristen Ghodsee and Vivek Chibber.  Enjoy the full show!\nThe post NPR Panel on Capitalism appeared first on Econlib.",
+          "link": "https://www.econlib.org/npr-panel-on-capitalism/?utm_source=rss&utm_medium=rss&utm_campaign=npr-panel-on-capitalism",
+          "publishedOn": "2021-06-29T14:55:44.000Z",
+          "wordCount": 894,
+          "title": "NPR Panel on Capitalism"
+        },
         {
           "id": "https://www.econlib.org/?p=55635",
           "author": "Bryan Caplan",
@@ -4121,6 +4139,15 @@
       "feedUrl": "https://rootsofprogress.org/feed.xml",
       "siteUrl": "https://rootsofprogress.org/",
       "articles": [
+        {
+          "id": "https://rootsofprogress.org/why-did-we-wait-so-long-for-the-threshing-machine",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://rootsofprogress.org/why-did-we-wait-so-long-for-the-threshing-machine",
+          "publishedOn": "2021-06-29T11:29:50.000Z",
+          "wordCount": 3811,
+          "title": "Why did we wait so long for the threshing machine?"
+        },
         {
           "id": "https://rootsofprogress.org/tickets-available-for-session-4-of-the-story-of-industrial-civilization",
           "author": null,
