@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwarkeshsp.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T01:04:55.876Z</updated>
+    <updated>2021-07-01T01:05:21.138Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://dwarkeshsp.github.io/feed/index.html"/>
     <link rel="self" href="https://dwarkeshsp.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“Follow the Science” Might Not Mean What You Think It Means]]></title>
+        <id>https://www.econlib.org/?p=55636</id>
+        <link href="https://www.econlib.org/follow-the-science-might-not-mean-what-you-think-it-means/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=follow-the-science-might-not-mean-what-you-think-it-means"/>
+        <updated>2021-06-30T14:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a guest post by ASU’s Richard Hahn, reprinted with his permission.  I suspect he’d be happy to respond to comments! The problem with punchy slogans is that they are subject to (mis)interpretation. In the wake of the Covid-19 pandemic, it has become common for folks to urge policy-makers to “follow the science”. But what […]
+The post “Follow the Science” Might Not Mean What You Think It Means appeared first on Econlib.]]></summary>
+        <author>
+            <name>Bryan Caplan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Replace Govt As Career Agent]]></title>
         <id>https://www.overcomingbias.com/?p=32884</id>
@@ -35,6 +46,19 @@ The post NPR Panel on Capitalism appeared first on Econlib.]]></summary>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>The Roots of Progress</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Being a Loser, or Should you Start a Blog?]]></title>
+        <id>https://applieddivinitystudies.com/loser/</id>
+        <link href="https://applieddivinitystudies.com/loser/"/>
+        <updated>2021-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<br />
+
+<blockquote>
+<p>Social media is just the market’s answer to a generation that demands to perform. So the market said “Here: perform]]></summary>
+        <author>
+            <name>Applied Divinity Studies</name>
         </author>
     </entry>
     <entry>

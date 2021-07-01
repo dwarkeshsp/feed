@@ -6,6 +6,15 @@
       "siteUrl": "https://applieddivinitystudies.com/atom.xml",
       "articles": [
         {
+          "id": "https://applieddivinitystudies.com/loser/",
+          "author": null,
+          "description": "<br />\n\n<blockquote>\n<p>Social media is just the market’s answer to a generation that demands to perform. So the market said “Here: perform",
+          "link": "https://applieddivinitystudies.com/loser/",
+          "publishedOn": "2021-06-29T00:00:00.000Z",
+          "wordCount": 1259,
+          "title": "On Being a Loser, or Should you Start a Blog?"
+        },
+        {
           "id": "https://applieddivinitystudies.com/kanye/",
           "author": null,
           "description": "<p>While critics were busy calling him lost and confused, Kanye was writing <em>Ye</em>, <a href=\"https://en.wikipedia.org/wiki/Ye_(album)\">",
@@ -3422,6 +3431,15 @@
       "feedUrl": "https://www.econlib.org/author/bcaplan/feed/",
       "siteUrl": "https://www.econlib.org",
       "articles": [
+        {
+          "id": "https://www.econlib.org/?p=55636",
+          "author": "Bryan Caplan",
+          "description": "Here’s a guest post by ASU’s Richard Hahn, reprinted with his permission.  I suspect he’d be happy to respond to comments! The problem with punchy slogans is that they are subject to (mis)interpretation. In the wake of the Covid-19 pandemic, it has become common for folks to urge policy-makers to “follow the science”. But what […]\nThe post “Follow the Science” Might Not Mean What You Think It Means appeared first on Econlib.",
+          "link": "https://www.econlib.org/follow-the-science-might-not-mean-what-you-think-it-means/?utm_source=rss&utm_medium=rss&utm_campaign=follow-the-science-might-not-mean-what-you-think-it-means",
+          "publishedOn": "2021-06-30T14:49:33.000Z",
+          "wordCount": 2304,
+          "title": "“Follow the Science” Might Not Mean What You Think It Means"
+        },
         {
           "id": "https://www.econlib.org/?p=55637",
           "author": "Bryan Caplan",
